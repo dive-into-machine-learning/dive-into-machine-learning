@@ -60,7 +60,7 @@ Play along with at least one of these ipython notebooks. Pick one about a proble
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
 
-# Take the plunge: deeper dives and coursework
+# Dive Deeper, Take Courses
 
 ## Cheat sheets
 
