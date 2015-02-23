@@ -5,7 +5,7 @@ Hi there! This guide is for you:
 
 I learned Python by diving in, hacking, and *then* getting serious. If this is your style, join me in getting a bit ahead of yourself. Bite off more than you can chew, just until you get yourself an appetite for more. Then you can study in earnest, and start in on one of the great, freely accessible courses.
 
-(TODO one-sentence note about Data fields http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+(TODO one-sentence note about fields of work within Data  http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 # Get your feet wet!
 
@@ -60,23 +60,7 @@ Play along with at least one of these ipython notebooks. Pick one about a proble
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
 
-# Dive Deeper, Take Courses
-
-## Cheat sheets
-
-Bookmark these cheat sheets:
-
-- [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mindmap of machine learning concepts, with great detail on each.
-
-## (Learn Pandas)
-
-If you're focusing on Python, you should get more familiar with Pandas.
-
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (ipython notebook)
-
-Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit)
+# Dive Deeper: Coursework
 
 ## Your main course
 
@@ -91,6 +75,22 @@ TODO ipython notebook courses... (reiterate)
 
 
 Lastly, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
+
+## (Learn Pandas)
+
+If you're focusing on Python, you should get more familiar with Pandas.
+
+* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (ipython notebook)
+
+Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit)
+
+## Cheat sheets
+
+Bookmark these cheat sheets:
+
+- [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+- [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
 
 ## More specialized material
 
@@ -107,7 +107,7 @@ Extremely accessible data science book: [_Data Smart_ by John Foreman](http://ww
 
 For specialized knowledge on Natural Language Processing, Distributed Systems (Hadoop Ecosystem), Apache Spark, Graphical Models, Ensemble Methods, Structured Prediction, Hyper Parameter Optimization, GPU Acceleration, Computer Vision, Reinforcement Learning, Visualization...
 
-... check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) (see the "deeper dive" section).
+... check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) (go to "deeper dive" section).
 
 
 ## Questions, answers, chats
