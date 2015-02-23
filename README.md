@@ -66,7 +66,7 @@ Play along with at least one of these ipython notebooks. Pick one about a proble
 
 **[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is the de facto standard online course on the topic.**
 
-It's helpful if you decide on a (pet) project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). ipython notebook is your friend.
+It's helpful if you decide on a (pet) project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, ipython notebook is your friend.
 
 
 TODO Pedro Domingos had some stuff on his ~page yeah?
@@ -152,7 +152,7 @@ He complained about the way they were scoring the performance of their radio fea
 
 ### Machine Learning in InfoSec and AppSec
 
-TODO add link to BlackHat webinar, "Secure because Math"
+There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [there](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210)
 
 
 ## Scaling doesn't have to be scary
