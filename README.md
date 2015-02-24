@@ -157,11 +157,17 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 
 ## Scaling doesn't have to be scary
 
-If your data is very big, NetflixOSS has tools for you: **[Netflix: Surus and ScorePMML](http://techblog.netflix.com/2015/01/introducing-surus-and-scorepmml.html)**. Scaling big data is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy things.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) Your solutions to scaling and other computational issues can be simple, and you can do it all with open source tools. NetflixOSS is your friend — their tools are always a good place to start.
+Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
 
-I don't know this ecosystem. But it does seem clear that NetflixOSS and [Apache Spark](https://spark.apache.org/) are two places to look, if you need to do data science at a large scale. ("Big data"?) I mean, hell, [Spark has DataFrames!](http://databricks.com/blog/2015/02/17/introducingdataframes-in-spark-for-large-scale-data-science.html)
+Here are some are some obvious tools to reach for: 
 
-Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
+* **[Apache Spark.](https://spark.apache.org/)**
+	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](http://databricks.com/blog/2015/02/17/introducingdataframes-in-spark-for-large-scale-data-science.html)
+	* Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
+* [NetflixOSS](http://netflix.github.io/#repo) (see "Big Data Tools")
+	* [Netflix: Surus and ScorePMML](http://techblog.netflix.com/2015/01/introducing-surus-and-scorepmml.html)
+	* ["big data" on the NetflixOSS blog](http://techblog.netflix.com/search/label/big%20data)
+
 
 ## Et cetera
 
