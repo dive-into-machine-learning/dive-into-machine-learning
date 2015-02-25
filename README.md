@@ -27,6 +27,8 @@ Follow along with this tutorial. Open up `ipython` and follow along in your inte
 
 You just classified some hand-written digits! Neat huh?
 
+[comment]: <> (TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)
+
 [**scikit-learn**](http://scikit-learn.org/stable/index.html) is a go-to for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is complex, and  you're going to be very glad your tools are simple.
 
 Once you're done with that, I encourage you to look at the [scikit-learn homepage](http://scikit-learn.org/stable/index.html) and spend about 5 minutes looking over the strategies (Classification, Regression, etc.), and their applications and algorithm names. Don't click through yet! Just get a glimpse of the vocabulary.
@@ -46,7 +48,7 @@ This whole paper is packed with meaning in value, but I want to call out two ver
 
 Summarizing these two points, **data** and **knowledge** are the two keys to success. In practice, this means that unless you _have_ to increase complexity, you should continue to [Do Simple Things][]; don't rush to neural networks just because they seem cool. To improve your model, get more data, and use your knowledge (that is, apply your "art," and manipulate the data). You should spend most of your time on these steps. Optimizing your algorithm should only come after that.
 
-TODO add Pyramid screenshot from powerpoint (see Desktop on work computer...) && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
+[comment]: <> (TODO add Pyramid screenshot from powerpoint (see Desktop on work computer...) && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf)
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
@@ -58,12 +60,12 @@ Take a moment to subscribe to **[Talking Machines](http://www.thetalkingmachines
 
 Play along with at least one of these ipython notebooks. Pick one about a problem you're interested in!
 
-- todo add titanic ones you played with
-- todo add more from https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science
-- todo add more from http://nb.bianp.net/sort/views/
 - ClickSecurity's "data hacking" series (thanks Aaron Baillargeon!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
+- **TODO** add titanic ones you played with
+- **TODO** add more from https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science
+- **TODO** add more from http://nb.bianp.net/sort/views/
 - [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
 - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
 - Data science (TODO - should these be moved down to special section...? i.e. I think all these notebooks up here should be the IMMERSIVE ones?)
