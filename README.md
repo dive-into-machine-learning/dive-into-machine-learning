@@ -3,9 +3,9 @@ Hi there! This guide is for you:
 * You're new to Machine Learning
 * You can understand and write Python code. (If you want to learn Python, try [Dive Into Python.](http://www.diveintopython.net/))
 
-I learned Python by diving in, hacking, and *then* getting serious. If this is your style, join me in getting a bit ahead of yourself. Bite off more than you can chew, just until you get yourself an appetite for more. Then you can study in earnest, and start in on one of the great, freely accessible courses.
+I learned Python by diving in, hacking, and *then* getting serious. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-(TODO one-sentence note about fields of work within Data  http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+Note: there are several fields within "Data," and Machine Learning is just one. It's good to know the context. [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 # Get your feet wet!
 
