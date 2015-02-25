@@ -105,7 +105,7 @@ Extremely accessible data science book: [_Data Smart_ by John Foreman](http://ww
 
 ### Many more specialized topics
 
-For specialized knowledge on Natural Language Processing, Distributed Systems (Hadoop Ecosystem), Apache Spark, Graphical Models, Ensemble Methods, Structured Prediction, Hyper Parameter Optimization, GPU Acceleration, Computer Vision, Reinforcement Learning, Visualization...
+For specialized knowledge on [Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk), [Apache Spark](https://spark.apache.org/examples.html), [Natural Language Processing](http://www.nltk.org/), Distributed Systems (Hadoop Ecosystem), Graphical Models, Ensemble Methods, Structured Prediction, Hyper Parameter Optimization, GPU Acceleration, Computer Vision, Reinforcement Learning, Visualization...
 
 ... check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) (go to "deeper dive" section).
 
@@ -155,7 +155,7 @@ He complained about the way they were scoring the performance of their radio fea
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [there](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210)
 
 
-## Scaling doesn't have to be scary
+## Big Data?
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
 
