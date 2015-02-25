@@ -27,7 +27,7 @@ Follow along with this tutorial. Open up `ipython` and follow along in your inte
 
 You just classified some hand-written digits! Neat huh?
 
-[comment]: <> (TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)
+(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)
 
 [**scikit-learn**](http://scikit-learn.org/stable/index.html) is a go-to for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is complex, and  you're going to be very glad your tools are simple.
 
@@ -48,7 +48,7 @@ This whole paper is packed with meaning in value, but I want to call out two ver
 
 Summarizing these two points, **data** and **knowledge** are the two keys to success. In practice, this means that unless you _have_ to increase complexity, you should continue to [Do Simple Things][]; don't rush to neural networks just because they seem cool. To improve your model, get more data, and use your knowledge (that is, apply your "art," and manipulate the data). You should spend most of your time on these steps. Optimizing your algorithm should only come after that.
 
-[comment]: <> (TODO add Pyramid screenshot from powerpoint (see Desktop on work computer...) && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf)
+(TODO add Pyramid screenshot from powerpoint (see Desktop on work computer... && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf )
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
