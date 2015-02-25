@@ -17,7 +17,7 @@ I suggest you get your feet wet ASAP. It'll help you navigate and boost your con
 - [ipython](http://ipython.org/install.html), the best interactive prompt (and much more) — it's part of the reason scientists love Python. `pip install "ipython[notebook]"`
 - Some scientific computing packages: `pip install scikit-learn pandas matplotlib numpy`
 
-If you're only using Python for scientific computing, try [Anaconda](https://store.continuum.io/cshop/anaconda/) and grab it all in one package.
+If you're only using Python for scientific computing, you can grab these tools in one convenient package: [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 ## Let's go!
 
@@ -37,12 +37,16 @@ Once you're done with that, I encourage you to look at the [scikit-learn homepag
 
 This is the best single thing you can do, to start studying machine learning: read **[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in. (Thanks to Mansi Sheth for this resource.)
 
-Take your time with this one. Take notes. It's your foundation.
+Take your time with this one. Take notes.
 
-Every section in this paper is packed with meaning in value, but I want to call out two very important headers:
+This whole paper is packed with meaning in value, but I want to call out two very important points:
 
 - **Data alone is not enough.** This is where "art" meets "science" in machine-learning. Quoting Domingos: "... the need for knowledge in learning should not be surprising. Machine learning is not magic; it can’t get something from nothing. What it does is get more from less. Programming, like all engineering, is a lot of work: we have to build everything from scratch. Learning is more like farming, which lets nature do most of the work. Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs."
-- **More data beats a cleverer algorithm.** This is important to programmers. We like cool tools (otherwise you wouldn't be reading this). But especially in ML, we your starting point is to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). And until you _have_ to increase complexity, you should continue to [Do Simple Things][]. Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
+- **More data beats a cleverer algorithm.** This is important to programmers. We like cool tools, sometimes even when they're the _wrong_ tools. But especially in ML, your starting point should be to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
+
+Summarizing these two points, **data** and **knowledge** are the two keys to success. In practice, this means that unless you _have_ to increase complexity, you should continue to [Do Simple Things][]; don't rush to neural networks just because they seem cool. To improve your model, get more data, and use your knowledge (that is, apply your "art," and manipulate the data). You should spend most of your time on these steps. Optimizing your algorithm should only come after that.
+
+TODO add Pyramid screenshot from powerpoint (see Desktop on work computer...) && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
@@ -52,38 +56,51 @@ Take a moment to subscribe to **[Talking Machines](http://www.thetalkingmachines
 
 ## Play to learn
 
-Play along with at least one of these ipython notebooks. Pick one about a problem you're interested in! These are (almost) all from the [ipython notebook showcase](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+Play along with at least one of these ipython notebooks. Pick one about a problem you're interested in!
 
-- todo
-- todo
+- todo add titanic ones you played with
+- todo add more from https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science
+- todo add more from http://nb.bianp.net/sort/views/
 - ClickSecurity's "data hacking" series (thanks Aaron Baillargeon!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
+- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
+- [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
+- Data science (TODO - should these be moved down to special section...? i.e. I think all these notebooks up here should be the IMMERSIVE ones?)
+	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
+	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+
+There are more places to find great ipython notebooks:
+
+* [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
+* http://nb.bianp.net/sort/views/
 
 # Dive Deeper: Coursework
 
 ## Your main course
 
-**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is the de facto standard online course on the topic.**
+**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is the free online course I see recommended the most.**
 
-It's helpful if you decide on a (pet) project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, ipython notebook is your friend.
+It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, ipython notebook is your friend.
 
+Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
 
-TODO Pedro Domingos had some stuff on his ~page yeah?
+### Alternative main courses
 
-TODO ipython notebook courses... (reiterate)
+Other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/):
 
+* [Advanced Statistical Computing (Vanderbilt, BIOS366)](http://stronginference.com/Bios366/lectures.html) -- great option, highly interactive (lots of ipython notebook)
+* [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
+* [Data Science (General Assembly)](https://github.com/justmarkham/DAT3)
 
-Lastly, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
-
-## (Learn Pandas)
+## Learn Pandas well
 
 If you're focusing on Python, you should get more familiar with Pandas.
 
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (ipython notebook)
 
-Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit)
+Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0)
 
 ## Cheat sheets
 
@@ -92,31 +109,24 @@ Bookmark these cheat sheets:
 - [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
 
-## More specialized material
+## More topics
 
 ### Data Science
 
-Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html) 
-
-[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)
-
-[Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article & the comment by Joseph McCarthy)
+* **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
+* Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html) 
+* [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article & the comment by Joseph McCarthy)
 
 
 ### Many more specialized topics
 
-For specialized knowledge on [Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk), [Apache Spark](https://spark.apache.org/examples.html), [Natural Language Processing](http://www.nltk.org/), Distributed Systems (Hadoop Ecosystem), Graphical Models, Ensemble Methods, Structured Prediction, Hyper Parameter Optimization, GPU Acceleration, Computer Vision, Reinforcement Learning, Visualization...
-
-... check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) (go to "deeper dive" section).
-
+Check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0) for specialized knowledge on many topics... including [Ensemble Methods](http://www.quora.com/How-do-random-forests-work-in-laymans-terms), [Apache Spark](https://spark.apache.org/examples.html), [Neural Networks](https://www.coursera.org/course/neuralnets), [Reinforcement Learning](http://pybrain.org/), [Natural Language Processing](https://nltk.org) ([RNN](https://github.com/IndicoDataSolutions/Passage), [LDA](http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/), [Word2Vec](http://radimrehurek.com/2014/02/word2vec-tutorial/)), [Structured Prediction](https://pystruct.github.io/), [Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk), [Distributed Systems (Hadoop Ecosystem)](http://web.stanford.edu/class/cs246/), Graphical Models ([Hidden Markov Models](http://www.autonlab.org/tutorials/hmm.html)), [Hyper Parameter Optimization](https://github.com/hyperopt/hyperopt), [GPU Acceleration (Theano)](http://deeplearning.net/software/theano/tutorial/using_gpu.html), [Computer Vision](http://deeplearning.net/tutorial/lenet.html), Internet of Things, and Visualization.
 
 ## Questions, answers, chats
 
-For now, the best StackExchange site is  [stats.stackexchange.com – _machine-learning_.](http://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](http://datascience.stackexchange.com/), but it's still in Beta.)
+For now, the best StackExchange site is  [stats.stackexchange.com – _machine-learning_.](http://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](http://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelarning](http://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
-Don't forget about [Quora](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1).
-
-If you're playing with scikit-learn, [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
+You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
 
 
 
@@ -168,6 +178,7 @@ Here are some are some obvious tools to reach for:
 	* [Netflix: Surus and ScorePMML](http://techblog.netflix.com/2015/01/introducing-surus-and-scorepmml.html)
 	* ["big data" on the NetflixOSS blog](http://techblog.netflix.com/search/label/big%20data)
 
+Also: [10 things statistics taught us about big data analysis](http://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/)
 
 ## Et cetera
 
