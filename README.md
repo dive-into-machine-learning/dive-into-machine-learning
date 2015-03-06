@@ -5,11 +5,11 @@ Hi there! This guide is for you:
 
 I learned Python by diving in, hacking, and *then* getting serious. I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-Note: there are several fields within "Data," and Machine Learning is just one. It's good to know the context. [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+_Note:_ There are several fields within "Data," and Machine Learning is just one. It's good to know the context: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 # Get your feet wet!
 
-I suggest you get your feet wet ASAP. It'll help you navigate and boost your confidence.
+I suggest you get your feet wet ASAP. You'll boost your confidence.
 
 ## Tools you'll need
 
@@ -21,44 +21,48 @@ If you're only using Python for scientific computing, you can grab these tools i
 
 ## Let's go!
 
-Follow along with this tutorial. Open up `ipython` and follow along in your interactive prompt. It's a brief exercise and it'll really boost your confidence.
+Follow along with this tutorial: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Open up `ipython` and follow along in your interactive prompt. It's a brief exercise and it'll really boost your confidence. `(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)`
 
-**[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**
+I'll wait...
 
-You just classified some hand-written digits! Neat huh?
+## What just happened?
 
-(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)
+You just classified some hand-written digits using [scikit-learn](). Neat huh?
 
-[**scikit-learn**](http://scikit-learn.org/stable/index.html) is a go-to for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is complex, and  you're going to be very glad your tools are simple.
+[scikit-learn] is the go-to library for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is complex. You'll be glad your tools are simple.
 
-Once you're done with that, I encourage you to look at the [scikit-learn homepage](http://scikit-learn.org/stable/index.html) and spend about 5 minutes looking over the strategies (Classification, Regression, etc.), and their applications and algorithm names. Don't click through yet! Just get a glimpse of the vocabulary.
+[scikit-learn]: http://scikit-learn.org/stable/index.html
+
+I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications Don't click through yet! Just get a glimpse of the vocabulary.
 
 # Immerse yourself
 
 ## A Few Useful Things to Know about Machine Learning
 
-This is the best single thing you can do, to start studying machine learning: read **[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in. (Thanks to Mansi Sheth for this resource.)
+Read **[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in. (Thanks to Mansi Sheth for this resource.)
 
-Take your time with this one. Take notes.
+Take your time with this one. Take notes. Don't worry if you don't understand it all yet.
 
-This whole paper is packed with meaning in value, but I want to call out two very important points:
+The whole paper is packed with value, but I want to call out two points:
 
-- **Data alone is not enough.** This is where "art" meets "science" in machine-learning. Quoting Domingos: "... the need for knowledge in learning should not be surprising. Machine learning is not magic; it can’t get something from nothing. What it does is get more from less. Programming, like all engineering, is a lot of work: we have to build everything from scratch. Learning is more like farming, which lets nature do most of the work. Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs."
-- **More data beats a cleverer algorithm.** This is important to programmers. We like cool tools, sometimes even when they're the _wrong_ tools. But especially in ML, your starting point should be to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
+- **Data alone is not enough.** This is where science meets art in machine-learning. Quoting Domingos: "... the need for knowledge in learning should not be surprising. Machine learning is not magic; it can’t get something from nothing. What it does is get more from less. Programming, like all engineering, is a lot of work: we have to build everything from scratch. Learning is more like farming, which lets nature do most of the work. Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs."
+- **More data beats a cleverer algorithm.** Listen up, programmers. We like cool tools. Resist the temptation to reinvent the wheel, or to over-engineer solutions. Your starting point is to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
 
-Summarizing these two points, **data** and **knowledge** are the two keys to success. In practice, this means that unless you _have_ to increase complexity, you should continue to [Do Simple Things][]; don't rush to neural networks just because they seem cool. To improve your model, get more data, and use your knowledge (that is, apply your "art," and manipulate the data). You should spend most of your time on these steps. Optimizing your algorithm should only come after that.
+So  **knowledge** and **data** are critical. Focus your efforts on those, before fussing about algorithms. In practice, this means that unless you _have_ to increase complexity, you should continue to [Do Simple Things]; don't rush to neural networks just because they're cool. To improve your model, get more data  and use your knowledge of the problem to manipulate the data. You should spend most of your time on these steps. Only optimize your choice of algorithms after you've got enough data, and you've processed it well.
 
-(TODO add Pyramid screenshot from powerpoint (see Desktop on work computer... && credit that it was inspired by https://www.blackhat.com/docs/webcast/02192015-secure-because-math.pdf )
+![What has the most impact in Machine Learning](http://i1381.photobucket.com/albums/ah240/hangtwenty/Screen%20Shot%202015-03-05%20at%2010.08.10%20PM_zpsqnljkqt5.png)
+
+(The image above was inspired by a slide from [this talk](https://www.blackhat.com/docs/webcast/02192015-dsecure-because-math.pdf).)
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
 ## Talking Machines
 
-Take a moment to subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podcast about machine learning. It's very good, especially for a technical podcast. It's not essential, but it's a low-effort, high-yield way to learn more.
+Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podcast about machine learning. It's great. It's a low-effort, high-yield way to learn more.
 
 ## Play to learn
 
-Play along with at least one of these ipython notebooks. Pick one about a problem you're interested in!
+Pick one of these ipython notebooks and play along.
 
 - ClickSecurity's "data hacking" series (thanks Aaron Baillargeon!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
@@ -155,12 +159,12 @@ And a few more articles:
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
-### An anecdote from a Data Engineer at a Popular Music Streaming Service
-I have a friend who was a Data Engineer at `<Redacted>` Music Streaming Service. His team focused on the machine learning they used for their recommendation systems and such.
+### An anecdote from a Popular Music Streaming Service
+I have a friend who worked at `<Redacted>` Music Streaming Service. This company used machine learning in their recommendation and radio services.
 
-He complained about the way they were scoring the performance of their radio feature. He said there was disagreement and worse, lack of specification, around what should be scored. He told me, they were using "no song skips" to score a recommendation as good. But why? He said, sure that indicates the recommendation wasn't *awful*, but his opinion was that you want to measure engagement: "favorites," how long they listen to this radio station, whether they come back to this station. He said measuring "no skips" doesn't work for an engaged listener; sure, they skipped 5 songs, but they found 20 they loved (and came back to the service to listen to). He asked, are we trying to please the discerning, engaged listener, or the inattentive one?
+He complained about the way the company scored the radio feature's performance. There was disagreement and fuzzy specification about what should be scored. Their main metric was "no song skips." But why? Sure that indicates the recommendation wasn't *awful*, what if you want to measure engagement? Other metrics could measure positive engagement: "favorites," shares, listening time, or whether the listener returns to the radio station later. Measuring "no skips" might work for the passive listener, but the engaged listener is different. The engaged listener skips 5 songs, but but finds 20 they love and comes back to the radio station (and the streaming service) later.
 
-**My takeaway:** if you're using machine learning to benefit your users, you need to understand them. And you need to understand *which kind* of user you're trying to benefit, before you can score the performance of your models.
+**My takeaway:** if you use machine learning to benefit your users, you must understand your users. You must understand *which kind* of user you're trying to benefit. Without the right measurement, you can't optimize your performance.
 
 ### Machine Learning in InfoSec and AppSec
 
