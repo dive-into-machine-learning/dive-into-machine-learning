@@ -14,14 +14,16 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 ## Tools you'll need
 
 - [Python](https://www.python.org/downloads/). (I'm using 2.7.5) and [pip](https://pip.pypa.io/en/latest/installing.html), the Python package manager
-- [ipython](http://ipython.org/install.html), the best interactive prompt (and much more) — it's part of the reason scientists love Python. `pip install "ipython[notebook]"`
+- [ipython](http://ipython.org/install.html) and ipython notebook. `pip install "ipython[notebook]"`
 - Some scientific computing packages: `pip install scikit-learn pandas matplotlib numpy`
 
 If you're only using Python for scientific computing, you can grab these tools in one convenient package: [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 ## Let's go!
 
-Follow along with this tutorial: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Open up `ipython` and follow along in your interactive prompt. It's a brief exercise and it'll really boost your confidence. `(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)`
+**[Learn how to use ipython notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
+
+ `(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)` (Follow along with this tutorial: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Open up `ipython` and follow along in your interactive prompt. It's a brief exercise and it'll really boost your confidence)
 
 I'll wait...
 
