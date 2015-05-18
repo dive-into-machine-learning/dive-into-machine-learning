@@ -14,16 +14,16 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 ## Tools you'll need
 
 - [Python](https://www.python.org/downloads/). (I'm using 2.7.5) and [pip](https://pip.pypa.io/en/latest/installing.html), the Python package manager
-- [ipython](http://ipython.org/install.html) and ipython notebook. `pip install "ipython[notebook]"`
+- [ipython](http://ipython.org/install.html) and IPython Notebook. `pip install "ipython[notebook]"`
 - Some scientific computing packages: `pip install scikit-learn pandas matplotlib numpy`
 
 If you're only using Python for scientific computing, you can grab these tools in one convenient package: [Anaconda](https://store.continuum.io/cshop/anaconda/).
 
 ## Let's go!
 
-**[Learn how to use ipython notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
+**[Learn how to use IPython Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
- `(TODO -- convert that hand-written digits tutorial into a very simple, basically equivalent ipython notebook, just to be consistent...)` (Follow along with this tutorial: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Open up `ipython` and follow along in your interactive prompt. It's a brief exercise and it'll really boost your confidence)
+Now, follow along with this brief exercise (10 minutes): **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or IPython Notebook. It'll really boost your confidence.
 
 I'll wait...
 
@@ -64,24 +64,27 @@ Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podca
 
 ## Play to learn
 
-Pick one of these ipython notebooks and play along.
+Pick **one** of these IPython Notebooks and play along. (Or maybe two. But move onto your main course afterward!)
 
-- ClickSecurity's "data hacking" series (thanks Aaron Baillargeon!)
+- [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.ipython.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
+- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
+- [Election Forecasting](https://github.com/jseabold/538model): A replication of the model Nate Silver used to make [predictions about the 2012 US Presidential Election for the New York Times](http://fivethirtyeight.blogs.nytimes.com/fivethirtyeights-2012-forecast/))
+- ClickSecurity's "data hacking" series (thanks [Aaron](http://github.com/hummus))
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
-- **TODO** add titanic ones you played with
-- **TODO** add more from https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science
-- **TODO** add more from http://nb.bianp.net/sort/views/
-- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
-- [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
-- Data science (TODO - should these be moved down to special section...? i.e. I think all these notebooks up here should be the IMMERSIVE ones?)
-	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+	- [Java Class File Analysis](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb): is this Java code malicious or benign?
+- [Naive Bayes Classification, some Natural Language Processing with an interesting source text, hah!)](http://nbviewer.ipython.org/github/arnicas/NLP-in-Python/blob/master/4.%20Naive%20Bayes%20Classification.ipynb?utm_campaign=Data_Elixir_22&utm_medium=email&utm_source=Data%2BElixir)
+- [Peter Norvig's "Regex Golf" response to an XKCD strip](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313-part2.ipynb?create=1)
+- Or more generic tutorials/overviews ...
+	- [Tutorial introduction to machine learning with sklearn](http://amueller.github.com/sklearn_tutorial)
+	- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
+	- [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
 
-There are more places to find great ipython notebooks:
+There are more places to find great IPython Notebooks:
 
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
-* http://nb.bianp.net/sort/views/
+* [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
+
 
 # Dive Deeper: Coursework
 
@@ -89,24 +92,27 @@ There are more places to find great ipython notebooks:
 
 **[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is the free online course I see recommended the most.**
 
-It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, ipython notebook is your friend.
+It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
 Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
 
 ### Alternative main courses
 
-Other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/):
+Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
-* [Advanced Statistical Computing (Vanderbilt, BIOS366)](http://stronginference.com/Bios366/lectures.html) -- great option, highly interactive (lots of ipython notebook)
+* [Advanced Statistical Computing (Vanderbilt, BIOS366)](http://stronginference.com/Bios366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
 * [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
 * [Data Science (General Assembly)](https://github.com/justmarkham/DAT3)
+* Data science courses as IPython Notebooks:
+	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
+	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 
 ## Learn Pandas well
 
 If you're focusing on Python, you should get more familiar with Pandas.
 
 * [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (ipython notebook)
+* [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
 
 Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0)
 
@@ -124,14 +130,15 @@ Bookmark these cheat sheets:
 * **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
 * Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html) 
 * [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article & the comment by Joseph McCarthy)
+*  Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 
 
 ### Many more specialized topics
 
 Check out [Gideon Wulfsohn](http://gideon.ml/)'s [**excellent** introduction to Machine Learning](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0) for specialized knowledge on many topics... including [Ensemble Methods](http://www.quora.com/How-do-random-forests-work-in-laymans-terms), [Apache Spark](https://spark.apache.org/examples.html), [Neural Networks](https://www.coursera.org/course/neuralnets), [Reinforcement Learning](http://pybrain.org/), [Natural Language Processing](https://nltk.org) ([RNN](https://github.com/IndicoDataSolutions/Passage), [LDA](http://bugra.github.io/work/notes/2015-02-21/topic-modeling-for-the-uninitiated/), [Word2Vec](http://radimrehurek.com/2014/02/word2vec-tutorial/)), [Structured Prediction](https://pystruct.github.io/), [Deep Learning](https://www.youtube.com/watch?v=S75EdAcXHKk), [Distributed Systems (Hadoop Ecosystem)](http://web.stanford.edu/class/cs246/), Graphical Models ([Hidden Markov Models](http://www.autonlab.org/tutorials/hmm.html)), [Hyper Parameter Optimization](https://github.com/hyperopt/hyperopt), [GPU Acceleration (Theano)](http://deeplearning.net/software/theano/tutorial/using_gpu.html), [Computer Vision](http://deeplearning.net/tutorial/lenet.html), Internet of Things, and Visualization.
 
-Here's an ipython notebook book about [Probabilistic Programming
-and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb).
+Here's an IPython Notebook book about [Probabilistic Programming
+and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): "An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view."
 
 ## Questions, answers, chats
 
