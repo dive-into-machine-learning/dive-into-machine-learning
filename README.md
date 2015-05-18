@@ -73,8 +73,6 @@ Pick **one** of these IPython Notebooks and play along. (Or maybe two. But move 
 	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
 	- [Java Class File Analysis](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb): is this Java code malicious or benign?
-- [Naive Bayes Classification, some Natural Language Processing with an interesting source text, hah!)](http://nbviewer.ipython.org/github/arnicas/NLP-in-Python/blob/master/4.%20Naive%20Bayes%20Classification.ipynb?utm_campaign=Data_Elixir_22&utm_medium=email&utm_source=Data%2BElixir)
-- [Peter Norvig's "Regex Golf" response to an XKCD strip](http://nbviewer.ipython.org/url/norvig.com/ipython/xkcd1313-part2.ipynb?create=1)
 - Or more generic tutorials/overviews ...
 	- [Tutorial introduction to machine learning with sklearn](http://amueller.github.com/sklearn_tutorial)
 	- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
