@@ -35,7 +35,7 @@ You just classified some hand-written digits using [scikit-learn](). Neat huh?
 
 [scikit-learn]: http://scikit-learn.org/stable/index.html
 
-I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications Don't click through yet! Just get a glimpse of the vocabulary.
+I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
 
 # Immerse yourself
 
