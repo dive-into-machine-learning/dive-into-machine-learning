@@ -109,10 +109,17 @@ Here are some other free online courses I've [seen recommended](https://docs.goo
 
 If you're focusing on Python, you should get more familiar with Pandas.
 
-* [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
+* **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+* **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
+* [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
+* Here are some docs I found especially helpful as I continued learning:
+	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
+	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
+	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
+	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](http://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
+	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
+	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
 
-Thanks [Gideon Wulfsohn](http://gideon.ml/) for [organizing these resources!](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0)
 
 ## Cheat sheets
 
