@@ -98,6 +98,7 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [paperwork on HN.](https://news.ycombinator.com/item?id=9563501))
 * [Advanced Statistical Computing (Vanderbilt, BIOS366)](http://stronginference.com/Bios366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
 * [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
 * [Data Science (General Assembly)](https://github.com/justmarkham/DAT3)
