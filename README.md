@@ -64,8 +64,8 @@ Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podca
 
 I suggest this listening order:
 
-* Start with the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering (vs. choice of algorithm). Feature engineering is an exercise of the "knowledge" Domingos writes about.
-* Then, start from the first episode :)
+* Start with the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about.
+* Then, start over from the first episode
 
 ## Play to learn
 
