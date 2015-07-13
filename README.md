@@ -219,6 +219,7 @@ For Machine-Learning libraries that might not be on GitHub, there's [MLOSS (Mach
 
 Lastly, here are other guides to Machine Learning:
 
+* [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/) by Jack Simpson
 * [How to Machine Learn](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) by [Gideon Wulfsohn](http://gwulfs.github.io/)
 	* Features links to find meetups about ML
 	* Features links to "deeper dive" specialized topics
