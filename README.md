@@ -54,7 +54,7 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 ![What has the most impact in Machine Learning](http://i1381.photobucket.com/albums/ah240/hangtwenty/Screen%20Shot%202015-03-05%20at%2010.08.10%20PM_zpsqnljkqt5.png)
 
-(The image above was inspired by a slide from [this talk](https://www.blackhat.com/docs/webcast/02192015-dsecure-because-math.pdf).)
+(The image above was inspired by a slide from [Alex Pinto's talk, "Secure Because Math: A Deep-Dive on ML-Based Monitoring](https://www.youtube.com/watch?v=TYVCVzEJhhQ).)
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
