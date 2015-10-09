@@ -185,11 +185,12 @@ And a few more articles:
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
 ### An anecdote from a Popular Music Streaming Service
-I have a friend who worked at `<Redacted>` Music Streaming Service. This company used machine learning in their recommendation and radio services.
 
-He complained about the way the company scored the radio feature's performance. There was disagreement and fuzzy specification about what should be scored. Their main metric was "no song skips." But why? Sure that indicates the recommendation wasn't *awful*, what if you want to measure engagement? Other metrics could measure positive engagement: "favorites," shares, listening time, or whether the listener returns to the radio station later. Measuring "no skips" might work for the passive listener, but the engaged listener is different. Perhaps the engaged listener will skip 5 songs, but find 20 songs they love and come back to the service later.
+If you're using machine learning for unscientific reasons, like benefiting users ... as always you've got to keep your users in mind.
 
-**My takeaway:** if you use machine learning to benefit your users, you must understand your users. You must understand *which kind* of user you're trying to benefit. Without the right measurement, you can't optimize your performance.
+I have a friend who worked at `<Redacted>` Music Streaming Service. This company used machine learning in their recommendation and radio services. He complained about the way the company scored the radio feature's performance. There was disagreement about what should be scored. They used a metric, "no song skips." But why? Sure that indicates the recommendation wasn't *awful*, what if you want to measure engagement? Other metrics could measure positive engagement: "favorites," shares, listening time, or whether the listener returns to the radio station later. Measuring "no skips" might work for the passive listener, but the engaged listener is different. Perhaps the engaged listener will skip 5 songs, but find 20 songs they love and come back to the service later.
+
+**My takeaway:** if you use machine learning to benefit your users, you must understand your users. You must understand *which kind* of user you're trying to benefit. Without the right measurement, you can't optimize your users' experiences.
 
 ### Machine Learning in InfoSec and AppSec
 
@@ -219,6 +220,7 @@ For Machine-Learning libraries that might not be on GitHub, there's [MLOSS (Mach
 
 Lastly, here are other guides to Machine Learning:
 
+* [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is another good introduction. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/) by Jack Simpson
 * [How to Machine Learn](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) by [Gideon Wulfsohn](http://gwulfs.github.io/)
 	* Features links to find meetups about ML
