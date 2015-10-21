@@ -225,4 +225,5 @@ Lastly, here are other guides to Machine Learning:
 * [How to Machine Learn](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) by [Gideon Wulfsohn](http://gwulfs.github.io/)
 	* Features links to find meetups about ML
 	* Features links to "deeper dive" specialized topics
+* [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): Provides an example of what a Python machine learning notebook would look like. Plenty of useful code snippets.
 * [Your guide here]
