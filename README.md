@@ -204,7 +204,7 @@ Scaling data analysis is a familiar problem now, and there's no shortage of ways
 Here are some obvious tools to reach for: 
 
 * **[Apache Spark.](https://spark.apache.org/)**
-	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](http://databricks.com/blog/2015/02/17/introducingdataframes-in-spark-for-large-scale-data-science.html)
+	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](http://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
 	* Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
 * [NetflixOSS](http://netflix.github.io/#repo) (see "Big Data Tools")
 	* [Netflix: Surus and ScorePMML](http://techblog.netflix.com/2015/01/introducing-surus-and-scorepmml.html)
