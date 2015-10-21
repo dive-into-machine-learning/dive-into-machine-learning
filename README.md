@@ -14,7 +14,7 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 ## Tools you'll need
 
 - [Python 3](https://www.python.org/)
-- [IPython](http://ipython.org/) and the Jupyter Notebook
+- [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
 - Some scientific computing packages: numpy, pandas, scikit-learn, and matplotlib
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads).
