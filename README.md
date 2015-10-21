@@ -13,11 +13,11 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 
 ## Tools you'll need
 
-- [Python](https://www.python.org/downloads/). (I'm using 2.7.5) and [pip](https://pip.pypa.io/en/latest/installing.html), the Python package manager
-- [ipython](http://ipython.org/install.html) and IPython Notebook. `pip install "ipython[notebook]"`
-- Some scientific computing packages: `pip install scikit-learn pandas matplotlib numpy`
+- [Python 3](https://www.python.org/)
+- [IPython](http://ipython.org/) and the Jupyter Notebook
+- Some scientific computing packages: numpy, pandas, scikit-learn, and matplotlib
 
-If you're only using Python for scientific computing, you can grab these tools in one convenient package: [Anaconda](https://store.continuum.io/cshop/anaconda/).
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads).
 
 ## Let's go!
 
