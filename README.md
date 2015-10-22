@@ -112,6 +112,7 @@ Here are some other free online courses I've [seen recommended](https://docs.goo
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
+* (Not free) Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience): "A nine-course introduction to data science, developed and taught by leading professors."
 
 ## Learn Pandas well
 
@@ -140,6 +141,7 @@ Bookmark these cheat sheets:
 
 ### Data Science
 
+* (Not free) Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience): "A nine-course introduction to data science, developed and taught by leading professors."
 * **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
 * Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html) 
 * [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article & the comment by Joseph McCarthy)
