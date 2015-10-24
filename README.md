@@ -137,6 +137,7 @@ Bookmark these cheat sheets:
 
 - [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
+- [Matplotlib / Pandas / Python cheat sheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M). By @Mark_Graph(https://twitter.com/Mark_Graph)
 
 ## More topics
 
