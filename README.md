@@ -31,7 +31,7 @@ If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 j
 
 Now, follow along with this brief exercise (10 minutes): **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or IPython Notebook. It'll really boost your confidence.
 
-I'll wait...
+![I'll wait.](http://i.imgur.com/nqn3pVV.jpg)
 
 ## What just happened?
 
