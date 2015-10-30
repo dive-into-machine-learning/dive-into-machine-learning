@@ -13,11 +13,17 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 
 ## Tools you'll need
 
-- [Python 3](https://www.python.org/)
+- [Python](https://www.python.org/). Python 3 is the best option.
 - [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
-- Some scientific computing packages: numpy, pandas, scikit-learn, and matplotlib
+- Some scientific computing packages:
+	- numpy
+	- pandas
+	- scikit-learn
+	- matplotlib
 
-You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads).
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.continuum.io/downloads). Anaconda is popular in Data Science and Machine Learning communities.
+
+If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 just for this guide. Also, if you're using pip/virtualenv instead of Anaconda, that's alright too! Confer [conda vs. pip vs. virtualenv](http://conda.pydata.org/docs/_downloads/conda-pip-virtualenv-translator.html) if you're curious.
 
 ## Let's go!
 
