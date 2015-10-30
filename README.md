@@ -31,13 +31,13 @@ If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 j
 
 Now, follow along with this brief exercise (10 minutes): **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or IPython Notebook. It'll really boost your confidence.
 
-![I'll wait.](http://i.imgur.com/nqn3pVV.jpg)
+[![I'll wait.](http://i.imgur.com/nqn3pVV.jpg)](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
 ## What just happened?
 
 You just classified some hand-written digits using [scikit-learn](). Neat huh?
 
-[scikit-learn] is the go-to library for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is complex. You'll be glad your tools are simple.
+[scikit-learn] is the go-to library for machine learning in Python. [Some recognizable logos use it, including Spotify and Evernote.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
 
 [scikit-learn]: http://scikit-learn.org/stable/index.html
 
@@ -45,7 +45,17 @@ I encourage you to look at the [scikit-learn] homepage  and spend about 5 minute
 
 # Dive in
 
+## A Visual Introduction to Machine Learning, Part 1
+
+Let's learn a bit more about Machine Learning, and a couple of common ideas and concerns. Read ["A Visual Introduction to Machine Learning, Part 1"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) by [Stephanie Yee](http://twitter.com/stephaniejyee) and [Tony Chu](https://twitter.com/tonyhschu/).
+
+[![A Visual Introduction to Machine Learning, Part 1](http://i.imgur.com/j5fiTBv.gif)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+
+It won't take long. It's a beautiful introduction ... Try not to drool too much!
+
 ## A Few Useful Things to Know about Machine Learning
+
+OK. Let's dive deeper.
 
 Read **[A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in.
 
