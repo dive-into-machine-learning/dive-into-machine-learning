@@ -43,7 +43,7 @@ You just classified some hand-written digits using [scikit-learn](). Neat huh?
 
 I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
 
-# Immerse yourself
+# Dive in
 
 ## A Few Useful Things to Know about Machine Learning
 
@@ -97,17 +97,19 @@ There are more places to find great IPython Notebooks:
 * [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
 
 
-# Dive Deeper: Coursework
+# Immerse yourself
 
-## Your main course
+Pick one of the courses below and do the whole thing.
 
-**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is the free online course I see recommended the most.**
+## Recommended course
+
+**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/course/ml) is a free online course I saw recommendeded often.** I saw many people recommend this course emphatically.
 
 It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
 Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
 
-### Alternative main courses
+## Other courses
 
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
