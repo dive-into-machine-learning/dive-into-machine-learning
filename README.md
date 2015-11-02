@@ -124,14 +124,14 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
 * [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [*paperwork* on HN.](https://news.ycombinator.com/item?id=9563501))
-* Data science courses as IPython Notebooks:
+* **Data science courses as IPython Notebooks:**
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (or [DAT4](https://github.com/justmarkham/DAT4) or  [DAT3](https://github.com/justmarkham/DAT3) ... they are just revisions). Highly interactive.
-* Check out **[this survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding)**. Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't caer about the certificate. The survey also covers **[Harvard's CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
-* [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
-* [Advanced Statistical Computing (Vanderbilt, BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
+* General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (revision of [DAT4](https://github.com/justmarkham/DAT4) and  [DAT3](https://github.com/justmarkham/DAT3)). Highly interactive.
+* Check out **[Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding)**. Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't caer about the certificate. The survey also covers **[Harvard CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
+* [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
+* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
 
 ## Learn Pandas well
 
@@ -180,8 +180,6 @@ and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilisti
 For now, the best StackExchange site is  [stats.stackexchange.com – _machine-learning_.](http://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](http://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelearning](http://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
-
-
 
 # Assorted Opinions and Other Resources
 
