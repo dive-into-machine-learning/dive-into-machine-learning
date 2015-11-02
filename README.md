@@ -123,15 +123,15 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [paperwork on HN.](https://news.ycombinator.com/item?id=9563501))
-* [Advanced Statistical Computing (Vanderbilt, BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
-* [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
-* [Data Science (General Assembly)](https://github.com/justmarkham/DAT3)
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [*paperwork* on HN.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* (Not free) Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience): "A nine-course introduction to data science, developed and taught by leading professors."
+* General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (or [DAT4](https://github.com/justmarkham/DAT4) or  [DAT3](https://github.com/justmarkham/DAT3) ... they are just revisions). Highly interactive.
+* Check out **[this survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding)**. Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't caer about the certificate. The survey also covers **[Harvard's CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
+* [Data Science (Harvard, CS109)](http://cs109.github.io/2014/)
+* [Advanced Statistical Computing (Vanderbilt, BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
 
 ## Learn Pandas well
 
