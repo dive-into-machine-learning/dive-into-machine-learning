@@ -45,7 +45,7 @@ I encourage you to look at the [scikit-learn] homepage  and spend about 5 minute
 
 # Dive in
 
-## A Visual Introduction to Machine Learning, Part 1
+## A Visual Introduction to Machine Learning
 
 Let's learn a bit more about Machine Learning, and a couple of common ideas and concerns. Read ["A Visual Introduction to Machine Learning, Part 1"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) by [Stephanie Yee](http://twitter.com/stephaniejyee) and [Tony Chu](https://twitter.com/tonyhschu/).
 
