@@ -106,7 +106,6 @@ There are more places to find great IPython Notebooks:
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
 
-
 # Immerse yourself
 
 Pick one of the courses below and do the whole thing.
@@ -128,12 +127,13 @@ Here are some other free online courses I've [seen recommended](https://docs.goo
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (revision of [DAT4](https://github.com/justmarkham/DAT4) and  [DAT3](https://github.com/justmarkham/DAT3)). Highly interactive.
+* General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (revision of [DAT4](https://github.com/justmarkham/DAT4) and  [DAT3](https://github.com/justmarkham/DAT3)). Interactive.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
 	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers **[Harvard CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
 	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
+	* Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) has a [List of Data Science MOOCs](http://www.datascienceweekly.org/data-science-resources/data-science-moocs)
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
-* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
+* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, interactive (lots of IPython Notebook material)
 
 ## Learn Pandas well
 
@@ -184,6 +184,8 @@ For now, the best StackExchange site is  [stats.stackexchange.com – _machine-l
 
 You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
 
+For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
+
 # Assorted Opinions and Other Resources
 
 The rest of the stuff that might not be structured enough for a course, but seems important to know.
@@ -231,7 +233,6 @@ This has to do with knowledge of the domain, but also may benefit from UX expert
 
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [there](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec.
 
-
 ## Big Data?
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
@@ -258,7 +259,5 @@ Lastly, here are other guides to Machine Learning:
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is another good introduction. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/) by Jack Simpson
 * [How to Machine Learn](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) by [Gideon Wulfsohn](http://gwulfs.github.io/)
-	* Features links to find meetups about ML
-	* Features links to "deeper dive" specialized topics
 * [Example Machine Learning notebook/exercise/guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Randal Olson. Mentioned in Notebooks section as well, but it also aims to be an entrypoint. Rich "Further Reading" section.
 * [Your guide here]
