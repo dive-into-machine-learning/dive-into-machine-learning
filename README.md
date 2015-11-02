@@ -211,13 +211,13 @@ And a few more articles:
 
 ### The "Danger Zone"
 
-If you're coming at this as a hacker, you'll be in the "Danger Zone" for a while:
+*You have entered the Danger Zone:*
 
 [![Drew Conway's Data Science Venn Diagram](http://i.imgur.com/z9YqsLU.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-(Note: "Substantive Expertise" is a very similar term to "Domain Knowledge." Either of these terms relates to the general sense of "Knowledge" from Domingos.)
+(Note: "Substantive Expertise" is like "Domain Knowledge." Or in this guide's terms, just "knowledge" as Domingos said.)
 
-Just please, please don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Keep hacking and keep learning, you'll make it out.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. Don't be an unethical journalist. **Do** keep hacking and learning until you know more about what you're doing!
 
 ### An anecdote about User Experience
 
