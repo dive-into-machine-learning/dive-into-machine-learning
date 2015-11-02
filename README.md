@@ -259,5 +259,5 @@ Lastly, here are other guides to Machine Learning:
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is another good introduction. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/) by Jack Simpson
 * [How to Machine Learn](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/edit) by [Gideon Wulfsohn](http://gwulfs.github.io/)
-* [Example Machine Learning notebook/exercise/guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Randal Olson. Mentioned in Notebooks section as well, but it also aims to be an entrypoint. Rich "Further Reading" section.
+* [Example Machine Learning notebook/exercise/guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Randal Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * [Your guide here]
