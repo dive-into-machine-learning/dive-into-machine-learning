@@ -124,12 +124,14 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
 * [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [*paperwork* on HN.](https://news.ycombinator.com/item?id=9563501))
-* **Data science courses as IPython Notebooks:**
+* Data science courses as IPython Notebooks:
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
 * General Assembly's [DAT5](https://github.com/justmarkham/DAT5) (revision of [DAT4](https://github.com/justmarkham/DAT4) and  [DAT3](https://github.com/justmarkham/DAT3)). Highly interactive.
-* Check out **[Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding)**. Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't caer about the certificate. The survey also covers **[Harvard CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
+* Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
+	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers **[Harvard CS109](http://cs109.github.io/2014/)** which I've seen recommended elsewhere.
+	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, highly interactive (lots of IPython Notebook material)
 
@@ -159,13 +161,14 @@ Bookmark these cheat sheets:
 
 ## More topics
 
-### Data Science
+### More Data Science materials
 
-* (Not free) Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience): "A nine-course introduction to data science, developed and taught by leading professors."
+Not repeating the materials mentioned above, here are some more Data Science resources:
+
+* **Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html)**
 * **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
-* Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html) 
 * [Data Science Workflow: Overview and Challenges](http://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article & the comment by Joseph McCarthy)
-*  Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
+* Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 
 
 ### Many more specialized topics
@@ -204,13 +207,25 @@ And a few more articles:
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
-### An anecdote from a Popular Music Streaming Service
+### The "Danger Zone"
 
-If you're using machine learning for unscientific reasons, like benefiting users ... as always you've got to keep your users in mind.
+If you're coming at this as a hacker, you'll be in the "Danger Zone" for a while:
+
+[![Drew Conway's Data Science Venn Diagram](http://i.imgur.com/z9YqsLU.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
+
+(Note: "Substantive Expertise" is a very similar term to "Domain Knowledge." Either of these terms relates to the general sense of "Knowledge" from Domingos.)
+
+Just please, please don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Keep hacking and keep learning, you'll make it out.
+
+### An anecdote about User Experience
+
+If you create software for users, and you want to use machine learning to benefit your users, *you must understand your users.* I won't get into a whole user experience lesson here, but in short, you must think about user experience.
 
 I have a friend who worked at `<Redacted>` Music Streaming Service. This company used machine learning in their recommendation and radio services. He complained about the way the company scored the radio feature's performance. There was disagreement about what should be scored. They used a metric, "no song skips." But why? Sure that indicates the recommendation wasn't *awful*, what if you want to measure engagement? Other metrics could measure positive engagement: "favorites," shares, listening time, or whether the listener returns to the radio station later. Measuring "no skips" might work for the passive listener, but the engaged listener is different. Perhaps the engaged listener will skip 5 songs, but find 20 songs they love and come back to the service later.
 
-**My takeaway:** if you use machine learning to benefit your users, you must understand your users. You must understand *which kind* of user you're trying to benefit. Without the right measurement, you can't optimize your users' experiences.
+**My takeaway:** user experience matters just as much as ever. You must understand *which kind* of user you're trying to benefit with your machine learning techniques. (Write user stories!) You must come up with measurements and ways to evaluate success for those users. You must be able to measure before you can optimize.
+
+This has to do with knowledge of the domain, but also may benefit from UX expertise. Work with UX experts if you can.
 
 ### Machine Learning in Internet Security
 
