@@ -215,7 +215,9 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](http://i.imgur.com/cH5Rkko.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. But I bet you'll know when you get there.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people. Your best bet may be: expert peers.
+
+If you know a good way to evaluate Machine Learning proficiency, please submit a Pull Request to share it with us.
 
 ### An anecdote about User Experience
 
