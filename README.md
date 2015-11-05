@@ -251,7 +251,7 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 ## Finding open-source libraries
 
 * Bookmark [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning frameworks, libraries and software
-* For Machine-Learning libraries that might not be on GitHub, there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
+* For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 
 ## Et cetera
 
