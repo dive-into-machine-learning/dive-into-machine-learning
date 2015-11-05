@@ -122,7 +122,7 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [*paperwork* on HN.](https://news.ycombinator.com/item?id=9563501))
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [Hacker News user, paperwork.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
@@ -215,9 +215,16 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](http://i.imgur.com/cH5Rkko.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people. Your best bet may be: expert peers.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people.
 
-If you know a good way to evaluate Machine Learning proficiency, please submit a Pull Request to share it with us.
+Maybe you have an expert friend who evaluate your skills, or point you somewhere.
+
+Maybe you can compete. This is another idea, via [Hacker News user, olympus](https://news.ycombinator.com/user?id=olympus):
+
+> I'll add my thoughts on the topic of "how do you know when you're out of the danger zone and can start marketing yourself as a machine learning expert?"
+> Do competitions on [Kaggle](http://www.kaggle.com/competitions) (or find them on other sites, but kaggle is definitely the best place to start). Once you get past the point where you are finishing in the middle of the pack (multiple top 10% or 25% finishes and maybe a prize win) then you are an expert. That is proof that you are separate [from] hackers who just throw scikit-learn algorithms at a matrix. The people in the master tier use clever feature engineering and/or code up custom learning algorithms to get themselves above the masses. Looking at a problem and figuring out the correct modeling approach is what the experts do. They don't just create a data frame and run down the list of classification algorithms that they have access to. [Read the "No Free Hunch" reports on how the winners did it and you'll quickly see the difference between yourself and the experts.](http://blog.kaggle.com/)
+
+Know a good way to evaluate Machine Learning proficiency? Have feedback about the idea of using competitions to evaluate yourself? Please! Submit a Pull Request to share it with us.
 
 ### An Anecdote About User Experience
 
