@@ -112,7 +112,7 @@ Pick one of the courses below and do the whole thing.
 
 ## Recommended course
 
-**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/learn/machine-learning) is a free online course I saw recommendeded often.** I saw many people recommend this course emphatically.
+**[Prof. Andrew Ng (Stanford)'s online course _Machine Learning_]( https://www.coursera.org/learn/machine-learning) is a free online course I saw recommended often.** I saw many people recommend this course emphatically.
 
 It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
@@ -219,7 +219,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 If you know a good way to evaluate Machine Learning proficiency, please submit a Pull Request to share it with us.
 
-### An anecdote about User Experience
+### An Anecdote About User Experience
 
 If you create software for users, and you want to use machine learning to benefit your users, *you must understand your users.* I won't get into a whole user experience lesson here, but in short, you must think about user experience.
 
@@ -248,7 +248,7 @@ Here are some obvious tools to reach for:
 
 Also: [10 things statistics taught us about big data analysis](http://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/)
 
-## Finding open-source libraries
+## Finding Open-Source Libraries
 
 * Bookmark [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning frameworks, libraries and software
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
