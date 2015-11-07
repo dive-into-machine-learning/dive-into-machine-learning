@@ -219,11 +219,11 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
+[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. Review what the winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere. And if you compete, get a solution on the leaderboard, or even win—bravo! You may be an expert.
 
-But this perspective is not unanimous. Some people do not think this is the best way to go.
+But not everybody thinks this is the best approach.
 
-Here's another idea, also founded on doing practice projects.
+Here's another approach: do practice projects, yes, but do them on your own, and focus on community and feedback. Specifically:
 
 1. Practice a lot with real data. Work with datasets that interest you.
 2. When you have a novel finding, reach out for review (see below).
@@ -239,11 +239,11 @@ At some point, you'll know you are becoming an expert. Or someone will be able t
 
 Here are some communities where you can reach out for review:
 
-* [stats.stackexchange.com](https://stats.stackexchange.com/) aka "Cross-Validated"
+* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
-* [Hacker News](https://news.ycombinator.com)
+* [Hacker News: news.ycombinator.com](https://news.ycombinator.com). You'll probably want to submit as "Show HN"
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing the skill of accepting critical feedback.
 
