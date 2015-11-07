@@ -209,7 +209,7 @@ And a few more articles:
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
-### The "Danger Zone"
+### How to Become an Expert
 
 So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you've got some "knowledge" in Domingos' sense (some "Substantive Expertise" or "Domain Knowledge"). This diagram isn't a perfect fit for us, but may get the point across:
 
@@ -219,12 +219,33 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 Maybe you have an expert friend who evaluate your skills, or point you somewhere.
 
-Maybe you can compete. This is another idea, via [Hacker News user, olympus](https://news.ycombinator.com/user?id=olympus):
+[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [chalearn](http://www.chalearn.org/challenges.html) are  hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
 
-> I'll add my thoughts on the topic of "how do you know when you're out of the danger zone and can start marketing yourself as a machine learning expert?"
-> Do competitions on [Kaggle](http://www.kaggle.com/competitions) (or find them on other sites, but kaggle is definitely the best place to start). Once you get past the point where you are finishing in the middle of the pack (multiple top 10% or 25% finishes and maybe a prize win) then you are an expert. That is proof that you are separate [from] hackers who just throw scikit-learn algorithms at a matrix. The people in the master tier use clever feature engineering and/or code up custom learning algorithms to get themselves above the masses. Looking at a problem and figuring out the correct modeling approach is what the experts do. They don't just create a data frame and run down the list of classification algorithms that they have access to. [Read the "No Free Hunch" reports on how the winners did it and you'll quickly see the difference between yourself and the experts.](http://blog.kaggle.com/)
+But it's not unanimous. Others don't think this is a good way to practice or evaluate yourself.
 
-Know a good way to evaluate Machine Learning proficiency? Have feedback about the idea of using competitions to evaluate yourself? Please! Submit a Pull Request to share it with us.
+Here's another idea, also founded on doing practice projects.
+
+1. Practice a lot with real data. Work with datasets that interest you.
+2. When you have a novel finding, reach out for review (see below).
+3. Fix issues. Learn. Share what you learn.
+
+And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.com/). [Quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+
+> I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
+
+#### Asking for Peer Review
+
+Here are some communities where you can reach out for review:
+
+* [stats.stackexchange.com](https://stats.stackexchange.com/) aka "Cross-Validated"
+* [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
+* [/r/DataScience](https://reddit.com/r/DataScience)
+* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
+* [Hacker News](https://news.ycombinator.com)
+
+Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing the skill of accepting critical feedback.
+
+When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
 ### An anecdote about User Experience
 
