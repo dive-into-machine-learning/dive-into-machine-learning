@@ -219,7 +219,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [chalearn](http://www.chalearn.org/challenges.html) are  hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
+[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
 
 But this perspective is not unanimous. Some people do not think this is the best way to go.
 
@@ -267,7 +267,7 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
 
-Here are some obvious tools to reach for: 
+Here are some tools to reach for: 
 
 * **[Apache Spark.](https://spark.apache.org/)**
 	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
