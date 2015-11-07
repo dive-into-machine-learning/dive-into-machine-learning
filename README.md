@@ -122,7 +122,7 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've [seen recommended](https://docs.google.com/document/d/1YN6BVdReNAYc8B0fjQ84yzDflqmeEPj7S0Xc-9_26R0/). (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [*paperwork* on HN.](https://news.ycombinator.com/item?id=9563501))
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [Hacker News user, paperwork.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
@@ -209,15 +209,45 @@ And a few more articles:
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
-### The "Danger Zone"
+### Welcome to the Danger Zone
 
 So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you've got some "knowledge" in Domingos' sense (some "Substantive Expertise" or "Domain Knowledge"). This diagram isn't a perfect fit for us, but may get the point across:
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](http://i.imgur.com/cH5Rkko.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people. Your best bet may be: expert peers.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people.
 
-If you know a good way to evaluate Machine Learning proficiency, please submit a Pull Request to share it with us.
+#### Towards Expertise
+
+[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
+
+But this perspective is not unanimous. Some people do not think this is the best way to go.
+
+Here's another idea, also founded on doing practice projects.
+
+1. Practice a lot with real data. Work with datasets that interest you.
+2. When you have a novel finding, reach out for review (see below).
+3. Fix issues. Learn. Share what you learn.
+
+And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.com/). [Quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+
+> I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
+
+At some point, you'll know you are becoming an expert. Or someone will be able to tell you!
+
+#### Asking for Peer Review
+
+Here are some communities where you can reach out for review:
+
+* [stats.stackexchange.com](https://stats.stackexchange.com/) aka "Cross-Validated"
+* [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
+* [/r/DataScience](https://reddit.com/r/DataScience)
+* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
+* [Hacker News](https://news.ycombinator.com)
+
+Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing the skill of accepting critical feedback.
+
+When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
 ### An Anecdote About User Experience
 
@@ -237,7 +267,7 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
 
-Here are some obvious tools to reach for: 
+Here are some tools to reach for: 
 
 * **[Apache Spark.](https://spark.apache.org/)**
 	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
