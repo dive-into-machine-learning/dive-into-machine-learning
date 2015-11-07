@@ -235,7 +235,7 @@ And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.c
 
 At some point, you'll know you are becoming an expert. Or someone will be able to tell you!
 
-#### Asking for Peer Review
+#### Ask for Peer Review
 
 Here are some communities where you can reach out for review:
 
