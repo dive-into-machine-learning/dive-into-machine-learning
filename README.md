@@ -209,7 +209,7 @@ And a few more articles:
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 
-### How to Become an Expert
+### Welcome to the Danger Zone
 
 So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you've got some "knowledge" in Domingos' sense (some "Substantive Expertise" or "Domain Knowledge"). This diagram isn't a perfect fit for us, but may get the point across:
 
@@ -217,11 +217,11 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 **Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone  expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people.
 
-Maybe you have an expert friend who evaluate your skills, or point you somewhere.
+#### Towards Expertise
 
 [Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [chalearn](http://www.chalearn.org/challenges.html) are  hubs for Machine Learning competitions. Once you can review what the winners did to solve their problems -- [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) -- and understand it -- you're getting somewhere. And if you win, you're really getting somewhere.
 
-But it's not unanimous. Others don't think this is a good way to practice or evaluate yourself.
+But this perspective is not unanimous. Some people do not think this is the best way to go.
 
 Here's another idea, also founded on doing practice projects.
 
@@ -232,6 +232,8 @@ Here's another idea, also founded on doing practice projects.
 And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.com/). [Quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
+
+At some point, you'll know you are becoming an expert. Or someone will be able to tell you!
 
 #### Asking for Peer Review
 
