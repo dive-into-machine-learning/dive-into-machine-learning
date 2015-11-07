@@ -85,7 +85,7 @@ I suggest this listening order:
 
 ## Play to learn
 
-Pick **one** of these IPython Notebooks and play along. (Or maybe two. But move onto your main course afterward!)
+Pick **one or two** of these IPython Notebooks and play along.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.ipython.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
