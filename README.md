@@ -92,7 +92,7 @@ Pick **one or two** of these IPython Notebooks and play along.
 - [Election Forecasting](https://github.com/jseabold/538model): A replication of the model Nate Silver used to make [predictions about the 2012 US Presidential Election for the New York Times](http://fivethirtyeight.blogs.nytimes.com/fivethirtyeights-2012-forecast/))
 - [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 - ClickSecurity's "data hacking" series (thanks [hummus](https://github.com/hummus)!)
-	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb) 
+	- [Detect Algorithmically Generated Domains](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
 	- [Detect SQL Injection](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
 	- [Java Class File Analysis](http://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb): is this Java code malicious or benign?
 - If you want more of a data science bent, pick a notebook from [this excellent list of Data Science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
@@ -267,7 +267,7 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies that want to sell you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if you contract it, you consider looking for contractors who use known good stacks. No news here.
 
-Here are some tools to reach for: 
+Here are some tools to reach for:
 
 * **[Apache Spark.](https://spark.apache.org/)**
 	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
@@ -280,7 +280,9 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 
 ## Finding Open-Source Libraries
 
-* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning frameworks, libraries and software
+* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning frameworks, libraries and software.
+* Bookmark **[Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language.
+* Bookmark **[Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * **[TensorFlow](http://tensorflow.org/)** seems like a *[really big deal.](https://news.ycombinator.com/item?id=10532957)* It has to have its own bullet point. Now, it's still not magic. But it seems incredibly useful! You can bet people will do exciting things with it in the coming months and years.
 
