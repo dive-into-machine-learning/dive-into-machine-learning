@@ -280,7 +280,7 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 
 ## Finding Open-Source Libraries
 
-* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning frameworks, libraries and software.
+* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning libraries and software.
 * Bookmark **[Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language.
 * Bookmark **[Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
