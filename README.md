@@ -221,7 +221,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. Review what the winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere. And if you compete, get a solution on the leaderboard, or even win—bravo! You may be an expert.
+[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). You should review what the winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere. And if you compete, get a solution on the leaderboard, or even win—bravo! You may be an expert.
 
 But not everybody thinks this is the best approach.
 
@@ -290,7 +290,7 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 
 ## Et cetera
 
-[Kaggle](https://www.kaggle.com/) has really exciting [competitions](https://www.kaggle.com/competitions) and a [data science job board](https://www.kaggle.com/jobs). You can find some examples of codes for popular competitions [here](https://github.com/apeeyush/machine-learning).
+[Kaggle](https://www.kaggle.com/) has [competitions](https://www.kaggle.com/competitions) and a [data science job board](https://www.kaggle.com/jobs). 
 
 Lastly, here are other guides to Machine Learning:
 
