@@ -221,13 +221,15 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). You should review what the winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere. And if you compete, get a solution on the leaderboard, or even win—bravo! You may be an expert.
+You need practice. [Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
-But not everybody thinks this is the best approach.
+You also need understanding. You should review what Kaggle competition winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
-Here's another approach: do practice projects, yes, but do them on your own, and focus on community and feedback. Specifically:
+Competitions and challenges are one way to practice. You shouldn't limit yourself, though.
 
-1. Practice a lot with real data. Work with datasets that interest you.
+Here's a complementary way to practice:
+
+1. Practice on your own projects. Find [datasets that interest you](https://tinyletter.com/data-is-plural) so you can work with [a lot with real data](https://github.com/caesar0301/awesome-public-datasets). Remember, the ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Jeff T. Leek](https://github.com/jtleek)). Ask a question, find data, refine your question, and start a project.
 2. When you have a novel finding, reach out for review (see below).
 3. Fix issues. Learn. Share what you learn.
 
@@ -235,7 +237,7 @@ And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.c
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
-At some point, you'll know you are becoming an expert. Or someone will be able to tell you!
+At some point, you'll know you are becoming an expert. Or someone will be able to tell you.
 
 #### Ask for Peer Review
 
