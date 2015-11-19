@@ -290,7 +290,7 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 
 ## Et cetera
 
-[Kaggle](https://www.kaggle.com/) has really exciting [competitions](https://www.kaggle.com/competitions) and a [data science job board](https://www.kaggle.com/jobs).
+[Kaggle](https://www.kaggle.com/) has really exciting [competitions](https://www.kaggle.com/competitions) and a [data science job board](https://www.kaggle.com/jobs). You can find some examples of codes for popular competitions [here](https://github.com/apeeyush/machine-learning).
 
 Lastly, here are other guides to Machine Learning:
 
