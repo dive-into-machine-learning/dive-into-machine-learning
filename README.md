@@ -288,11 +288,9 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * **[TensorFlow](http://tensorflow.org/)** seems like a *[really big deal.](https://news.ycombinator.com/item?id=10532957)* It has to have its own bullet point. Now, it's still not magic. But it seems incredibly useful! You can bet people will do exciting things with it in the coming months and years.
 
-## Et cetera
+## Alternative ways to "Dive into Machine Learnign"
 
-[Kaggle](https://www.kaggle.com/) has [competitions](https://www.kaggle.com/competitions) and a [data science job board](https://www.kaggle.com/jobs). 
-
-Lastly, here are other guides to Machine Learning:
+Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
 
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is another good introduction. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
 * [Materials for Learning Machine Learning](http://www.jacksimpson.co/2015/06/07/materials-for-learning-machine-learning/) by Jack Simpson
