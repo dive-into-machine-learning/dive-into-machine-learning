@@ -227,17 +227,21 @@ You also need understanding. You should review what Kaggle competition winners h
 
 Competitions and challenges are one way to practice. You shouldn't limit yourself, though.
 
-Here's a complementary way to practice:
+Here's a complementary way to practice: **do practice studies.**
 
-1. Practice on your own projects. Find [datasets that interest you](https://tinyletter.com/data-is-plural) so you can work with [real data](https://github.com/caesar0301/awesome-public-datasets). Remember, the ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). Ask a question, find data, refine your question, and start a project.
-2. When you have a novel finding, reach out for review (see below).
-3. Fix issues. Learn. Share what you learn.
+1. **Ask a question. Start your own study.** The ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
+2. **Communicate results.** When you have a novel finding, reach out for peer review (see below).
+3. **Fix issues.** Learn. Share what you learn.
 
-And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.com/). [Quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+And repeat. Re-phrasing this, it fits with the [scientific method](https://en.wikipedia.org/wiki/Scientific_method): formulate a question (or problem statement), create a hypothesis, gather data, analyze the data, and communicate results. (You should [watch this video about the scientific method in data science](http://101.datascience.community/2012/06/27/the-data-scientific-method/), and/or [read this article](http://customerthink.com/getting-insights-using-data-science-skills-and-the-scientific-method/).)
+
+Here's a way to come up with interesting questions. Once a week, [browse datasets](https://github.com/caesar0301/awesome-public-datasets) and write down some questions. Also, you should sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting data sets. When a question inspires you, start a study.
+
+This advice, to do practice studies and learn from peer review, is based on [a conversation] with (https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
-Practice, share, learn. Expert peers will be able to tell you where you're at. Ask for review, opinions, advice. As a self-taught person you probably already know: you can't be shy. Just ask.
+As you repeat this process, your practice studies will become more scientific, interesting, and focused. The most important part of this process is peer review.
 
 #### Ask for Peer Review
 
