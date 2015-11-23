@@ -229,7 +229,7 @@ Competitions and challenges are one way to practice. You shouldn't limit yoursel
 
 Here's a complementary way to practice:
 
-1. Practice on your own projects. Find [datasets that interest you](https://tinyletter.com/data-is-plural) so you can work with [a lot with real data](https://github.com/caesar0301/awesome-public-datasets). Remember, the ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Jeff T. Leek](https://github.com/jtleek)). Ask a question, find data, refine your question, and start a project.
+1. Practice on your own projects. Find [datasets that interest you](https://tinyletter.com/data-is-plural) so you can work with [a lot with real data](https://github.com/caesar0301/awesome-public-datasets). Remember, the ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). Ask a question, find data, refine your question, and start a project.
 2. When you have a novel finding, reach out for review (see below).
 3. Fix issues. Learn. Share what you learn.
 
