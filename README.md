@@ -235,9 +235,9 @@ Here's a complementary way to practice: **do practice studies.**
 
 And repeat. Re-phrasing this, it fits with the [scientific method](https://en.wikipedia.org/wiki/Scientific_method): formulate a question (or problem statement), create a hypothesis, gather data, analyze the data, and communicate results. (You should [watch this video about the scientific method in data science](http://101.datascience.community/2012/06/27/the-data-scientific-method/), and/or [read this article](http://customerthink.com/getting-insights-using-data-science-skills-and-the-scientific-method/).)
 
-Here's a way to come up with interesting questions. Once a week, [browse datasets](https://github.com/caesar0301/awesome-public-datasets) and write down some questions. Also, you should sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting data sets. When a question inspires you, start a study.
+How can you come up with interesting questions? Once a week, [browse datasets](https://github.com/caesar0301/awesome-public-datasets) and write down some questions. Also, you should sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting data sets. Stay curious. When a question inspires you, start a study.
 
-This advice, to do practice studies and learn from peer review, is based on [a conversation] with (https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+This advice, to do practice studies and learn from peer review, is based on [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
