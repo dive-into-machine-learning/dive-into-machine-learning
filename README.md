@@ -124,7 +124,7 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [Hacker News user, paperwork.](https://news.ycombinator.com/item?id=9563501))
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
 	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
@@ -221,25 +221,31 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-[Hacker News user, olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). You should review what the winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere. And if you compete, get a solution on the leaderboard, or even win—bravo! You may be an expert.
+You need practice. [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
-But not everybody thinks this is the best approach.
+You also need understanding. You should review what Kaggle competition winners had to say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
-Here's another approach: do practice projects, yes, but do them on your own, and focus on community and feedback. Specifically:
+Competitions and challenges are one way to practice. You shouldn't limit yourself, though.
 
-1. Practice a lot with real data. Work with datasets that interest you.
-2. When you have a novel finding, reach out for review (see below).
-3. Fix issues. Learn. Share what you learn.
+Here's a complementary way to practice: **do practice studies.**
 
-And repeat. This advice comes via [Dr. Randal S. Olson](http://www.randalolson.com/). [Quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+1. **Ask a question. Start your own study.** The ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
+2. **Communicate results.** When you have a novel finding, reach out for peer review (see below).
+3. **Fix issues.** Learn. Share what you learn.
+
+And repeat. Re-phrasing this, it fits with the [scientific method](https://en.wikipedia.org/wiki/Scientific_method): formulate a question (or problem statement), create a hypothesis, gather data, analyze the data, and communicate results. (You should [watch this video about the scientific method in data science](http://101.datascience.community/2012/06/27/the-data-scientific-method/), and/or [read this article](http://customerthink.com/getting-insights-using-data-science-skills-and-the-scientific-method/).)
+
+How can you come up with interesting questions? Once a week, [browse datasets](https://github.com/caesar0301/awesome-public-datasets) and write down some questions. Also, you should sign up for [Data is Plural](https://tinyletter.com/data-is-plural), a newsletter of interesting data sets. Stay curious. When a question inspires you, start a study.
+
+This advice, to do practice studies and learn from peer review, is based on [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/). Here's more advice from Olson, [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
-At some point, you'll know you are becoming an expert. Or someone will be able to tell you!
+As you repeat this process, your practice studies will become more scientific, interesting, and focused. The most important part of this process is peer review.
 
 #### Ask for Peer Review
 
-Here are some communities where you can reach out for review:
+Here are some communities where you can reach out for peer review:
 
 * [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
