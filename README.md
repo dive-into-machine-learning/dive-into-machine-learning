@@ -289,10 +289,10 @@ Also: [10 things statistics taught us about big data analysis](http://simplystat
 ## Finding Open-Source Libraries
 
 * Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning libraries and software.
-* Bookmark **[Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language.
+* [TensorFlow](http://www.tensorflow.org/) seems like a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials).
 * Bookmark **[Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language.
+* Bookmark **[Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
-* **[TensorFlow](http://tensorflow.org/)** seems like a *[really big deal.](https://news.ycombinator.com/item?id=10532957)* It has to have its own bullet point. Now, it's still not magic. But it seems incredibly useful! You can bet people will do exciting things with it in the coming months and years.
 
 ## Alternative ways to "Dive into Machine Learning"
 
