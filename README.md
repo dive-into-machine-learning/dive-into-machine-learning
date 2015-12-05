@@ -124,12 +124,13 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
+
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), from earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
-	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
-	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. (Older versions: [7](https://github.com/justmarkham/DAT7), [5](https://github.com/justmarkham/DAT5), [4](https://github.com/justmarkham/DAT4), [3](https://github.com/justmarkham/DAT3).)
+	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
+	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+	* Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
+* Kevin Markham's [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) is very relevant to what we've already covered. It continues on, a really comfortable pace. You can complement the video series with Markham's [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. (Older versions: [7](https://github.com/justmarkham/DAT7), [5](https://github.com/justmarkham/DAT5), [4](https://github.com/justmarkham/DAT4), [3](https://github.com/justmarkham/DAT3).) These courses also happen in-person in Washington, DC.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
 	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
 	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
