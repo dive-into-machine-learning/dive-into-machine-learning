@@ -124,18 +124,19 @@ Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) quoted earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
+
+* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), from earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
-	- [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	- [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
-	- Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. (Older versions: [7](https://github.com/justmarkham/DAT7), [5](https://github.com/justmarkham/DAT5), [4](https://github.com/justmarkham/DAT4), [3](https://github.com/justmarkham/DAT3).)
+	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
+	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+	* Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
+* Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. (Older versions: [7](https://github.com/justmarkham/DAT7), [5](https://github.com/justmarkham/DAT5), [4](https://github.com/justmarkham/DAT4), [3](https://github.com/justmarkham/DAT3).) Markham's course is also offered in-person in Washington, DC.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
 	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
 	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 	* Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) has a [List of Data Science MOOCs](http://www.datascienceweekly.org/data-science-resources/data-science-moocs)
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
-* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html) -- great option, interactive (lots of IPython Notebook material)
+* [Advanced Statistical Computing (Vanderbilt BIOS8366).](http://stronginference.com/Bios8366/lectures.html). Interactive (lots of IPython Notebook material)
 
 ## Learn Pandas well
 
