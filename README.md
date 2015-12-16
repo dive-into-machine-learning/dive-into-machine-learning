@@ -118,7 +118,7 @@ Pick one of the courses below and do the whole thing.
 
 It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
-Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. It's free, so download or bookmark it!
+Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. (Here's some [context for this recommendation](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain).) This book is free, so download or bookmark it!
 
 ## Other courses
 
