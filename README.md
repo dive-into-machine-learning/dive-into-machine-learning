@@ -118,14 +118,13 @@ Pick one of the courses below and do the whole thing.
 
 It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
-Also, the book _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_ comes up frequently, but is usually referred to as a "reference" not an introduction. (Here's some [context for this recommendation](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain).) This book is free, so download or bookmark it!
+Also, you should grab an in-depth textbook to use as a reference. The two best options are [_Understanding Machine Learning_](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_. You'll see these recommended as reference textbooks. [I favor _UML_, but here's context and comparison.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) Download both books, they're free.
 
-[Ray Li's review of this course](http://rayli.net/blog/data/coursera-machine-learning-review/) has some helpful tips for completing this course on a busy schedule.
+Busy schedule? Read [Ray Li's review of this course](http://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
 
 ## Other courses
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
-
 
 * [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), from earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
 * Data science courses as IPython Notebooks:
