@@ -267,7 +267,7 @@ I have a friend who worked at `<Redacted>` Music Streaming Service. This company
 
 **My takeaway:** user experience matters just as much as ever. You must understand *which kind* of user you're trying to benefit with your machine learning techniques. (Write user stories!) You must come up with measurements and ways to evaluate success for those users. You must be able to measure before you can optimize.
 
-This has to do with knowledge of the domain, but also may benefit from UX expertise. Work with UX experts if you can.
+This has to do with knowledge of the domain (substantive expertise), but you may also benefit from UX expertise. Work with UX experts if you can.
 
 ### Machine Learning in Internet Security
 
