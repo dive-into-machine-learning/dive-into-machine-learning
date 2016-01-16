@@ -1,0 +1,12 @@
+name: Dive into Machine Learning
+desc: Dive into Machine Learning with Python Jupyter notebook and scikit-learn
+site: https://github.com/hangtwenty/dive-into-machine-learning
+tags:
+- machine-learning
+- ML
+- python
+- scikit-learn
+- data-science
+upforgrabs:
+  name: help%20wanted
+  link: https://github.com/hangtwenty/dive-into-machine-learning/labels/help%20wanted
