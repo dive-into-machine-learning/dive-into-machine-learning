@@ -176,12 +176,15 @@ Not repeating the materials mentioned above, here are some more Data Science res
 * Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 * Swami Chandrasekaran's ["Becoming a Data Scientist"](http://nirvacana.com/thoughts/becoming-a-data-scientist/) is a concise, printable picture of a data science curriculum
 
-### Bayesian Methods
+### Bayesian Statistics and Machine Learning
 
-Here's an IPython Notebook book about [Probabilistic Programming
-and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/): "An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view."
+From [the "Bayesian Machine Learning" overview on Metacademy](https://www.metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
-See also [Issue #26](https://github.com/hangtwenty/dive-into-machine-learning/issues/26); there are other good resources on this, and this section needs revision.
+> ... Bayesian ideas have had a big impact in machine learning in the past 20 years or so because of the flexibility they provide in building structured models of real world phenomena. Algorithmic advances and increasing computational resources have made it possible to fit rich, highly structured models which were previously considered intractable. 
+
+You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
+* The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
+* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 
 ## Questions, answers, chats
 
