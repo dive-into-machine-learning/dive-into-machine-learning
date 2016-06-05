@@ -11,7 +11,7 @@ _Note:_ There are several fields within "Data" and Machine Learning is just one.
 
 # Get your feet wet!
 
-I suggest you get your feet wet ASAP. You'll boost your confidence.
+I suggest you get your feet wet ASAP. It will boost your confidence.
 
 ## Tools you'll need
 
