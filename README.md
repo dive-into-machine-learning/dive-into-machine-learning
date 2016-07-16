@@ -231,7 +231,7 @@ You need practice. [On Hacker News, user olympus commented to say you could use 
 
 You also need understanding. You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
-Competitions and challenges are one way to practice. You shouldn't limit yourself, though.
+Competitions and challenges are one way to practice. You shouldn't limit yourself, though - and you should also understand that [Machine Learning isn't **all** about Kaggle competitions](http://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
 
 Here's a complementary way to practice: **do practice studies.**
 
