@@ -178,7 +178,7 @@ Not repeating the materials mentioned above, here are some more Data Science res
 
 ### Bayesian Statistics and Machine Learning
 
-From [the "Bayesian Machine Learning" overview on Metacademy](https://www.metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
+From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
 > ... Bayesian ideas have had a big impact in machine learning in the past 20 years or so because of the flexibility they provide in building structured models of real world phenomena. Algorithmic advances and increasing computational resources have made it possible to fit rich, highly structured models which were previously considered intractable.
 
