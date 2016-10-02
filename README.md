@@ -3,7 +3,7 @@
 **Hi there! This guide is for you:**
 
 * **You're new to [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)**
-* **You know Python.** (At least the basics! If you want to learn more Python, [try this](https://github.com/hangtwenty/hang-of-python))
+* **You know Python.** (At least the basics! If you want to learn more Python, [try this](https://github.com/hangtwenty/python-is-for-lovers))
 
 I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
