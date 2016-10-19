@@ -147,6 +147,7 @@ If you're focusing on Python, you should get more familiar with Pandas.
 * **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.ipython.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
 * Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](http://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
+* [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 * Here are some docs I found especially helpful as I continued learning:
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
