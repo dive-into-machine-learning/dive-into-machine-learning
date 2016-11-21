@@ -277,7 +277,7 @@ Try to measure success _for your users._ You must be able to measure before you 
 
 It helps to have knowledge of the domain (substantive expertise). You may also benefit from UX expertise. Work with UX experts if you can.
 
-### Machine Learning in Internet Security
+### Machine Learning in Web Security
 
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec.
 
@@ -332,4 +332,5 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Machine Learning for Programmers [with caveats]](https://gist.github.com/hangtwenty/a15c8bed5b120eebf352): Pragmatic guide for developers, definitely worth a read. I've linked you to my own intro to it, explaining a few caveats. Taking it with a grain of salt, and these caveats in mind, I think some programmers will find it worth their time.
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
+* For some news sources to follow, check out [Sam DeBrule's list](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Your guide here]
