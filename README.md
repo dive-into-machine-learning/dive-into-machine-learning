@@ -76,18 +76,26 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 [Do Simple Things]: http://c2.com/cgi/wiki?DoSimpleThings
 
-## Talking Machines
+## Just about time for a break...
 
-Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podcast about machine learning. It's great. It's a low-effort, high-yield way to learn more.
+But first, let's get some podcasts. Good listening material for your break.
+
+First, download [this podcast episode where _Knowledge Project_ interviews Prof. Domingos](https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/).
+
+### _Talking Machines_
+
+Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podcast about machine learning. It's a great, low-effort way to learn more. Listen casually to these episodes, over time — no need to rush.
 
 I suggest this listening order:
 
-* Start with the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about.
-* Then, start over from the first episode
+* Download the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode, and listen to that first. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about.
+* Then, over time, you can listen to the entire podcast series from the first episode.
+
+OK. Give your brain a break!
 
 ## Play to learn
 
-Pick **one or two** of these IPython Notebooks and play along.
+Next, pick **one or two** of these IPython Notebooks and play along.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.ipython.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
@@ -110,7 +118,7 @@ There are more places to find great IPython Notebooks:
 
 # Immerse yourself
 
-Pick one of the courses below and do the whole thing.
+Now you should be hooked. We are ready to get serious! Pick one of the courses below and do the whole thing.
 
 ## Recommended course
 
@@ -126,7 +134,7 @@ Busy schedule? Read [Ray Li's review of this course](http://rayli.net/blog/data/
 
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
-* [Machine Learning](https://www.coursera.org/course/machlearning) by Prof. Pedro Domingos of the University of Washington. Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), from earlier in this guide. (Thanks to [paperwork on Hacker News.](https://news.ycombinator.com/item?id=9563501))
+* [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/). Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
 * Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. Markham's course is also offered in-person in Washington, DC.
 * Data science courses as IPython Notebooks:
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
