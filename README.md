@@ -78,20 +78,18 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 ## Just about time for a break...
 
-But first, let's get some podcasts. Good listening material for your break.
+But first, let's get some podcasts. Good listening material for your break. First, download [this podcast episode where _Knowledge Project_ interviews Prof. Domingos](https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/).
 
-First, download [this podcast episode where _Knowledge Project_ interviews Prof. Domingos](https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/).
-
-### _Talking Machines_
-
-Subscribe to **[Talking Machines](http://www.thetalkingmachines.com/)**, a podcast about machine learning. It's a great, low-effort way to learn more. Listen casually to these episodes, over time — no need to rush.
+Next, subscribe to _**[Talking Machines](http://www.thetalkingmachines.com/)**_, a podcast about machine learning. It's a great, low-effort way to learn more. Listen casually to these episodes, over time — no need to rush.
 
 I suggest this listening order:
 
 * Download the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode, and listen to that first. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about.
-* Then, over time, you can listen to the entire podcast series from the first episode.
+* Then, over time, you can listen to the entire podcast series (start from the beginning).
 
 OK. Give your brain a break!
+
+----
 
 ## Play to learn
 
@@ -116,9 +114,11 @@ There are more places to find great IPython Notebooks:
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
 
+----
+
 # Immerse yourself
 
-Now you should be hooked. We are ready to get serious! Pick one of the courses below and do the whole thing.
+Now you should be hooked, and hungry to learn more. Pick one of the courses below and start on your way.
 
 ## Recommended course
 
@@ -148,7 +148,7 @@ Here are some other free online courses I've seen recommended. (Machine Learning
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366).](http://stronginference.com/Bios8366/lectures.html). Interactive (lots of IPython Notebook material)
 
-## Learn Pandas well
+## Supplement: Learning Pandas well
 
 If you're focusing on Python, you should get more familiar with Pandas.
 
@@ -165,8 +165,7 @@ If you're focusing on Python, you should get more familiar with Pandas.
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
 
-
-## Cheat sheets
+## Supplement: cheat sheets
 
 Bookmark these cheat sheets:
 
@@ -174,11 +173,19 @@ Bookmark these cheat sheets:
 - [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
 - [Matplotlib / Pandas / Python cheat sheets](https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M).
 
-## More topics
+## Getting Help: Questions, answers, chats
 
-### More Data Science materials
+For now, the best StackExchange site is [stats.stackexchange.com – _machine-learning_.](http://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](http://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelearning](https://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
-Not repeating the materials mentioned above, here are some more Data Science resources:
+You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
+
+For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
+
+# Assorted Opinions and Other Resources
+
+## More Data Science materials
+
+I'm not repeating the materials mentioned above, but here are some other Data Science resources:
 
 * **Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html)**
 * **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
@@ -186,7 +193,7 @@ Not repeating the materials mentioned above, here are some more Data Science res
 * Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.ipython.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 * Swami Chandrasekaran's ["Becoming a Data Scientist"](http://nirvacana.com/thoughts/becoming-a-data-scientist/) is a concise, printable picture of a data science curriculum
 
-### Bayesian Statistics and Machine Learning
+## Bayesian Statistics and Machine Learning
 
 From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
@@ -196,22 +203,10 @@ You can learn more by studying one of the following resources. Both resources us
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 
-## Questions, answers, chats
-
-For now, the best StackExchange site is  [stats.stackexchange.com – _machine-learning_.](http://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](http://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelearning](https://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-
-You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
-
-For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
-
-# Assorted Opinions and Other Resources
-
-The rest of the stuff that might not be structured enough for a course, but seems important to know.
-
 ## Risks
 
 "Machine learning systems automatically learn programs from
-data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up technical debt.
+data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
 Here is the abstract of [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf):
 
