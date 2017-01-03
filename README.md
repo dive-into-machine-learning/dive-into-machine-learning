@@ -234,11 +234,11 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-You need practice. [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
+You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
-You also need understanding. You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
+You also need **understanding.** You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
-Competitions and challenges are one way to practice. You shouldn't limit yourself, though - and you should also understand that [Machine Learning isn't **all** about Kaggle competitions](http://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
+Competitions and challenges are just one way to practice. You shouldn't limit yourself, though - and you should also understand that [Machine Learning isn't **all** about Kaggle competitions](http://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
 
 Here's a complementary way to practice: **do practice studies.**
 
@@ -270,19 +270,27 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
-### :bow: A note about Machine Learning and User Experience
+----
 
-Machine Learning can be powerful, but it's not magic. That's true for any problem domain, but let's take a look at UX. (Why pick out UX? Well, today we are surrounded by software that utilizes Machine Learning to enhance user experience.)
+### Collaborate with Domain Experts!
 
-Before you start working ML into every aspect of _your_ software, it's good to understand more about UX and how ML relates. I recommend you engage with UX experts. For some overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the matter. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
+Machine Learning can be powerful, but it is not magic.
 
-### :bow: A note about Machine Learning and Web Security
+Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
 
-There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec.
+#### :bow: A note about Machine Learning and User Experience
 
-### :bow: A note about Machine Learning and _any given problem domain_
+Why pick out UX? Well, today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
 
-Really, whatever the problem domain is, if you are not an expert in the problem domain yourself, you are unlikely to have great success applying ML to the problem domain. Collaborate with domain experts for better results.
+Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
+
+By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts if you can!).
+
+#### :bow: A note about Machine Learning and Web Security
+
+There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec. Summary: Be careful! But the full details are quite interesting.
+
+----
 
 
 ### Deep Learning
