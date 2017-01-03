@@ -270,21 +270,20 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
-### An Anecdote About User Experience
+### :bow: A note about Machine Learning and User Experience
 
-If you create software for users, and you want to use machine learning to benefit your users, *you must understand your users.* I won't get into a whole user experience rant here, but in short, you must think about user experience.
+Machine Learning can be powerful, but it's not magic. That's true for any problem domain, but let's take a look at UX. (Why pick out UX? Well, today we are surrounded by software that utilizes Machine Learning to enhance user experience.)
 
-I have a friend who worked at `<Redacted>` Music Streaming Service. This company used machine learning in their recommendation and radio services. He complained about the way the company scored the radio feature's performance. There was disagreement about what should be scored. They used a metric, "no song skips." But why? Sure that indicates the recommendation wasn't *awful*, what if you want to measure engagement? Other metrics could measure positive engagement: "favorites," shares, listening time, or whether the listener returns to the radio station later. Measuring "no skips" might work for the passive listener, but the engaged listener is different. Perhaps the engaged listener will skip 5 songs, but find 20 songs they love and come back to the service later.
+Before you start working ML into every aspect of _your_ software, it's good to understand more about UX and how ML relates. I recommend you engage with UX experts. For some overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the matter. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
 
-**My takeaway:** user experience matters just as much as ever. You must understand *which kind* of user you're trying to benefit with your machine learning techniques. Write user stories. (Some readers may notice this anecdote is very unscientific. Well, user stories are sometimes unscientific. Yet still so important.)
-
-Try to measure success _for your users._ You must be able to measure before you can optimize.
-
-It helps to have knowledge of the domain (substantive expertise). You may also benefit from UX expertise. Work with UX experts if you can.
-
-### Machine Learning in Web Security
+### :bow: A note about Machine Learning and Web Security
 
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec.
+
+### :bow: A note about Machine Learning and _any given problem domain_
+
+Really, whatever the problem domain is, if you are not an expert in the problem domain yourself, you are unlikely to have great success applying ML to the problem domain. Collaborate with domain experts for better results.
+
 
 ### Deep Learning
 
@@ -318,6 +317,8 @@ And here are some things to read and listen to:
 - Free eBook, [_Getting Data Right: Tackling the Challenges of
 Big Data Volume and Variety_](http://www.tamr.com/landing-pages/getting-data-right/) by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can [listen to an accompanying podcast](https://soundcloud.com/oreilly-radar/the-future-of-data-at-scale) too.
 
+----
+
 ## Finding Open-Source Libraries
 
 * Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning libraries and software.
@@ -326,6 +327,8 @@ Big Data Volume and Variety_](http://www.tamr.com/landing-pages/getting-data-rig
 * [TensorFlow](http://www.tensorflow.org/) seems like a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials). See also the section on Deep Learning above.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * [CreativeAi.net](http://www.creativeai.net/). OK not exactly about _libraries_, but this is often intriguing, and worth subscribing to  ... warning, it's easy to get sucked in :)
+
+----
 
 ## Alternative ways to "Dive into Machine Learning"
 
