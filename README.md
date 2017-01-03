@@ -272,13 +272,13 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 ----
 
-### Collaborate with Domain Experts!
+## Collaborate with Domain Experts!
 
 Machine Learning can be powerful, but it is not magic.
 
 Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
 
-#### :bow: A note about Machine Learning and User Experience
+### :bow: A note about Machine Learning and User Experience
 
 Why pick out UX? Well, today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
 
@@ -286,14 +286,14 @@ Before you start working ML into every aspect of _your_ software, you should get
 
 By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts if you can!).
 
-#### :bow: A note about Machine Learning and Web Security
+### :bow: A note about Machine Learning and Web Security
 
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec. Summary: Be careful! But the full details are quite interesting.
 
 ----
 
 
-### Deep Learning
+## Deep Learning
 
 In early editions of this guide, there was no specific "Deep Learning" section. I omitted it intentionally. I think it is not effective for us to jump too far ahead. I also know that if you become an expert in traditional Machine Learning, you'll be capable of moving onto advanced subjects like Deep Learning, whether or not I've put that in this guide. We're just trying to get you started here!
 
@@ -304,9 +304,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 
-----
-
-### "Big" Data?
+## "Big" Data?
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies selling you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if "buy" instead of "build," you may want to buy from vendors who use known good stacks. No news here.
 
@@ -341,7 +339,7 @@ Big Data Volume and Variety_](http://www.tamr.com/landing-pages/getting-data-rig
 
 ----
 
-# Alternative ways to "Dive into Machine Learning"
+## Alternative ways to "Dive into Machine Learning"
 
 Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
 
