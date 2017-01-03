@@ -304,20 +304,23 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 
+----
+
 ### "Big" Data?
 
 Scaling data analysis is a familiar problem now, and there's no shortage of ways to address it. [Beware needless hype and companies selling you flashy, proprietary solutions.](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype) You can do it all with open-source tools. Even if "buy" instead of "build," you may want to buy from vendors who use known good stacks. No news here.
 
-Here are some open-source tools to reach for:
+I won't call out specific OSS tools here, besides ...
 
 * **[Apache Spark.](https://spark.apache.org/)**
 	* I mean, hell, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
 	* Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
-* [NetflixOSS](http://netflix.github.io/#repo) (see "Big Data Tools")
-	* [Netflix: Surus and ScorePMML](http://techblog.netflix.com/2015/01/introducing-surus-and-scorepmml.html)
-	* ["big data" on the NetflixOSS blog](http://techblog.netflix.com/search/label/big%20data)
 
-And here are some things to read and listen to:
+But if you are working with data-intensive applications at all, I'll recommend this book:
+
+* **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
+
+Lastly, here are some other useful links regarding Big Data and ML.
 
 * [10 things statistics taught us about big data analysis](http://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/) (and some more food for thought: ["What Statisticians think about Data Scientists"](http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
 * ["Talking Machines" #12](http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data): Interviews Prof. Andrew Ng (from [our main course, which has its own module on big data](https://www.coursera.org/learn/machine-learning)); this episode covers some problems relevant to _high-dimensional_ data
@@ -338,7 +341,7 @@ Big Data Volume and Variety_](http://www.tamr.com/landing-pages/getting-data-rig
 
 ----
 
-## Alternative ways to "Dive into Machine Learning"
+# Alternative ways to "Dive into Machine Learning"
 
 Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
 
