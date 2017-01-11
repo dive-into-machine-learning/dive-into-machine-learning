@@ -174,6 +174,7 @@ You'll want to get more familiar with Pandas.
 	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](http://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+* You may also want to check out [the `odo` library](http://odo.readthedocs.io/). "Odo migrates between many formats. These include in-memory structures like `list`, `pd.DataFrame` [pandas `DataFrame`] and `np.ndarray` [NumPy `ndarray`] and also data outside of Python like CSV/JSON/HDF5 files, SQL databases, data on remote machines, and the Hadoop File System." Definitely a good thing to have in your toolbelt as you play with different data sources.
 
 ## Supplement: Cheat Sheets
 
