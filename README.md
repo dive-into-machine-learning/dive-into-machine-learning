@@ -289,7 +289,9 @@ By no means will that make you an expert in UX, but maybe it'll help you know if
 
 ### :bow: A note about Machine Learning and Web Security
 
-There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec. Summary: Be careful! But the full details are quite interesting.
+There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) Equally relevant to InfoSec and AppSec. Summary: Be very careful! But the full details are quite interesting.
+
+If you are going to explore this topic more deeply, there is a _lot_ of reading material in this ["Security Data Science and Machine Learning Guide."](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
 
 ----
 
