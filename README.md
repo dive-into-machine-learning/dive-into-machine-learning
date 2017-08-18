@@ -126,9 +126,9 @@ Now you should be hooked, and hungry to learn more. Pick one of the courses belo
 
 It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
 
-Also, you should grab an in-depth textbook to use as a reference. The two best options are [_Understanding Machine Learning_](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)_. You'll see these recommended as reference textbooks. [I favor _UML_, but here's context and comparison.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) Download both books, they're free.
+Also, you should grab an in-depth textbook to use as a reference. The two best options are [_Understanding Machine Learning_ ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
-Busy schedule? Read [Ray Li's review of this course](http://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
+Busy schedule? Read [Ray Li's review of Prof. Andrew Ng's course](http://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
 
 ## Other courses
 
