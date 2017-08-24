@@ -307,8 +307,7 @@ Maybe this is a way to check your progress: ask yourself, does Deep Learning see
 
 In any case, when you decide you're ready to dive into Deep Learning, here are some helpful resources.
 
-*  [Prof. Andrew Ng's](https://www.andrewng.org/about/) course on deep learning. There are a total of 5 courses as part of deep learning specialization on [coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture [https://deeplearning.ai](deeplearning.ai) .
-
+*  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning).** There are a total of 5 courses as part of Deep Learning Specialization on [Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture [deeplearning.ai](https://www.deeplearning.ai) .
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
