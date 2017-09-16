@@ -307,7 +307,7 @@ Maybe this is a way to check your progress: ask yourself, does Deep Learning see
 
 In any case, when you decide you're ready to dive into Deep Learning, here are some helpful resources.
 
-* **["Have Fun With [Deep] Learning" by David Humphrey](https://github.com/humphd/have-fun-with-machine-learning)** is an excellent way to get your first taste of Deep Learning. Start here if you want to hack-first, just like we did before. Then you will feel excited to move onto...
+* **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This is an excellent way to "get ahead of yourself" and hack-first. Then you will feel excited to move onto...
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
