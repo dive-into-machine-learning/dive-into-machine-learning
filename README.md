@@ -300,7 +300,7 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Machine Learning and Cyber Security - fsecurity](http://fsecurify.com/machine-learning-and-cyber-security/)
+* [Machine Learning and Cyber Security - fsecurify](http://web.archive.org/web/20170606105129/http://fsecurify.com/machine-learning-and-cyber-security/)
 * [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
 * [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
 * [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
