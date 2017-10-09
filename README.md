@@ -297,7 +297,13 @@ By no means will that make you an expert in UX, but maybe it'll help you know if
 
 There was a great BlackHat webcast on this topic, [Secure Because Math: Understanding Machine Learning-Based Security Products.](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html) Slides are [here](https://www.blackhat.com/html/webcast/02192015-secure-because-math.html), [video recording is here.](https://attendee.gotowebinar.com/recording/80449431422110210) If you're using ML to recommend some media, overfitting could be harmless. If you're relying on ML to protect from threats, overfitting could be downright dangerous. Check the full presentation if you are interested in this space.
 
-If you want to explore this space more deeply, there is a _lot_ of reading material in this ["Security Data Science and Machine Learning Guide."](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/) And [another](http://fsecurify.com/machine-learning-and-cyber-security/) has some other links.
+If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
+
+* [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
+* [Machine Learning and Cyber Security - fsecurify](http://web.archive.org/web/20170606105129/http://fsecurify.com/machine-learning-and-cyber-security/)
+* [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
 ----
 
