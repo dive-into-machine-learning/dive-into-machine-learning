@@ -370,3 +370,5 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Your guide here]
+
+# And remember... HAVE FUN!
