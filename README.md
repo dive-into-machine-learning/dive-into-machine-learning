@@ -9,6 +9,13 @@ I learned Python by hacking first, and getting serious *later.* I wanted to do t
 
 _Note:_ There are several fields within "Data" and Machine Learning is just one. It's good to know the context: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
+# Table of Contents
+
+- [Get your feet wet!](#get-your-feet-wet)
+- [Dive in](#dive-in)
+- [Immerse yourself](#immerse-yourself)
+- [Assorted Opinions and Other Resources](#assorted-opinions-and-other-resources)
+
 # Get your feet wet!
 
 I suggest you get your feet wet ASAP. You'll boost your confidence.
