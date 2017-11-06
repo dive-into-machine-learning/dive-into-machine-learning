@@ -76,6 +76,8 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 [Do Simple Things]: http://wiki.c2.com/?DoSimpleThings
 
+[Kaggle:Dive into Machine Learning]: https://www.kaggle.com/dansbecker/learn-machine-learning
+
 ## Just about time for a break...
 
 Before you take a break, grab some podcasts. First, download [this podcast episode where _Knowledge Project_ interviews Prof. Domingos](https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/), who wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
