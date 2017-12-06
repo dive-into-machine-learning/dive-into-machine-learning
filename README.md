@@ -280,6 +280,21 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
+#### Thoughtful Machine Learning with Python - A Test Driven Approach by Matthew Krik
+
+Thoughtful Machine Learning with Ptyhin delves into machine learning code and algorithm application, as well as how to deploy to a production environment to scale. This book focuses on applying TDD and SOLID principles to machine learning with the goal of being to refactor our way of building stable, scalable, and easy-to-use models. Below are some of the algorithms covered: 
+
+* K-nearest Neighbors
+* Naïve Bayes
+* Decision Trees/Random Forests
+* Support Vector Machines
+* Neural Networks
+* Hidden Markov Models
+* Clustering
+* Feature Selection
+* Feature Transformation
+* Bagging
+
 ----
 
 ## Collaborate with Domain Experts!
