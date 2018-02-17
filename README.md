@@ -300,10 +300,7 @@ Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Appli
 
 Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
 
-By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts if you can!).
-
-“machine learning wont figure out what problem to solve”
-[Read this great piece in the Google Design blog about UX and Machine Learning.](https://design.google/library/ux-ai/)
+By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts whenever you can!).
 
 ### :bow: A note about Machine Learning and Security (InfoSec, AppSec)
 
