@@ -159,9 +159,9 @@ Here are some other free online courses I've seen recommended. (Machine Learning
 
 Start with the support forums and chats related to the course(s) you're taking.
 
-For now, the best StackExchange site is [stats.stackexchange.com – _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](https://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelearning](https://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+Check out [datascience.stackexchange.com](https://datascience.stackexchange.com/) and [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) There are some subreddits like [/r/machinelearning](https://www.reddit.com/r/machinelearning).
 
-You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
+There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
 
