@@ -139,6 +139,9 @@ Here are some other free online courses I've seen recommended. (Machine Learning
 
 * [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/). Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
 * Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8) Interactive. Markham's course is also offered in-person in Washington, DC.
+* [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
+    * The textbook also provides an academic definition of Data Science: **"Data Science is about drawing useful conclusions from large and diverse data sets through exploration, prediction, and inference".**
+    * [Prof. Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) (associated with Spark) talks about the design of the course in this [video](https://youtu.be/ggq7HiDO0OU?t=1227)
 * Data science courses as IPython Notebooks:
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
@@ -156,9 +159,9 @@ Here are some other free online courses I've seen recommended. (Machine Learning
 
 Start with the support forums and chats related to the course(s) you're taking.
 
-For now, the best StackExchange site is [stats.stackexchange.com – _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) (There's also [datascience.stackexchange.com](https://datascience.stackexchange.com/), but it's still in Beta.) And there's [/r/machinelearning](https://www.reddit.com/r/machinelearning). There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+Check out [datascience.stackexchange.com](https://datascience.stackexchange.com/) and [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) There are some subreddits like [/r/machinelearning](https://www.reddit.com/r/machinelearning).
 
-You should also [join the Gitter channel for scikit-learn!]( https://gitter.im/scikit-learn/scikit-learn)
+There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
 For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
 
@@ -285,13 +288,19 @@ Machine Learning can be powerful, but it is not magic.
 
 Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
 
-### :bow: A note about Machine Learning and User Experience
+### :bow: A note about Machine Learning and User Experience (UX)
 
-Why pick out UX? Well, today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
+I couldn't say it better:
+
+> **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
+
+Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
+
+Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
 
 Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
 
-By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts if you can!).
+By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts whenever you can!).
 
 ### :bow: A note about Machine Learning and Security (InfoSec, AppSec)
 
@@ -300,10 +309,9 @@ There was a great BlackHat webcast on this topic, [Secure Because Math: Understa
 If you want to explore this space more deeply, there is a _lot_ of reading material in the below links:
 
 * [Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/)
-* [Machine Learning and Cyber Security - fsecurify](http://web.archive.org/web/20170606105129/http://fsecurify.com/machine-learning-and-cyber-security/)
-* [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
-* [Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security)
-* [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
+* [Awesome ML for Cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+* [Awesome AI Security](https://github.com/RandomAdversary/Awesome-AI-Security)
+* [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
 ----
 
