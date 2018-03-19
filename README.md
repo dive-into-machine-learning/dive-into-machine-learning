@@ -59,7 +59,7 @@ It won't take long. It's a beautiful introduction ... Try not to drool too much!
 
 OK. Let's dive deeper.
 
-Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by Prof. Pedro Domingos. It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in.
+Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/). It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in.
 
 Take your time with this one. Take notes. Don't worry if you don't understand it all yet.
 
@@ -78,16 +78,18 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 ## Just about time for a break...
 
-Before you take a break, grab some podcasts. First, download [this podcast episode where _Knowledge Project_ interviews Prof. Domingos](https://www.farnamstreetblog.com/2016/09/pedro-domingos-artificial-intelligence/), who wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf).
+Before you take a break, grab some podcasts. First, download [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm) (March 2018). Prof. Domingos wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). You might also start reading his book, [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. 
 
-Next, subscribe to _**[Talking Machines](http://www.thetalkingmachines.com/)**_, a podcast about machine learning. It's a great, low-effort way to learn more. Listen casually to these episodes, over time — no need to rush.
+Next, subscribe to machine learning and data science podcasts! First, I recommend _**[Talking Machines](http://www.thetalkingmachines.com/)**_. It's a great, low-effort way to learn more. Listen casually to these episodes, over time, with plenty of room to [digest and learn](https://www.coursera.org/learn/learning-how-to-learn).
 
 I suggest this listening order:
 
 * Download the ["Starting Simple"](http://www.thetalkingmachines.com/blog/2015/4/23/starting-simple-and-machine-learning-in-meds) episode, and listen to that first. It supports what we read from Domingos. Ryan Adams talks about starting simple, as discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about.
 * Then, over time, you can listen to the entire podcast series (start from the beginning).
 
-OK. Take a break, come back fresh.
+More podcasts: Here's [one good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) of suggestions, [and another](https://mty.ai/blog/the-best-ai-podcasts/).
+
+OK! Take a break, come back refreshed.
 
 ----
 
@@ -97,7 +99,7 @@ Next, pick **one or two** of these IPython Notebooks and play along.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
-- [Election Forecasting](https://github.com/jseabold/538model): A replication of the model Nate Silver used to make [predictions about the 2012 US Presidential Election for the New York Times](https://fivethirtyeight.blogs.nytimes.com/fivethirtyeights-2012-forecast/))
+- [Election Forecasting](https://github.com/jseabold/538model): A replication of the model [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) used to make predictions about the 2012 US Presidential Election for the _New York Times_.
 - [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 - ClickSecurity's "data hacking" series (thanks [hummus](https://github.com/hummus)!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
@@ -113,6 +115,8 @@ There are more places to find great IPython Notebooks:
 
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
+
+_Know another great notebook? Please submit a PR!_
 
 ----
 
