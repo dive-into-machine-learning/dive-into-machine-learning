@@ -78,7 +78,7 @@ So  **knowledge** and **data** are critical. Focus your efforts on those, before
 
 ## Just about time for a break...
 
-Before you take a break, grab some podcasts. First, download [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm) (March 2018). Prof. Domingos wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). You might also start reading his book, [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. 
+Before you take a break, grab some podcasts. First, download [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm) (2018). Prof. Domingos wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). You might also start reading his book, [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. 
 
 Next, subscribe to machine learning and data science podcasts! First, I recommend _**[Talking Machines](http://www.thetalkingmachines.com/)**_. It's a great, low-effort way to learn more. Listen casually to these episodes, over time, with plenty of room to [digest and learn](https://www.coursera.org/learn/learning-how-to-learn).
 
