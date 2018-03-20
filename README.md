@@ -339,6 +339,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Sonnet](https://github.com/deepmind/sonnet) - a python library built on top of TensorFlow for building complex neural networks. Made by Google DeepMind.
+* [Build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e) using [Lore](https://github.com/instacart/lore/).
 
 ## "Big" Data?
 
@@ -372,6 +373,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 * [TensorFlow](https://www.tensorflow.org/) seems like a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials). See also the section on Deep Learning above.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * [CreativeAi.net](http://www.creativeai.net/). OK not exactly about _libraries_, but this is often intriguing, and worth subscribing to  ... warning, it's easy to get sucked in :)
+* Also try [Lore](https://github.com/instacart/lore/) which is making machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 
 ----
 
