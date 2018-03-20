@@ -373,7 +373,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 * [TensorFlow](https://www.tensorflow.org/) seems like a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials). See also the section on Deep Learning above.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * [CreativeAi.net](http://www.creativeai.net/). OK not exactly about _libraries_, but this is often intriguing, and worth subscribing to  ... warning, it's easy to get sucked in :)
-* Also try [Lore](https://github.com/instacart/lore/) which is making machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
+* Also try [Lore](https://github.com/instacart/lore/) which makes machine learning approachable for Software Engineers and maintainable for Machine Learning Researchers.
 
 ----
 
