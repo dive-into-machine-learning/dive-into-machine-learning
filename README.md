@@ -388,4 +388,5 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
+* [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
 * [Your guide here]
