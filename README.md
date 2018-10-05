@@ -29,6 +29,19 @@ If you're using Python 2.7, don't worry. You don't have to migrate to Python 3 j
 
 ## Let's go!
 
+
+Before we begin, let's discuss numpy arrays:
+
+
+Check out the following links
+
+-[Numpy array basics](https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.array.html).
+
+-[Learn about numpy array](https://www.tutorialspoint.com/numpy/numpy_array_attributes.htm).
+
+-[Learn python numpy_arrays](https://www.learnpython.org/en/Numpy_Arrays).
+
+
 **[Learn how to use IPython Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
 Now, follow along with this brief exercise (10 minutes): **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or IPython Notebook. It'll really boost your confidence.
