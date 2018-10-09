@@ -298,6 +298,8 @@ Whenever you apply Machine Learning to solve a problem, you are going to be work
 
 ### :bow: A note about Machine Learning and User Experience (UX)
 
+[You Are Not The User](https://www.nngroup.com/articles/false-consensus/)
+
 I couldn't say it better:
 
 > **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
@@ -305,6 +307,8 @@ I couldn't say it better:
 Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
 
 Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
+
+Just refer [Rule #23 of <i>Martin Zinkevich's Rules of ML Engineering</i>](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system) 
 
 Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
 
