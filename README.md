@@ -118,7 +118,7 @@ Next, pick **one or two** of these IPython Notebooks and play along.
 There are more places to find great IPython Notebooks:
 
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
-* [Fabian Pedregosa's larger, automatic gallery](http://nb.bianp.net/sort/views/)
+* [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
 _Know another great notebook? Please submit a PR!_
 
