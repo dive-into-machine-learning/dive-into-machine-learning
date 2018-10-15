@@ -1,4 +1,4 @@
-# Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **Hi there! This guide is for you:**
 
@@ -389,4 +389,5 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
+* [Thoughtful Machine Learning with Python: A Test-Driven Approach](https://www.amazon.com/Thoughtful-Machine-Learning-Python-Test-Driven/dp/1491924136) A quick read of this book is good for people with a business background who want to know what the various popular algorithms are. It is also great for developers who are looking for Ruby based ML and/or want to see an OOP and test-driven approach to ML. This would possibly help with production quality ML and not recommended for personal learning and quick ML hacks.
 * [Your guide here]
