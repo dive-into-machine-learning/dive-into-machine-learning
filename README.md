@@ -299,21 +299,24 @@ Whenever you apply Machine Learning to solve a problem, you are going to be work
 
 ### :bow: A note about Machine Learning and User Experience (UX)
 
-[You Are Not The User](https://www.nngroup.com/articles/false-consensus/)
-
 I couldn't say it better:
 
 > **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
 
 Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
 
+In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
+
 Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
 
-Just refer [Rule #23 of <i>Martin Zinkevich's Rules of ML Engineering</i>](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system) 
+Before you start working ML into _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. As an informal way to get into this subject, start with this:
 
-Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
+* [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
+* There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
 
-By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts whenever you can!).
+Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. You won't be an expert by any means, but maybe it'll help you konw if/when to reach out for help, review, or guidance. 
+
+Spoiler: you should work with UX specialists whenever you can!
 
 ### :bow: A note about Machine Learning and Security (InfoSec, AppSec)
 
