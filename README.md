@@ -120,6 +120,7 @@ There are more places to find great IPython Notebooks:
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](http://fa.bianp.net/blog/2015/ipythonjupyter-notebook-gallery/)
 
+
 _Know another great notebook? Please submit a PR!_
 
 ----
