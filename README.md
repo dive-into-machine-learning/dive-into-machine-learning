@@ -190,8 +190,8 @@ You'll want to get more familiar with Pandas.
 	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
-* Bookmarks for later when you need to scale (**but don't get ahead of yourself!**)
-	* [The `odo` library](http://odo.readthedocs.io/). "Odo migrates between many formats.
+* Bookmarks for later when you need to scale
+	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
 	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
 
 ## Supplement: Cheat Sheets
