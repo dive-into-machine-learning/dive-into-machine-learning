@@ -189,7 +189,9 @@ You'll want to get more familiar with Pandas.
 	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
-* You may also want to check out [the `odo` library](http://odo.readthedocs.io/). "Odo migrates between many formats. These include in-memory structures like `list`, `pd.DataFrame` [pandas `DataFrame`] and `np.ndarray` [NumPy `ndarray`] and also data outside of Python like CSV/JSON/HDF5 files, SQL databases, data on remote machines, and the Hadoop File System." Definitely a good thing to have in your toolbelt as you play with different data sources.
+* Bookmarks for later when you need to scale
+	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
+	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
 
 ## Supplement: Cheat Sheets
 
@@ -304,11 +306,18 @@ I couldn't say it better:
 
 Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
 
+In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
+
 Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
 
-Before you start working ML into every aspect of _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. For some cursory overview, [start with Quora](https://www.quora.com/search?q=machine+learning+ux), which has some interesting, thoughtful discussions on the subject. Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. _(Do you know good resources on this? Pull requests welcome for all parts of this guide, including this section!)_
+Before you start working ML into _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. As an informal way to get into this subject, start with this:
 
-By no means will that make you an expert in UX, but maybe it'll help you know if/when to reach out for help (hint: almost always — UX is really tricky and you should work with experts whenever you can!).
+* [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
+* There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
+
+Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. You won't be an expert by any means, but maybe it'll help you konw if/when to reach out for help, review, or guidance. 
+
+Spoiler: you should work with UX specialists whenever you can!
 
 ### :bow: A note about Machine Learning and Security (InfoSec, AppSec)
 
