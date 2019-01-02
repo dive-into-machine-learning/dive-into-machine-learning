@@ -18,10 +18,10 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 - [Python](https://www.python.org/). Python 3 is the best option.
 - [IPython and the Jupyter Notebook](http://ipython.org/). (FKA IPython and IPython Notebook.)
 - Some scientific computing packages:
-	- numpy
-	- pandas
-	- scikit-learn
-	- matplotlib
+    - numpy
+    - pandas
+    - scikit-learn
+    - matplotlib
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities.
 
@@ -102,18 +102,28 @@ OK! Take a break, come back refreshed.
 Next, pick **one or two** of these IPython Notebooks and play along.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
+ [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Fogrisel%2Fnotebooks%2Fblob%2Fmaster%2FLabeled%2520Faces%2520in%2520the%2520Wild%2520recognition.ipynb)
+
 - [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
 - [Election Forecasting](https://github.com/jseabold/538model): A replication of the model [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) used to make predictions about the 2012 US Presidential Election for the _New York Times_.
-- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
+- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Frhiever%2FData-Analysis-and-Machine-Learning-Projects%2Fblob%2Fmaster%2Fexample-data-science-notebook%2FExample%2520Machine%2520Learning%2520Notebook.ipynb)
+
+ "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 - ClickSecurity's "data hacking" series (thanks [hummus](https://github.com/hummus)!)
-	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
-	- [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
-	- [Java Class File Analysis](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb): is this Java code malicious or benign?
+    - [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
+ [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FClickSecurity%2Fdata_hacking%2Fblob%2Fmaster%2Fdga_detection%2FDGA_Domain_Detection.ipynb)
+
+    - [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
+ [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FClickSecurity%2Fdata_hacking%2Fblob%2Fmaster%2Fsql_injection%2Fsql_injection.ipynb)
+
+    - [Java Class File Analysis](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/java_classification/java_classification.ipynb): [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2FClickSecurity%2Fdata_hacking%2Fblob%2Fmaster%2Fjava_classification%2Fjava_classification.ipynb)
+
+ is this Java code malicious or benign?
 - If you want more of a data science bent, pick a notebook from [this excellent list of Data Science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
 - Or more generic tutorials/overviews ...
-	- [Tutorial introduction to machine learning with sklearn](http://amueller.github.io/sklearn_tutorial/)
-	- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
-	- [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
+    - [Tutorial introduction to machine learning with sklearn](http://amueller.github.io/sklearn_tutorial/)
+    - [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
+    - [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
 
 There are more places to find great IPython Notebooks:
 
@@ -152,14 +162,14 @@ Here are some other free online courses I've seen recommended. (Machine Learning
     * The textbook also provides an academic definition of Data Science: **"Data Science is about drawing useful conclusions from large and diverse data sets through exploration, prediction, and inference".**
     * [Prof. Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) (associated with Spark) talks about the design of the course in this [video](https://youtu.be/ggq7HiDO0OU?t=1227)
 * Data science courses as IPython Notebooks:
-	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
-	* Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
+    * [Practical Data Science](http://radimrehurek.com/data_science_python/)
+    * [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
+    * Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
 * Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
-	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
-	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
-	* Data Science Weekly's [Big List of Data Science Resources](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) has a [List of Data Science MOOCs](https://www.datascienceweekly.org/data-science-resources/data-science-moocs)
+    * Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
+    * [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
+    * Data Science Weekly's [Big List of Data Science Resources](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) has a [List of Data Science MOOCs](https://www.datascienceweekly.org/data-science-resources/data-science-moocs)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive (lots of IPython Notebook material)
 * [Data Science (Harvard CS109)](http://cs109.github.io/2014/)
 
@@ -179,20 +189,20 @@ For help and community in meatspace, seek out meetups. Data Science Weekly's [Bi
 You'll want to get more familiar with Pandas.
 
 * **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
+* **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook) [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Frasbt%2Fpython_reference%2Fblob%2Fmaster%2Ftutorials%2Fthings_in_pandas.ipynb)
 * Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 * [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 * Here are some docs I found especially helpful as I continued learning:
-	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
-	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
-	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
-	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
-	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+    * [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
+    * [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
+    * [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
+    * [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
+    * [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
+    * [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
 * Bookmarks for later when you need to scale
-	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
-	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
+    * [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
+    * [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
 
 ## Supplement: Cheat Sheets
 
@@ -212,6 +222,8 @@ I'm not repeating the materials mentioned above, but here are some other Data Sc
 * **[An entire self-directed course in Data Science, as a IPython Notebook](http://learnds.com/)**
 * [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
 * Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
+ [<img align="right" height="24" src="https://beta.deepnote.org/buttons/launch-in-deepnote.svg">](https://beta.deepnote.org/launch?template=data-science&url=https%3A%2F%2Fgithub.com%2Fjmsteinw%2FNotebooks%2Fblob%2Fmaster%2FIndeedJobs.ipynb)
+
 * Swami Chandrasekaran's ["Becoming a Data Scientist"](http://nirvacana.com/thoughts/becoming-a-data-scientist/) is a concise, printable picture of a data science curriculum
 
 ## Bayesian Statistics and Machine Learning
@@ -358,8 +370,8 @@ Scaling data analysis is a familiar problem now, and there's no shortage of ways
 There are [other lists of Awesome Machine Learning tools](https://github.com/josephmisiti/awesome-machine-learning), so I won't re-do all that. But in the Big Data section, I would be remiss if I didn't mention...
 
 * **[Apache Spark.](https://spark.apache.org/mllib/)** "MLlib is Apache Spark's scalable machine learning library."
-	* Aside from the scalability, Spark has great APIs. And what's more, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
-	* Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
+    * Aside from the scalability, Spark has great APIs. And what's more, [Spark has DataFrames and easy co-operability with pandas!](https://databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
+    * Berkeley has [a course on Scalable Machine Learning, focusing on Apache Spark.](https://www.edx.org/course/scalable-machine-learning-uc-berkeleyx-cs190-1x#.VOC70VPF_lQ)
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
