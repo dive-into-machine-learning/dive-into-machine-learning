@@ -351,7 +351,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Sonnet](https://github.com/deepmind/sonnet) - a python library built on top of TensorFlow for building complex neural networks. Made by Google DeepMind.
 * [Build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e) using [Lore](https://github.com/instacart/lore/).
-* [Creative Applications of Deep Learning w/ Tensorflow](https://github.com/pkmital/CADL) Very interactive session to know intution behind Tensorflow and make your fist Neural Network using Tensorflow.
+* [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
 
 ## "Big" Data?
