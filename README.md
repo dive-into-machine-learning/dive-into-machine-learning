@@ -185,10 +185,10 @@ You'll want to get more familiar with Pandas.
 * Here are some docs I found especially helpful as I continued learning:
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
-	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
+	* [Reshaping by pivoting DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
 	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
-	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for later when you need to scale
 	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
 	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
@@ -212,6 +212,8 @@ I'm not repeating the materials mentioned above, but here are some other Data Sc
 * [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
 * Fun little IPython Notebook: [Web Scraping Indeed.com for Key Data Science Job Skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb)
 * Swami Chandrasekaran's ["Becoming a Data Scientist"](http://nirvacana.com/thoughts/becoming-a-data-scientist/) is a concise, printable picture of a data science curriculum
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) is one of the best entry level book that you can find on Internet.
+
 
 ## Bayesian Statistics and Machine Learning
 
@@ -350,6 +352,7 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [Sonnet](https://github.com/deepmind/sonnet) - a python library built on top of TensorFlow for building complex neural networks. Made by Google DeepMind.
 * [Build a deep learning model in 15 minutes](https://tech.instacart.com/how-to-build-a-deep-learning-model-in-15-minutes-a3684c6f71e) using [Lore](https://github.com/instacart/lore/).
 * [Dive into Deep Learning](https://d2l.ai/) - An interactive deep learning book with code, math, and discussions.
+* [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
 
 ## "Big" Data?
@@ -384,7 +387,6 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
     * Also, consider [Lore](https://github.com/instacart/lore/). "Lore is a python framework to make machine learning [especially deep learning] approachable for Engineers and maintainable for Data Scientists." 
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Bookmark [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
-* [CreativeAI.net](http://www.creativeai.net/). OK not exactly about _libraries_, but this is often intriguing, and worth subscribing to  ... warning, it's easy to get sucked in :)
 
 ----
 
