@@ -22,6 +22,7 @@ I suggest you get your feet wet ASAP. You'll boost your confidence.
 	- pandas
 	- scikit-learn
 	- matplotlib
+	- missingno
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities.
 
