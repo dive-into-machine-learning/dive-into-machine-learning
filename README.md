@@ -395,4 +395,18 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Distill](https://distill.pub/about/) is a journal devoted to clear and interactive explanations of the lastest research in machine learning. They offer an alternative to traditional academic publishing that promotes accessibility and transparency in the field.
+
+## Artificial Neural Network
+
+ANN is a interconnected or collection of groups of nodes inspired by a biological neural network(like neurons works in brain).Here the circular node represents an artificial neuron and an arrow represents a connection from the output of one artificial neuron to the input of other. ANN is very powerful mechanism in solving AI problem included with Deep Learning.
+
+ANN classified into various types:-
+ * Resources for learning Convolutional Neural Network are: http://cs231n.github.io/convolutional-networks/ **[Best resources by stanford CS231n for learning CNN]**
+ * Beginners guide to learning CNN :- **https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8**
+ * Beginners guide to lean and understand Recurrent Neural Network :- https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
+ * Deep Learning for Natural Language Processing :- **[ Stanford CS224d] https://cs224d.stanford.edu/**
+* **[Free courses to learn AI and NN]** https://aitube.io/courses/. Best free resources to learn AI, NN and ML.
+* Learn all these cognitive technologies with hands-on experience with **[Intel AI Academy] (https://www.aisingapore.org/resources/intel-ai-academy/)**
+* Explaination of Neural networks and also Recurrent Neural Network (https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b). **[Detailed Explaination with practice]**
+
 * [Your guide here]
