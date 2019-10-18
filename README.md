@@ -7,11 +7,19 @@
 
 I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
 
-_Note:_ There are several fields within "Data" and Machine Learning is just one. It's good to know the context: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
+<br/>
 
-# Get your feet wet!
+## [Does your employer support your growth?]("https://triplebyte.com/iv/RoKMZpG/cp/header")
 
-I suggest you get your feet wet ASAP. You'll boost your confidence.
+If you're reading this guide, you like to learn by doing. Your employer should give you projects in line with your strengths and interests. If not, you owe it to yourself to move on!
+
+<a href="https://triplebyte.com/iv/RoKMZpG/cp/header"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"></a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">Take the Triplebyte coding quiz and **let the jobs come to you.**</a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">You can support <i>Dive Into Machine Learning</i> by using my link.</a>
+
+<br/>
+
+# Let's get started
+
+I suggest you get your feet wet to start. You'll boost your confidence.
 
 ## Tools you'll need
 
@@ -75,6 +83,11 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 (Chart inspired by a slide from [Alex Pinto's talk, "Secure Because Math: A Deep-Dive on ML-Based Monitoring"](https://www.youtube.com/watch?v=TYVCVzEJhhQ).)
 
 [Do Simple Things]: http://wiki.c2.com/?DoSimpleThings
+
+## Jargon note
+
+* [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1) 
+* Another handy term: [_**Data Engineering.**_](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811?gi=67df10cc32ea), which may involve or support Machine Learning, but is not limited to Machine Learning.
 
 ## Just about time for a break...
 
