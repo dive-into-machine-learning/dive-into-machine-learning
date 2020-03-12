@@ -1,8 +1,0 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-dupe --allow-redirect --white-list quora.com,thetalkingmachines,andrewng.org,news.ycombinator.com
-sudo: false
