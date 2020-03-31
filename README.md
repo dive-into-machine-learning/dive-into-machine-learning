@@ -9,11 +9,11 @@ I learned Python by hacking first, and getting serious *later.* I wanted to do t
 
 <br/>
 
-## [Does your employer support your growth?]("https://triplebyte.com/iv/RoKMZpG/cp/header")
+## [Does your employer support your growth?]("https://triplebyte.com/a/POPZ5Di/d")
 
 If you're reading this guide, you like to learn by doing. Your employer should give you projects in line with your strengths and interests. If not, you owe it to yourself to move on!
 
-<a href="https://triplebyte.com/iv/RoKMZpG/cp/header"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"></a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">Take the Triplebyte coding quiz and **let the jobs come to you.**</a> <a href="https://triplebyte.com/iv/RoKMZpG/cp/header">You can support <i>Dive Into Machine Learning</i> by using my link.</a>
+<a href="https://triplebyte.com/a/POPZ5Di/d"><img align="right" src="https://user-images.githubusercontent.com/2420688/67127456-3f4b1700-f1ae-11e9-8cad-371212258d5c.png" width="300"  alt="Triplebyte"></a> <a href="https://triplebyte.com/a/POPZ5Di/d">Take the Triplebyte coding quiz and **let the jobs come to you.** You can support <i>Dive Into Machine Learning</i> by using my link.</a>
 
 <br/>
 
