@@ -9,7 +9,7 @@ I learned Python by hacking first, and getting serious *later.* I wanted to do t
 
 <br/>
 
-## [Does your employer support your growth?]("https://triplebyte.com/a/POPZ5Di/d")
+## Does your employer support your growth?
 
 If you're reading this guide, you like to learn by doing. Your employer should give you projects in line with your strengths and interests. If not, you owe it to yourself to move on!
 
