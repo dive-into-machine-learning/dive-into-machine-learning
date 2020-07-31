@@ -238,6 +238,9 @@ You can learn more by studying one of the following resources. Both resources us
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
 
+Here is a simple game that is based on machine learning and explains which bayesian statistics techniques are driving the calculations:
+* [19 Questions](https://github.com/fulldecent/19-questions)
+
 ## Risks
 
 "Machine learning systems automatically learn programs from
