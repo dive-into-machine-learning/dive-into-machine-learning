@@ -227,9 +227,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
 * The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
 * [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
-
-Here is a simple game that is based on machine learning and explains which bayesian statistics techniques are driving the calculations:
-* [19 Questions](https://github.com/fulldecent/19-questions)
+* Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques are being use.**
 
 ## Risks
 
