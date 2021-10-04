@@ -16,7 +16,7 @@ I suggest you get your feet wet to start. You'll boost your confidence.
 ### Local installation
 
 - [Python](https://www.python.org/). Python 3 is the best option.
-- [Jupyter Notebook](https://jupyter.org/). (FKA IPython and IPython Notebook.)
+- [Jupyter Notebook](https://jupyter.org/). (Formerly known as IPython Notebook.)
 - Some scientific computing packages:
 	- numpy
 	- pandas
@@ -27,10 +27,13 @@ You can install Python 3 and all of these packages in a few clicks with the [Ana
 
 ### Browser-based
 
-There is a growing list of free browser-based options. 
+Some options:
 
 - [Deepnote](https://deepnote.com/) allows for real-time collaboration
-- [Colab](https://colab.research.google.com/) provides free GPUs
+- [Binder](https://mybinder.org/), i.e. [try JupyterLab](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/) provides free GPUs
+
+For other options, see [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions) or [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
