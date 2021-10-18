@@ -30,10 +30,13 @@ You can install Python 3 and all of these packages in a few clicks with the [Ana
 Some options:
 
 - [Deepnote](https://deepnote.com/) allows for real-time collaboration
-- [Binder](https://mybinder.org/), i.e. [try JupyterLab](https://jupyter.org/try)
-- [Google Colab](https://colab.research.google.com/) provides free GPUs
+- [Binder](https://mybinder.org/) is the official choice to [try JupyterLab](https://jupyter.org/try)
+- [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
-For other options, see [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions) or [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
+For other options, see:
+
+- [markusschanta/awesome-jupyter → Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
+- [ml-tooling/best-of-jupyter → Notebook Environments](https://github.com/ml-tooling/best-of-jupyter)
 
 ## Let's go!
 
