@@ -45,13 +45,7 @@ Now, follow along with this brief exercise (10 minutes): **[An introduction to m
 
 ## What just happened?
 
-You just classified some hand-written digits using [scikit-learn]. Neat huh?
-
-[scikit-learn] is the go-to library for machine learning in Python. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
-
-[scikit-learn]: http://scikit-learn.org/stable/index.html
-
-I encourage you to look at the [scikit-learn] homepage  and spend about 5 minutes looking over the names of the strategies (Classification, Regression, etc.), and their applications. Don't click through yet! Just get a glimpse of the vocabulary.
+You just classified some hand-written digits using [scikit-learn](http://scikit-learn.org/stable/index.html). Neat huh?
 
 # Dive in
 
