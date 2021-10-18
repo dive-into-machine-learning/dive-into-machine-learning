@@ -1,15 +1,18 @@
 # Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-**Hi there! This guide is for you:**
+Hi there! This guide is for you if:
 
-* **You're new to [Machine Learning.](https://en.wikipedia.org/wiki/Machine_learning)**
-* **You know Python.** (At least the basics! If you want to learn more Python, [try this](https://github.com/hangtwenty/python-is-for-lovers))
+* You know Python (or [you're learning it](https://github.com/hangtwenty/python-is-for-lovers))
+* You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+* You care about [the ethics of AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
+    * 📝 **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
+* You learn by doing
 
-I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself.
+If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
 
 # Let's get started
 
-I suggest you get your feet wet to start. You'll boost your confidence.
+Get your feet wet and boost your confidence.
 
 ## Tools you'll need
 
