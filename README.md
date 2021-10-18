@@ -367,8 +367,6 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
-* [Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning
-
 
 ## "Big" Data?
 
