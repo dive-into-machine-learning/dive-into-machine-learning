@@ -265,7 +265,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](https://user-images.githubusercontent.com/2420688/29441268-f429d88c-837e-11e7-83ff-30874d832c89.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
-**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. (Also please [don't be evil](https://arstechnica.co.uk/security/2016/02/the-nsas-skynet-program-may-be-killing-thousands-of-innocent-people/).) This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone expertise. It's hard to evaluate proficiency without schools or other institutions. This is a common problem for self-taught people.
+**Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. Please do bookmark the Institute for Ethical AI & Machine Learning's **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**. This guide can't tell you how you'll know you've "made it" into Machine Learning competence ... let alone expertise. It's hard to evaluate proficiency without schools or other institutions. So, practice!
 
 #### Towards Expertise
 
@@ -304,6 +304,10 @@ Here are some communities where you can reach out for peer review:
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
+
+### Bookmark EthicalML's awesome-list
+
+**[Bookmark github.com/EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines).** Shortcuts: [High Level Frameworks & Principles](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#high-level-frameworks-and-principles), [Processes & Checklists](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#processes-and-checklists), [Interactive & Practical Tools](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#interactive-and-practical-tools), [Industry Standards Initiatives](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#industry-standards-initiatives), [Online Courses](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#online-courses-and-learning-resources), [Regulation and Policy](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#regulation-and-policy), [Newsletters](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#research-and-industry-newsletters).
 
 ----
 
@@ -346,7 +350,6 @@ If you want to explore this space more deeply, there is a _lot_ of reading mater
 * [Awesome Adversarial Machine Learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning)
 
 ----
-
 
 ## Deep Learning
 
