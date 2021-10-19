@@ -249,15 +249,12 @@ Here is the abstract of [Machine Learning: The High-Interest Credit Card of Tech
 
 If you're following this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
-A few more articles on the challenges running ML-powered systems in Production:
-
-- **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices and patterns in production at Google. Optional: [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
-- [**"What’s your ML Test Score? A rubric for ML production systems"**](https://0586f9b3-a-62cb3a1a-s-sites.googlegroups.com/site/wildml2016nips/SculleyPaper1.pdf?attachauth=ANoY7crRjdpoElseeyOPu-wR0eV9Engf3Cm9LKs0PAB4j-nDQuw9gE426Ug2HM-0BZ7qJjtLHVtpgwbP6zfNYyE_2gWkU5ACKczAIuKCTHq9nT0JEGpEL5TCT3APmScXKkS8HTqhJz-wen6vbq9XeHh_M5Heg49ozxsIiGMzX7PvIKxpnvViDOBLNymVQOkxuvX0-xnQThxU9CjEWQH25vOwdpJi-VQl1w%3D%3D&attredirects=0) by Eric Breck, Shanqing Cai, Eric Nielsen, Michael Salib, D. Sculley, Google.
+- **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
+- **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices. There's an [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
 - **[Surviving Data Science "at the Speed of Hype"](http://www.john-foreman.com/blog/surviving-data-science-at-the-speed-of-hype)** by John Foreman, Data Scientist at MailChimp
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 - [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
-
 
 ### Welcome to the Danger Zone
 
@@ -305,9 +302,9 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
-### Bookmark EthicalML's awesome-list
+### Bookmark EthicalML's awesome-artificial-intelligence-guidelines
 
-**[Bookmark github.com/EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines).** Shortcuts: [High Level Frameworks & Principles](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#high-level-frameworks-and-principles), [Processes & Checklists](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#processes-and-checklists), [Interactive & Practical Tools](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#interactive-and-practical-tools), [Industry Standards Initiatives](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#industry-standards-initiatives), [Online Courses](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#online-courses-and-learning-resources), [Regulation and Policy](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#regulation-and-policy), [Newsletters](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#research-and-industry-newsletters).
+Bookmark **[awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines).** Shortcuts: [High Level Frameworks & Principles](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#high-level-frameworks-and-principles), [Processes & Checklists](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#processes-and-checklists), [Interactive & Practical Tools](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#interactive-and-practical-tools), [Industry Standards Initiatives](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#industry-standards-initiatives), [Online Courses](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#online-courses-and-learning-resources), [Regulation and Policy](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#regulation-and-policy), [Newsletters](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#research-and-industry-newsletters). Also from the same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 ----
 
@@ -383,7 +380,7 @@ Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-ri
 * [TensorFlow](https://www.tensorflow.org/) has been a [really big deal.](https://news.ycombinator.com/item?id=10532957) People like you will do exciting things with TensorFlow. It's a framework. Frameworks can help you manage complexity. Just remember this rule of thumb: **"More data beats a cleverer algorithm"** (Domingos), no matter how cool your tools are. Also note, TensorFlow is not the only machine learning framework of its kind: **[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** See also [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials). See also the section on Deep Learning above.
     * Also, consider [Lore](https://github.com/instacart/lore/). "Lore is a python framework to make machine learning [especially deep learning] approachable for Engineers and maintainable for Data Scientists." 
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
-* Bookmark [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
+* Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
 ----
 
