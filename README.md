@@ -302,13 +302,18 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
 
-### Bookmark EthicalML's awesome-artificial-intelligence-guidelines
+### It's dangerous to go alone, take these!
 
-Bookmark **[awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines).** Shortcuts: [High Level Frameworks & Principles](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#high-level-frameworks-and-principles), [Processes & Checklists](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#processes-and-checklists), [Interactive & Practical Tools](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#interactive-and-practical-tools), [Industry Standards Initiatives](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#industry-standards-initiatives), [Online Courses](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#online-courses-and-learning-resources), [Regulation and Policy](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#regulation-and-policy), [Newsletters](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines#research-and-industry-newsletters). Also from the same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
+**Bookmark these:**
+
+* **[Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+    * Also by same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
+* **[Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
+    * Also by same author: [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
 
 ----
 
-## Collaborate with Domain Experts!
+## Collaborate with Domain Experts
 
 Machine Learning can be powerful, but it is not magic.
 
