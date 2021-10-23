@@ -4,8 +4,8 @@ Hi there! This guide is for you if:
 
 * You know Python (or [you're learning it](https://github.com/hangtwenty/python-is-for-lovers))
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
-* You care about [the ethics of AI](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence)
-    * 📝 **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
+* You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
+    * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
 * You learn by doing
 
 If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
