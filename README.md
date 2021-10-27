@@ -2,10 +2,11 @@
 
 Hi there! This guide is for you if:
 
-* You know Python (or [you're learning it](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb))
+* You know Python or [you're learning it](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) :snake:
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
     * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
+    * [Questions to ask yourself when working with ML](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 * You learn by doing
 
 If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
