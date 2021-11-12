@@ -300,7 +300,6 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
     * Also by same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
 * **[Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
     * Also by same author: [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
-* [replicate.ai](https://replicate.ai/) is also one to bookmark/try.
 
 ----
 
