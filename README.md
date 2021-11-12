@@ -300,6 +300,7 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
     * Also by same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
 * **[Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
     * Also by same author: [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
+* [replicate.ai](https://replicate.ai/) is also one to bookmark/try.
 
 ----
 
@@ -352,7 +353,14 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
-## "Big" Data?
+### Easier sharing of deep learning models and demos
+
+* [replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model," for the sake of reproducible research. Check it out.
+    * For beginners, you can try some models using GANs and other Deep Learning concepts.
+    * Bookmark-worthy because you can use it to share your learning or research later, too.
+    * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
+
+### "Big" Data?
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
