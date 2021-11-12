@@ -282,10 +282,11 @@ As you repeat this process, your practice studies will become more scientific, i
 
 Here are some communities where you can reach out for peer review:
 
-* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
+* [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
+* [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
 * [Hacker News: news.ycombinator.com](https://news.ycombinator.com). You'll probably want to submit as "Show HN"
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
@@ -354,9 +355,9 @@ In any case, when you decide you're ready to dive into Deep Learning, here are s
 
 ### Easier sharing of deep learning models and demos
 
-* [replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model," for the sake of reproducible research. Check it out.
+* **[replicate.ai](https://replicate.ai)** "makes it easy to share a running machine learning model" for the sake of reproducible research. Check it out.
     * For beginners, you can try some models using GANs and other Deep Learning concepts.
-    * Bookmark-worthy because you can use it to share your learning or research later, too.
+    * Bookmark-worthy because you can use it to share your learning or research, too.
     * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
 
 ### "Big" Data?
