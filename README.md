@@ -6,6 +6,7 @@ Hi there! This guide is for you if:
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
     * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
+    * [Open Ethics Canvas](https://openethics.ai/canvas/)
     * [Questions to ask yourself when working with ML](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 * You learn by doing
 
