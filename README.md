@@ -17,7 +17,7 @@ Get your feet wet and boost your confidence.
 
 ## Tools you'll need
 
-### Local installation
+### If you prefer local installation
 
 - [Python](https://www.python.org/). Python 3 is the best option.
 - [Jupyter Notebook](https://jupyter.org/). (Formerly known as IPython Notebook.)
@@ -27,13 +27,13 @@ Get your feet wet and boost your confidence.
 	- scikit-learn
 	- matplotlib
 
-You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. You can use whichever tool you want. [conda vs. pip vs. virtualenv](https://conda.io/docs/commands.html#conda-vs-pip-vs-virtualenv-commands)
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. (Use whichever tool you want.)
 
-### Cloud-based
+### Cloud-based options
 
 Some options you can use from your browser:
 
-- [Binder](https://mybinder.org/) is the official choice to [try JupyterLab](https://jupyter.org/try)
+- **[Binder](https://mybinder.org/) is Jupyter Notebook's official choice to [try JupyterLab](https://jupyter.org/try)**
 - [Deepnote](https://deepnote.com/) allows for real-time collaboration
 - [Google Colab](https://colab.research.google.com/) provides "free" GPUs
 
