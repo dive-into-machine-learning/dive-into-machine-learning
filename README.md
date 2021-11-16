@@ -297,10 +297,10 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 **Bookmark these:**
 
-* **[Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
-    * Also by same org: [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
-* **[Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
-    * Also by same author: [Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
+* **[EthicalML/Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+    * Also by same org: [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
+* **[visenger/Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
+    * Also by same author: [visenger/Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
 
 ----
 
