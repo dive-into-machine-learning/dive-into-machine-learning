@@ -402,5 +402,8 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * For some news sources to follow, check out [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* One or both of these open-source books, also available on LeanPub:
+  * https://github.com/rasbt/python-machine-learning-book-2nd-edition 
+  * https://github.com/rasbt/deep-learning-book
 * [Your favorite guide here?]
 
