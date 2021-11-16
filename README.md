@@ -301,9 +301,10 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 * **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
 * **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)** ([ml-ops.org](https://ml-ops.org/))
-    * If the MLOps landscape is overwhelming, these two resources might help you get your bearings:
-        * [Lj Miranda, "Navigating the MLOps Landscape" - part 1](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/), [2](https://ljvmiranda921.github.io/notebook/2021/05/15/navigating-the-mlops-landscape-part-2/), [3](https://ljvmiranda921.github.io/notebook/2021/05/30/navigating-the-mlops-landscape-part-3/); [or a summary](https://mlopsroundup.substack.com/p/issue-19-mlops-tooling-vertex-ai)
-        * **[Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)**
+    * If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
+        * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
+        * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
+        * (If you are not ready to learn about MLOps yet, don't worry, just bookmark for later.)
 
 ----
 
