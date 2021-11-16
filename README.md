@@ -117,14 +117,13 @@ Next, pick **one or two** of these Jupyter Notebooks and play along.
 
 - [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
-- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/): Using Titanic data, "Demonstrates basic data munging, analysis, and visualization techniques. Shows examples of supervised machine learning techniques."
-- If you want more of a data science bent, pick a notebook from [this excellent list of Data Science ipython notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-- Or more generic tutorials/overviews ...
-	- [Tutorial introduction to machine learning with sklearn](http://amueller.github.io/sklearn_tutorial/)
-	- [An Introduction to Supervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-22/an-introduction-to-supervised-learning-scikit-learn/)
-	- [An Introduction to Unsupervised Learning via Scikit Learn](http://bugra.github.io/work/notes/2014-11-16/an-introduction-to-unsupervised-learning-scikit-learn/)
+- Various notebooks by topic:
+    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - "This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab notebook (to see how a model was trained) and 🎨 demo page (to see a model in action right in your browser)."
+    - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+- Notebooks in a series:
+    - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
 
-Find more amazing Jupyter Notebooks:
+Find more great Jupyter Notebooks when you're ready:
 
 * **[Jupyter's official Gallery of Interesting Jupyter and IPython Notebooks: Statistics, Machine Learning and Data Science](https://github.com/jupyter/jupyter/wiki)** ([permalink](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/ae03c01ed25024aa06a4479ea600895d59b38bc4))
 
@@ -401,7 +400,7 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
 * One or both of these open-source books, also available on LeanPub:
-  * https://github.com/rasbt/python-machine-learning-book-2nd-edition 
-  * https://github.com/rasbt/deep-learning-book
-* [Your favorite guide here?]
+  1. https://github.com/rasbt/python-machine-learning-book-2nd-edition 
+  2. https://github.com/rasbt/deep-learning-book
+* [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
