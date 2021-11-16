@@ -304,7 +304,7 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
     * If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
         * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
         * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
-        * (If you are not ready to learn about MLOps yet, don't worry, just bookmark for later.)
+        * (Friendly reminder: just bookmark for later if it's not relevant for you yet.)
 
 ----
 
