@@ -295,12 +295,16 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 ### It's dangerous to go alone, take these!
 
-**Bookmark these:**
+**Some recommended bookmarks:**
 
-* **[EthicalML/Awesome-Artificial-Intelligence-Guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
-    * Also by same org: [EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)
-* **[visenger/Awesome-ML-Model-Governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
-    * Also by same author: [visenger/Awesome-MLOps](https://github.com/visenger/awesome-mlops) ([ml-ops.org](https://ml-ops.org/))
+* **[EthicalML/awesome-artificial-intelligence-guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+* **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
+* **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
+* **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)** ([ml-ops.org](https://ml-ops.org/))
+    * If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
+        * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
+        * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
+        * (Friendly reminder: just bookmark for later if it's not relevant for you yet.)
 
 ----
 
