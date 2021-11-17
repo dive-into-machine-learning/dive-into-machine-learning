@@ -7,7 +7,6 @@ Hi there! This guide is for you if:
 * You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
     * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
     * [Open Ethics Canvas](https://openethics.ai/canvas/)
-    * [Questions to ask when working with ML](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 * You learn by doing
 
 If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field.
@@ -245,6 +244,7 @@ If you're following this guide, you should read that paper. You can also [listen
 - [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 - [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 - [The Perilous World of Machine Learning for Fun and Profit: Pipeline Jungles and Hidden Feedback Loops](http://www.john-foreman.com/blog/the-perilous-world-of-machine-learning-for-fun-and-profit-pipeline-jungles-and-hidden-feedback-loops)
+- [Questions to ask when working with ML](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
 ### Welcome to the Danger Zone
 
