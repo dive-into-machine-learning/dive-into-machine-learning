@@ -210,13 +210,11 @@ Some good cheat sheets I've come across. (Please [submit a Pull Request](https:/
 
 Here are some additional Data Science resources:
 
-* **Extremely accessible data science book: [_Data Smart_ by John Foreman](http://www.john-foreman.com/data-smart-book.html)**
 * **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
+* Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
 * [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
-* Swami Chandrasekaran's ["Becoming a Data Scientist"](http://nirvacana.com/thoughts/becoming-a-data-scientist/) is a concise, printable picture of a data science curriculum (caveat: it is from 2013, but still useful)
 
-
-## Bayesian Statistics and Machine Learning
+### Bayesian Statistics and Machine Learning
 
 From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
 
@@ -287,7 +285,6 @@ Here are some communities where you can reach out for peer review:
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
 * [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
-* [Hacker News: news.ycombinator.com](https://news.ycombinator.com). You'll probably want to submit as "Show HN"
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
 
