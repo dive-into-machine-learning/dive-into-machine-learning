@@ -290,17 +290,17 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 ### Production, Deployment, [MLOps](https://ml-ops.org/)
 
-MLOps is about dealing with problems like this:
+MLOps can help you deal with a problem like this:
 
 [![image](https://user-images.githubusercontent.com/2420688/142702473-58834c0b-eda7-4496-a449-4bc24aa217b1.png)](https://valohai.com/mlops-ebook/)
 
 If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
 
-* ["MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström at Valohai
-* ["MLOps Stack Canvas"](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
+* ["MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström
 * ["Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more"](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7) by Ernest Chan
+* ["MLOps Stack Canvas"](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
 
-Recommended bookmarks to save/star/watch:
+Recommended awesomelists to save/star/watch:
 
 * **[EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
 * **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
