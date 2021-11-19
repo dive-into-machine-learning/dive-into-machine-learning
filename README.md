@@ -194,7 +194,7 @@ You'll want to get more familiar with Pandas.
 	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for later when you need to scale
 	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
-	* See also: the MLOps section later in this guide.
+	* See also: the MLOps section [later in this guide](#production-deployment-mlops).
 
 ## Supplement: Cheat Sheets
 
@@ -296,9 +296,9 @@ MLOps can help you deal with a problem like this:
 
 If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
 
-* ["MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström
-* ["Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more"](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7) by Ernest Chan
-* ["MLOps Stack Canvas"](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
+* [Lessons on ML Platforms from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7) by Ernest Chan in *Towards Data Science*
+* [MLOps Stack Template](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström
+* [MLOps Stack Canvas](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
 
 Recommended awesomelists to save/star/watch:
 
