@@ -193,8 +193,8 @@ You'll want to get more familiar with Pandas.
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for later when you need to scale
-	* [The `odo` library](http://odo.readthedocs.io/) for converting between _many_ formats.
 	* [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced. 
+	* See also: the MLOps section later in this guide.
 
 ## Supplement: Cheat Sheets
 
@@ -278,7 +278,7 @@ As you repeat this process, your practice studies will become more scientific, i
 
 #### Ask for Peer Review
 
-Here are some communities where you can reach out for peer review:
+Here are some communities where you can reach out for informal peer review:
 
 * [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
@@ -288,18 +288,24 @@ Here are some communities where you can reach out for peer review:
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
 
-### It's dangerous to go alone, take these!
+### Production, Deployment, [MLOps](https://ml-ops.org/)
 
-**Some recommended bookmarks:**
+MLOps is about dealing with problems like this:
 
-* **[EthicalML/awesome-artificial-intelligence-guidelines.](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
+[![image](https://user-images.githubusercontent.com/2420688/142702473-58834c0b-eda7-4496-a449-4bc24aa217b1.png)](https://valohai.com/mlops-ebook/)
+
+If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
+
+* ["MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström at Valohai
+* ["MLOps Stack Canvas"](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
+* ["Lessons on ML Platforms — from Netflix, DoorDash, Spotify, and more"](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7) by Ernest Chan
+
+Recommended bookmarks to save/star/watch:
+
+* **[EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
 * **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
-* **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)** ([ml-ops.org](https://ml-ops.org/))
-    * If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
-        * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
-        * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
-        * (Friendly reminder: just bookmark for later if it's not relevant for you yet.)
+* **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
 
 ----
 
