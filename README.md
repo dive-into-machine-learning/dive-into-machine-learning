@@ -281,6 +281,7 @@ As you repeat this process, your practice studies will become more scientific, i
 Here are some communities where you can reach out for informal peer review:
 
 * [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
+* [One of the leaderboards linked from paperswithcode/releasing-research-code](https://github.com/paperswithcode/releasing-research-code#results-leaderboards)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
 * [/r/MachineLearning](https://reddit.com/r/MachineLearning)
@@ -331,7 +332,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 ### Easier sharing of deep learning models and demos
 
-* **[replicate.ai](https://replicate.ai)** "makes it easy to share a running machine learning model" for the sake of reproducible research. Check it out.
+* **[replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model"** for the sake of reproducible research. It's worth checking out.
     * For beginners, you can try some models using GANs and other Deep Learning concepts.
     * Bookmark-worthy because you can use it to share your learning or research, too.
     * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
