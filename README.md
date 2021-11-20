@@ -288,8 +288,6 @@ Here are some communities where you can reach out for peer review:
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
 
-When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
-
 ### It's dangerous to go alone, take these!
 
 **Some recommended bookmarks:**
