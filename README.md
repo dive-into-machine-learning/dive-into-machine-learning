@@ -139,7 +139,7 @@ Now you should be hooked, and hungry to learn more. Pick one of the courses belo
 
 **[Prof. Andrew Ng's](http://www.andrewng.org/about/) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews) [And](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
-You might like to have a pet project to play with, on the side. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets).
+You might like to have a pet project to play with, on the side. When you are ready for that, you could explore one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets).
 
 Also, you should grab an in-depth textbook to use as a reference. The two recommendations I saw repeatedly were [_Understanding Machine Learning_ ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
