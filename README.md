@@ -81,7 +81,7 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 
 ![What has the most impact in Machine Learning](https://user-images.githubusercontent.com/2420688/29441212-798d2bba-837e-11e7-90b1-21daaf8d7b73.png)
 
-(Graphic inspired by a slide from [Alex Pinto's talk, "Secure Because Math: A Deep-Dive on ML-Based Monitoring"](https://www.youtube.com/watch?v=TYVCVzEJhhQ).)
+(Graphic inspired by slide 28 from [Alex Pinto's talk, "Secure Because Math: A Deep-Dive on ML-Based Monitoring"](https://www.slideshare.net/AlexandrePinto10/secure-because-math-a-deepdive-on-machine-learningbased-monitoring-securebecausemath))
 
 [Do Simple Things]: http://wiki.c2.com/?DoSimpleThings
 
@@ -336,7 +336,7 @@ That quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/libra
 ## Big data
 
 <details>
-<summary>Here are some other useful links regarding Big Data and ML.
+<summary>Here are some useful links regarding Big Data and ML.
 </summary>
 
 * [10 things statistics taught us about big data analysis](https://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/) (and some more food for thought: ["What Statisticians think about Data Scientists"](http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
