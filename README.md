@@ -288,8 +288,6 @@ Here are some communities where you can reach out for peer review:
 
 Post to any of those, and ask for feedback. You'll get feedback. You'll learn a ton. As experts review your work you will learn a lot about the field. You'll also be practicing a crucial skill: accepting critical feedback.
 
-When I read the feedback on my Pull Requests, first I repeat to myself, "I will not get defensive, I will not get defensive, I will not get defensive." You may want to do that before you read reviews of your Machine Learning work too.
-
 ### It's dangerous to go alone, take these!
 
 **Some recommended bookmarks:**
@@ -302,6 +300,34 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
         * [Lj Miranda, "Navigating the MLOps Landscape"](https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/)
         * [Henrik Skogström, "MLOps Stack Template"](https://valohai.com/blog/the-mlops-stack/)
         * (Friendly reminder: just bookmark for later if it's not relevant for you yet.)
+
+----
+
+## Deep Learning
+
+In early editions of this guide, there was no specific "Deep Learning" section. There are experts in the field who warn against jumping too far ahead.
+
+Maybe this is a way to check your progress: ask yourself, does Deep Learning seem like magic? If so, take that as a sign that you aren't ready to work with it professionally, and let the fascination motivate you to learn more. I have read some argue you can learn Deep Learning in isolation; I have read others recommend it's best to master traditional Machine Learning first. Why not start with traditional Machine Learning, and develop your reasoning and intuition there? You'll only have an easier time learning Deep Learning after that. After all of it, you'll able to tackle all sorts of interesting problems.
+
+In any case, when you're ready to dive into Deep Learning, here are some helpful resources.
+
+* **[Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning**
+    * "Interactive deep learning book with code, math, and discussions"
+    * "Implemented with NumPy/MXNet, PyTorch, and TensorFlow"
+    * "Adopted at 200 universities from 50 countries"
+* **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
+* **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This is an excellent way to "get ahead of yourself" and hack-first. Then you will feel excited to move onto...
+*  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
+* **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
+* [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
+
+### Easier sharing of deep learning models and demos
+
+* **[replicate.ai](https://replicate.ai)** "makes it easy to share a running machine learning model" for the sake of reproducible research. Check it out.
+    * For beginners, you can try some models using GANs and other Deep Learning concepts.
+    * Bookmark-worthy because you can use it to share your learning or research, too.
+    * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
 
 ----
 
@@ -328,41 +354,11 @@ Before you start working ML into _your_ software, you should get a better unders
 * [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
 * There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
 
-Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. You won't be an expert by any means, but maybe it'll help you konw if/when to reach out for help, review, or guidance. 
-
 Spoiler: you should work with UX specialists whenever you can!
 
-----
+---
 
-## Deep Learning
-
-In early editions of this guide, there was no specific "Deep Learning" section. There are experts in the field who warn against jumping too far ahead.
-
-Maybe this is a way to check your progress: ask yourself, does Deep Learning seem like magic? If so, take that as a sign that you aren't ready to work with it professionally, and let the fascination motivate you to learn more. I have read some argue you can learn Deep Learning in isolation; I have read others recommend it's best to master traditional Machine Learning first. Why not start with traditional Machine Learning, and develop your reasoning and intuition there? You'll only have an easier time learning Deep Learning after that. After all of it, you'll able to tackle all sorts of interesting problems.
-
-In any case, when you're ready to dive into Deep Learning, here are some helpful resources.
-
-* **[Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning**
-    * "Interactive deep learning book with code, math, and discussions"
-    * "Implemented with NumPy/MXNet, PyTorch, and TensorFlow"
-    * "Adopted at 200 universities from 50 countries"
-* **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
-* **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This is an excellent way to "get ahead of yourself" and hack-first. Then you will feel excited to move onto...
-*  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
-* **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)** Google's fast-paced, practical introduction to machine learning which covers building deep neural networks with TensorFlow.
-* **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
-* [YerevaNN's Deep Learning Guide](http://yerevann.com/a-guide-to-deep-learning/)
-* [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
-* [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
-
-### Easier sharing of deep learning models and demos
-
-* **[replicate.ai](https://replicate.ai)** "makes it easy to share a running machine learning model" for the sake of reproducible research. Check it out.
-    * For beginners, you can try some models using GANs and other Deep Learning concepts.
-    * Bookmark-worthy because you can use it to share your learning or research, too.
-    * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
-
-### "Big" Data?
+## Big data
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
