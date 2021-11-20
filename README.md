@@ -68,7 +68,7 @@ It won't take long. It's a beautiful introduction ... Try not to drool too much!
 
 OK. Let's dive deeper.
 
-Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/). It's densely packed with valuable information, but not opaque. The author understands that there's a lot of "black art" and folk wisdom, and they invite you in.
+Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/). It's densely packed with valuable information, but not opaque.
 
 Take your time with this one. Take notes. Don't worry if you don't understand it all yet.
 
@@ -88,11 +88,11 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 ## Jargon note
 
 * [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1) 
-* Another handy term: [_**Data Engineering**_](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811?gi=67df10cc32ea), which may involve or support Machine Learning, but is not limited to Machine Learning.
+* Another handy term: ["Data Engineering"](https://towardsdatascience.com/who-is-a-data-engineer-how-to-become-a-data-engineer-1167ddc12811?gi=67df10cc32ea), which might involve or support ML, but it's not limited to ML. ["MLOps"](https://ml-ops.org/) overlaps with Data Eng, and there's [an introductory MLOps section later in this guide](#production-deployment-mlops).
 
 ## Just about time for a break...
 
-Before you take a break, grab some podcasts. 
+<details> <summary>Totally optional: some podcast episodes of note</summary>
 
 First, download [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm) (2018). Prof. Domingos wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). You might also start reading his book, [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. 
 
@@ -107,6 +107,8 @@ I suggest this listening order:
 
 Want to subscribe to more podcasts? Here's [a good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) of suggestions, [and another](https://mty.ai/blog/the-best-ai-podcasts/).
 
+</details>
+
 OK! Take a break, come back refreshed.
 
 ----
@@ -118,14 +120,14 @@ Next, pick **one or two** of these Jupyter Notebooks and play along.
 - [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - Various notebooks by topic:
-    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - "This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab notebook (to see how a model was trained) and 🎨 demo page (to see a model in action right in your browser)."
+    - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - "This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab notebook (to see how a model was trained) and 🎨 demo page"
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - Notebooks in a series:
     - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - "Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
 
 Find more great Jupyter Notebooks when you're ready:
 
-* **[Jupyter's official Gallery of Interesting Jupyter and IPython Notebooks: Statistics, Machine Learning and Data Science](https://github.com/jupyter/jupyter/wiki)** ([permalink](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/ae03c01ed25024aa06a4479ea600895d59b38bc4))
+* **[Jupyter's official Gallery of Interesting Jupyter Notebooks: Statistics, Machine Learning and Data Science](https://github.com/jupyter/jupyter/wiki)** ([permalink](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks/ae03c01ed25024aa06a4479ea600895d59b38bc4))
 
 ----
 
@@ -137,9 +139,9 @@ Now you should be hooked, and hungry to learn more. Pick one of the courses belo
 
 **[Prof. Andrew Ng's](http://www.andrewng.org/about/) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews) [And](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
-It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). And remember, IPython Notebook is your friend.
+You might like to have a pet project to play with, on the side. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets).
 
-Also, you should grab an in-depth textbook to use as a reference. The two best options are [_Understanding Machine Learning_ ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
+Also, you should grab an in-depth textbook to use as a reference. The two recommendations I saw repeatedly were [_Understanding Machine Learning_ ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
 ### Tips for studying
 
@@ -148,40 +150,38 @@ Also, you should grab an in-depth textbook to use as a reference. The two best o
 
 ## Other courses
 
-Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
+<details>
+<summary>Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)</summary>
 
 * **Data science courses as Jupyter Notebooks:**
-	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
-	* [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
-	* Supplementary material: [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks).
+    * [Practical Data Science](http://radimrehurek.com/data_science_python/)
+    * [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/). Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
 * Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
     * [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) online course based on Data 8 is now offered via edX too.
 * Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
-* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive (lots of IPython Notebook material)
+* [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
-    * Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
     * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
-    * Data Science Weekly's [Big List of Data Science Resources](https://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) has a [List of Data Science MOOCs](https://www.datascienceweekly.org/data-science-resources/data-science-moocs)
-
+    * Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
+* There are more alternatives linked [at the bottom of this guide](#more-ways-to-dive-into-machine-learning)
+</details>
 
 ## Getting Help: Questions, Answers, Chats
 
 Start with the support forums and chats related to the course(s) you're taking.
 
-Check out [datascience.stackexchange.com](https://datascience.stackexchange.com/) and [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) There are some subreddits like [/r/machinelearning](https://www.reddit.com/r/machinelearning).
+Check out [datascience.stackexchange.com](https://datascience.stackexchange.com/) and [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) There are some subreddits, like [/r/LearningMachineLearning](https://www.reddit.com/r/learningmachinelearning) and [/r/MachineLearning](https://www.reddit.com/r/machinelearning).
 
-There are also many relevant discussions on Quora, for example: [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
-
-For help and community in meatspace, seek out meetups. Data Science Weekly's [Big List of Data Science Resources](http://www.datascienceweekly.org/data-science-resources/the-big-list-of-data-science-resources) may help you.
+Don't forget about meetups. Also, nowadays there are many active and helpful online communities around the ML ecosystem. Look for chat invitations on project pages and so on.
 
 ## Supplement: Learning Pandas well
 
 You'll want to get more familiar with Pandas.
 
+* **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (as a Jupyter Notebook)
 * **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
-* **Essential**: [Things in Pandas I Wish I'd Had Known Earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) (IPython Notebook)
 * Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 * [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
@@ -201,36 +201,16 @@ You'll want to get more familiar with Pandas.
 Some good cheat sheets I've come across. (Please [submit a Pull Request](https://github.com/hangtwenty/dive-into-machine-learning/pulls) to add other useful cheat sheets.)
 
 - [scikit-learn algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Metacademy: a package manager for [machine learning] knowledge](http://hunch.net/?p=2714). A mind map of machine learning concepts, with great detail on each.
 - [Matplotlib / Pandas / Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M).
 
 # Assorted Opinions and Other Resources
-
-## More Data Science materials
-
-Here are some additional Data Science resources:
-
-* **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
-* Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
-* [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
-
-### Bayesian Statistics and Machine Learning
-
-From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
-
-> ... Bayesian ideas have had a big impact in machine learning in the past 20 years or so because of the flexibility they provide in building structured models of real world phenomena. Algorithmic advances and increasing computational resources have made it possible to fit rich, highly structured models which were previously considered intractable.
-
-You can learn more by studying one of the following resources. Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
-* The **free book,** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)._ Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
-* [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python)
-* Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques are being used.**
 
 ## Risks
 
 "Machine learning systems automatically learn programs from
 data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
-Here is the abstract of [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf):
+Here is the abstract of [Machine Learning: The High-Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/):
 
 > Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning specific risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.
 
@@ -246,7 +226,7 @@ If you're following this guide, you should read that paper. You can also [listen
 
 ### Welcome to the Danger Zone
 
-So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you've got some "knowledge" in Domingos' sense (some "Substantive Expertise" or "Domain Knowledge"). This diagram is modified slightly from Drew Conway's "Data Science Venn Diagram." It isn't a _perfect_ fit for us, but it may get the point across:
+So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you've got some "knowledge" in Domingos' sense (some "Substantive Expertise" or "Domain Knowledge"). This diagram is modified slightly from [Drew Conway's "Data Science Venn Diagram."](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram) It isn't a _perfect_ fit for our purposes here, but it might get the point across:
 
 [![Drew Conway's Data Science Venn Diagram, modified slightly](https://user-images.githubusercontent.com/2420688/29441268-f429d88c-837e-11e7-83ff-30874d832c89.png)](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram)
 
@@ -300,7 +280,6 @@ If you are learning about MLOps but find it overwhelming, these resources might 
 * [Lessons on ML Platforms from Netflix, DoorDash, Spotify, and more](https://towardsdatascience.com/lessons-on-ml-platforms-from-netflix-doordash-spotify-and-more-f455400115c7) by Ernest Chan in *Towards Data Science*
 * [MLOps Stack Canvas](https://ml-ops.org/content/mlops-stack-canvas) at [ml-ops.org](https://ml-ops.org/)
 
-
 Recommended awesomelists to save/star/watch:
 
 * **[EthicalML/awesome-artificial-intelligence-guidelines](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)**
@@ -331,9 +310,9 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 ### Easier sharing of deep learning models and demos
 
-* **[replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model"** for the sake of reproducible research. It's worth checking out.
+* **[replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model"** for the sake of reproducible research. 
     * For beginners, you can try some models using GANs and other Deep Learning concepts.
-    * Bookmark-worthy because you can use it to share your learning or research, too.
+    * Join/bookmark so you can contribute a model of your own later on
     * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
 
 ----
@@ -342,42 +321,62 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 Machine Learning can be powerful, but it is not magic.
 
-Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
+Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See [this useful subjective blurb old the ol' c2 wiki](http://wiki.c2.com/?DomainExpert) or the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software).)
 
-### :bow: A note about Machine Learning and User Experience (UX)
+### Machine Learning and User Experience (UX)
 
 I couldn't say it better:
 
 > **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
 
-Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
+That quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/). In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
 
-In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
-
-Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
-
-Before you start working ML into _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. As an informal way to get into this subject, start with this:
-
-* [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
-* There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
-
-Spoiler: you should work with UX specialists whenever you can!
+Suggested reading on this: [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
 
 ---
 
 ## Big data
 
-If you are working with data-intensive applications at all, I'll recommend this book:
-
-* **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
-
-Lastly, here are some other useful links regarding Big Data and ML.
+<details>
+<summary>Here are some other useful links regarding Big Data and ML.
+</summary>
 
 * [10 things statistics taught us about big data analysis](https://simplystatistics.org/2014/05/22/10-things-statistics-taught-us-about-big-data-analysis/) (and some more food for thought: ["What Statisticians think about Data Scientists"](http://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
 * ["Talking Machines" #12](http://www.thetalkingmachines.com/blog/2015/6/4/the-economic-impact-of-machine-learning-and-using-the-kernel-trick-to-dig-in-to-big-data): Interviews Prof. Andrew Ng (from [our main course, which has its own module on big data](https://www.coursera.org/learn/machine-learning)); this episode covers some problems relevant to _high-dimensional_ data
 * ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](http://www.thetalkingmachines.com/blog/2015/7/16/really-really-big-data-and-machine-learning-in-business)
 * Free eBook, [_Getting Data Right: Tackling the Challenges of
-Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) too.
+  Big Data Volume and Variety_](https://www.tamr.com/landing-pages/getting-data-right/) by Michael Stonebraker, Tom Davenport, James Markarian, and others, published by O'Reilly. You can [listen to an accompanying podcast](http://radar.oreilly.com/2015/06/the-future-of-data-at-scale.html) too.
+
+</details>
+
+If you are working with data-intensive applications at all, I'll recommend this book:
+
+* **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
+
+
+## More Data Science materials
+
+Here are some additional Data Science resources:
+
+* **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
+* Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
+* [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
+
+### Optional: Bayesian Statistics and Machine Learning
+
+From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy.org/roadmaps/rgrosse/bayesian_machine_learning):
+
+> ... Bayesian ideas have had a big impact in machine learning in the past 20 years or so because of the flexibility they provide in building structured models of real world phenomena. Algorithmic advances and increasing computational resources have made it possible to fit rich, highly structured models which were previously considered intractable.
+
+<details>
+<summary>Here are some awesome resources for learning Bayesian methods.</summary>
+
+Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
+
+1. The **free book** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)_. Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
+2. [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python). This uses [PyMC](https://github.com/pymc-devs/pymc), like #1.
+3. Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques are being used.**
+</details>
 
 ----
 
@@ -396,7 +395,7 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 
 * ["How would your curriculum for a machine learning beginner look like?"](https://sebastianraschka.com/faq/docs/ml-curriculum.html) by Sebastian Raschka. A selection of the core online courses and books for getting started with machine learning and gaining expert knowledge. It contextualizes Raschka's own book, [_Python Machine Learning_](https://github.com/rasbt/python-machine-learning-book) (which I would have linked to anyway!) See also [`pattern_classification` GitHub repository](https://github.com/rasbt/pattern_classification) maintained by the author, which contains IPython notebooks about various machine learning algorithms and various data science related resources.
 * [Materials for Learning Machine Learning](http://jacksimpson.co/materials-for-learning-machine-learning/) by Jack Simpson
-* Courses by cloud vendors (may be specific to their tools/platforms)
+* Courses by cloud vendors (might be specific to their tools/platforms)
     * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs. This is Google's fast-paced, practical introduction to machine learning which features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.
     *  [Amazon AWS](https://aws.amazon.com/training/learning-paths/machine-learning/) Amazon have open up their internal training to the public and also offer certification. 30 courses - 45+ hours of content.
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is another good introduction, perhaps better if you're more familiar with Java or Scala. It introduces machine learning for a developer audience using Smile, a machine learning library that can be used both in Java and Scala.
