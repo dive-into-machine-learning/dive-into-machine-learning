@@ -305,35 +305,6 @@ When I read the feedback on my Pull Requests, first I repeat to myself, "I will 
 
 ----
 
-## Collaborate with Domain Experts
-
-Machine Learning can be powerful, but it is not magic.
-
-Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
-
-### :bow: A note about Machine Learning and User Experience (UX)
-
-I couldn't say it better:
-
-> **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
-
-Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
-
-In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
-
-Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
-
-Before you start working ML into _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. As an informal way to get into this subject, start with this:
-
-* [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
-* There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
-
-Then, if you you know a coworker or friend who works in UX, take them out for coffee or lunch and pick their brain. I think they'll have words of encouragement as well as caution. You won't be an expert by any means, but maybe it'll help you konw if/when to reach out for help, review, or guidance. 
-
-Spoiler: you should work with UX specialists whenever you can!
-
-----
-
 ## Deep Learning
 
 In early editions of this guide, there was no specific "Deep Learning" section. There are experts in the field who warn against jumping too far ahead.
@@ -362,7 +333,36 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
     * Bookmark-worthy because you can use it to share your learning or research, too.
     * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
 
-### "Big" Data?
+----
+
+## Collaborate with Domain Experts
+
+Machine Learning can be powerful, but it is not magic.
+
+Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert), or [c2 wiki's rather subjective but useful blurb](http://wiki.c2.com/?DomainExpert).)
+
+### :bow: A note about Machine Learning and User Experience (UX)
+
+I couldn't say it better:
+
+> **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
+
+Quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/), whole article is a great read!
+
+In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).**
+
+Today we are [_surrounded_](https://en.wikipedia.org/wiki/Machine_learning#Applications) by software that utilizes Machine Learning. Often, the results are directly user-facing, and intended to enhance UX.
+
+Before you start working ML into _your_ software, you should get a better understanding of UX, as well as how ML and UX can relate. As an informal way to get into this subject, start with this:
+
+* [Rule #23 of _Martin Zinkevich's Rules of ML Engineering_](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system): **"You are not a typical end user."**
+* There are some great [thoughtful discussions of this on Quora](https://www.quora.com/search?q=machine+learning+ux)
+
+Spoiler: you should work with UX specialists whenever you can!
+
+---
+
+## Big data
 
 If you are working with data-intensive applications at all, I'll recommend this book:
 
