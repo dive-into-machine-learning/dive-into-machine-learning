@@ -321,7 +321,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 Machine Learning can be powerful, but it is not magic.
 
-Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See [this useful subjective blurb old the ol' c2 wiki](http://wiki.c2.com/?DomainExpert) or the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).
+Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with domain experts. (What's a domain expert? See [this useful subjective blurb old the ol' c2 wiki](http://wiki.c2.com/?DomainExpert) or the [Wikipedia entry](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).)
 
 ### Machine Learning and User Experience (UX)
 
