@@ -92,7 +92,7 @@ When you work on a real Machine Learning problem, you should focus your efforts 
 
 ## Just about time for a break...
 
-<details> <summary>Totally optional: some podcast episodes of note</summary>
+<details><summary>Totally optional: some podcast episodes of note</summary>
 
 First, download [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm) (2018). Prof. Domingos wrote [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf). You might also start reading his book, [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm), a clear and accessible overview of machine learning. 
 
@@ -329,7 +329,7 @@ I couldn't say it better:
 
 > **Machine learning won’t figure out what problems to solve.** If you aren’t aligned with a human need, you’re just going to build a very powerful system to address a very small—or perhaps nonexistent—problem.
 
-That quote is from ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/). In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).** Suggested reading: [Martin Zinkevich's "Rules of ML Engineering", Rule #23: "You are not a typical end user"](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system)
+That quote is from ["The UX of AI" by Josh Lovejoy](https://design.google/library/ux-ai/). In other words, **[You Are Not The User](https://www.nngroup.com/articles/false-consensus/).** Suggested reading: [Martin Zinkevich's "Rules of ML Engineering", Rule #23: "You are not a typical end user"](https://developers.google.com/machine-learning/guides/rules-of-ml/#human_analysis_of_the_system)
 
 ---
 
