@@ -243,8 +243,8 @@ Competitions and challenges are just one way to practice. You shouldn't limit yo
 
 Here's a complementary way to practice: **do practice studies.**
 
-1. **Ask a question. Start your own study.** The ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
-2. **Communicate results.** When you have a novel finding, reach out for peer review.
+1. **Ask a question. Start exploring some data.** The ["most important thing in data science is the question"](https://github.com/DataScienceSpecialization/courses/blob/master/01_DataScientistToolbox/03_02_whatIsData/index.Rmd#the-data-is-the-second-most-important-thing) ([Dr. Jeff T. Leek](https://github.com/jtleek)). So start with a question. Then, find [real data](https://github.com/caesar0301/awesome-public-datasets). Analyze it. Then ...
+2. **Communicate results.** When you think you have a novel finding, ask for review.
 3. **Fix issues.** Learn. Share what you learn.
 
 And repeat. Re-phrasing this, it fits with the [scientific method](https://en.wikipedia.org/wiki/Scientific_method): formulate a question (or problem statement), create a hypothesis, gather data, analyze the data, and communicate results. (You should [watch this video about the scientific method in data science](http://101.datascience.community/2012/06/27/the-data-scientific-method/), and/or [read this article](http://customerthink.com/getting-insights-using-data-science-skills-and-the-scientific-method/).)
@@ -355,6 +355,7 @@ If you are working with data-intensive applications at all, I'll recommend this 
 
 * **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
 
+[_(Back to top of page)_](#dive-into-machine-learning--)
 
 ## More Data Science materials
 
@@ -389,11 +390,13 @@ Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyte
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
+[_(Back to top of page)_](#dive-into-machine-learning--)
+
 ----
 
 ## More ways to "Dive into Machine Learning"
 
-Here are some other guides to Machine Learning. They can be alternatives or complements to this guide. 
+Here are some other guides to learning Machine Learning. They can be alternatives or supplements to this guide.
 
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * Courses by cloud vendors (might be specific to their tools/platforms)
