@@ -9,7 +9,7 @@ Hi there! This guide is for you if:
     * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * You learn by doing
 
-If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. [There's also alternatives later in this guide.](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning)
+If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. (For alternatives, [jump to the end of the guide](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, "Machine Learning for Software Engineers"](https://github.com/ZuzooVn/machine-learning-for-software-engineers))
 
 # Let's get started
 
@@ -147,6 +147,7 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 
 * Busy schedule? Read [Ray Li's review of Prof. Andrew Ng's course](https://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
 * Review some of the ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn/) videos. This is just about how to study in general. In the course, they [advocate the learn-by-doing approach](https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/interview-with-dr-terrence-sejnowski), as we're doing here. You'll get various other tips that are easy to apply, but go a long way to make your time investment more effective.
+* Review tips from [Nam Vu's guide to learning ML as a software engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers#the-daily-plan).
 
 ## Other courses
 
@@ -402,4 +403,6 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
   1. https://github.com/rasbt/python-machine-learning-book-2nd-edition 
   2. https://github.com/rasbt/deep-learning-book
 * [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. In Nam Vu's words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it - it can answer lots of questions and connect you with great resources.
+* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
+
+[_(Back to top of page)_](#dive-into-machine-learning--)
