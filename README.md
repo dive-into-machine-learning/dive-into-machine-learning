@@ -388,9 +388,7 @@ Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyte
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
-----
-
-[_(Back to top of page)_](#dive-into-machine-learning--)
+[_(↑ Back to top)_](#dive-into-machine-learning--)
 
 ----
 
@@ -407,4 +405,4 @@ Here are some other guides to learning Machine Learning. They can be alternative
 * [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2_](https://www.goodreads.com/book/show/25545994-python-machine-learningby Sebastian Raschka and Vahid Mirjalili)
 * [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
-[_(Back to top of page)_](#dive-into-machine-learning--)
+[_(↑ Back to top)_](#dive-into-machine-learning--)
