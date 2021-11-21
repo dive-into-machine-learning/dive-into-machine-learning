@@ -306,6 +306,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 * **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This is an excellent way to "get ahead of yourself" and hack-first. Then you will feel excited to move onto...
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
 * **[_Deep Learning_](http://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
+* [rasbt/deep-learning-book](https://github.com/rasbt/deep-learning-book) aka _Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python_ by [Sebastian Raschka](https://github.com/rasbt)
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
@@ -392,17 +393,15 @@ Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyte
 
 ## More ways to "Dive into Machine Learning"
 
-Here are some other guides to Machine Learning. They can be alternatives or complements to this guide.
+Here are some other guides to Machine Learning. They can be alternatives or complements to this guide. 
 
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
 * Courses by cloud vendors (might be specific to their tools/platforms)
     * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
     *  [Amazon AWS](https://aws.amazon.com/training/learning-paths/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
-* One or both of these open-source books, also available on LeanPub:
-  1. https://github.com/rasbt/python-machine-learning-book-2nd-edition 
-  2. https://github.com/rasbt/deep-learning-book
 * [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition_](https://www.goodreads.com/book/show/25545994-python-machine-learning by Sebastian Raschka and Vahid Mirjalili)
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
 [_(Back to top of page)_](#dive-into-machine-learning--)
