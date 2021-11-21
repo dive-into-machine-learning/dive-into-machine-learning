@@ -355,8 +355,6 @@ If you are working with data-intensive applications at all, I'll recommend this 
 
 * **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
 
-[_(Back to top of page)_](#dive-into-machine-learning--)
-
 ## More Data Science materials
 
 Here are some additional Data Science resources:
@@ -389,6 +387,8 @@ Both resources use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyte
 * Bookmark [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language - with a section on Machine Learning.
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
+
+----
 
 [_(Back to top of page)_](#dive-into-machine-learning--)
 
