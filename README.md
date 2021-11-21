@@ -9,7 +9,7 @@ Hi there! This guide is for you if:
     * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * You learn by doing
 
-If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. (For alternatives, [jump to the end of the guide](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, "Machine Learning for Software Engineers"](https://github.com/ZuzooVn/machine-learning-for-software-engineers))
+If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. (For alternatives, [jump to the end of the guide](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).)
 
 # Let's get started
 
@@ -401,7 +401,7 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
     *  [Amazon AWS](https://aws.amazon.com/training/learning-paths/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
 * [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-* [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2, 3rd Edition_](https://www.goodreads.com/book/show/25545994-python-machine-learning by Sebastian Raschka and Vahid Mirjalili)
-* [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
+* [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2_](https://www.goodreads.com/book/show/25545994-python-machine-learningby Sebastian Raschka and Vahid Mirjalili)
+* [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
 [_(Back to top of page)_](#dive-into-machine-learning--)
