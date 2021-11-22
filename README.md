@@ -271,10 +271,6 @@ Post to any of those, and ask for feedback. You'll get feedback. You'll learn a 
 
 ### Production, Deployment, [MLOps](https://ml-ops.org/)
 
-MLOps can help you deal with a problem like this:
-
-[![image](https://user-images.githubusercontent.com/2420688/142702473-58834c0b-eda7-4496-a449-4bc24aa217b1.png)](https://valohai.com/mlops-ebook/)
-
 If you are learning about MLOps but find it overwhelming, these resources might help you get your bearings:
 
 * [MLOps Stack Template](https://valohai.com/blog/the-mlops-stack/) by Henrik Skogström
