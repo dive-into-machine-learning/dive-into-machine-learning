@@ -167,7 +167,7 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 * Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
 * Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive.
-* [Harvard CS109: Data Science](https://cs109.github.io/2015/)]
+* [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 * There are more alternatives linked [at the bottom of this guide](#more-ways-to-dive-into-machine-learning)
 
