@@ -19,13 +19,13 @@ Get your feet wet and boost your confidence.
 
 ### If you prefer local installation
 
-- [Python](https://www.python.org/). Python 3 is the best option.
-- [Jupyter Notebook](https://jupyter.org/). (Formerly known as IPython Notebook.)
-- Some scientific computing packages:
-	- numpy
-	- pandas
-	- scikit-learn
-	- matplotlib
+* [Python](https://www.python.org/). Python 3 is the best option.
+* [Jupyter Notebook](https://jupyter.org/). (Formerly known as IPython Notebook.)
+* Some scientific computing packages:
+  * numpy
+  * pandas
+  * scikit-learn
+  * matplotlib
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. (Use whichever tool you want.)
 
@@ -376,12 +376,10 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 <details>
 <summary>Here are some awesome resources for learning Bayesian methods.</summary>
 
-All the resources in the following list use Python, [PyMC](https://github.com/pymc-devs/pymc), and Jupyter Notebooks.
-
-1. The **free book** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)_. Made with a "computation/understanding-first, mathematics-second point of view." It's available in print too!
-   * And/or: [_Time Series Forecasting with Bayesian Modeling by Michael Grogan_](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling). It's a 5-project series of interactive projects. Project 1 is free at time of writing.
-2. [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python). Uses [PyMC](https://github.com/pymc-devs/pymc) too.
-3. Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques are being used.**
+1. The **free book** _[Probabilistic Programming and Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)_. Made with a "computation/understanding-first, mathematics-second point of view." Uses [PyMC](https://github.com/pymc-devs/pymc). It's available in print too!
+2. And/or: [_Time Series Forecasting with Bayesian Modeling by Michael Grogan_](https://www.manning.com/liveprojectseries/time-series-forecasting-with-bayesian-modeling), a 5-project series - paid but the first project is free.  Uses [PyMC](https://github.com/pymc-devs/pymc).
+3. [Bayesian Modelling in Python](https://github.com/markdregan/Bayesian-Modelling-in-Python). Uses [PyMC](https://github.com/pymc-devs/pymc).
+4. Like learning by playing? Me too. Try [19 Questions](https://github.com/fulldecent/19-questions), "a machine learning game which asks you questions and guesses an object you are thinking about," and **explains which Bayesian statistics techniques it's using!**
 
 </details>
 
