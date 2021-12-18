@@ -155,7 +155,7 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 
 ### Take my tips with a grain of salt
 
-I'm just an enthusiast who loves to learn. I personally did not set out to complete the course certification; my day-jobs have been mostly software development, and I've only worked on a couple of projects/products that involved any ML, so far. I don't regret investing time in learning about ML and I don't think you will, either.
+I work as a software developer, and I am not a machine learning expert. I'm a hobbyist who loves to learn. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning about ML and I don't think you will, either.
 
 ## Other courses
 
