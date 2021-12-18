@@ -284,12 +284,8 @@ Great places to ask for feedback informally, and while you are learning:
 
 ### Peer review
 
-**[OpenReview.net](https://openreview.net/)** "aims to promote openness in scientific communication, particularly the peer review process."
+**[OpenReview.net](https://openreview.net/about)** "aims to promote openness in scientific communication, particularly the peer review process."
 
-> **[_About OpenReview_](https://openreview.net/about)**
->
-> OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following:
->
 > * **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
 > * **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
 > * **Open Access:** Free access to papers for all, free paper submissions. No fees.
@@ -426,16 +422,14 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
+[(↑ Back to top)](#dive-into-machine-learning--)
+
 ### Non-sequitur
 
-These next two resources are not about ML, they're just something I want to share since you, reader, clearly love to learn as well. 
-
-If you're into the idea of [learning in public](https://www.swyx.io/learn-in-public/), you should definitely check these links out:
+These next two resources are not about ML, but since you're here I know you love to learn, too.
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
-
-[(↑ Back to top)](#dive-into-machine-learning--)
 
 ----
 
