@@ -195,7 +195,7 @@ You'll want to get more familiar with Pandas.
   * [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
   * [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for later when you need to scale
-  * [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism. Very interesting, but only needed when you're getting advanced.
+  * [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism.
   * See also: the MLOps section [later in this guide](#production-deployment-mlops).
 
 ## Supplement: Cheat Sheets
@@ -346,10 +346,10 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 ### Easier sharing of deep learning models and demos
 
-* **[replicate.ai](https://replicate.ai) "makes it easy to share a running machine learning model"** for the sake of reproducible research.
-  * For beginners, you can try some models using GANs and other Deep Learning concepts.
-  * Join/bookmark so you can contribute a model of your own later on
-  * Open source tools: [`cog`](https://github.com/replicate/cog), [`keepsake`](https://github.com/replicate/keepsake)
+* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
+  * Easily try out deep learning models from your browser
+  * The demos link to papers/code on GitHub, if you want to dig in and see how something works
+  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
 
 ----
 
