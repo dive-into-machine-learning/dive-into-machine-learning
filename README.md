@@ -287,16 +287,23 @@ You need to know about this site! Firstly, know it as a reader and a learner. Bu
 > OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following:
 >
 >    **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
+>    
 >    **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
+>    
 >    **Open Access:** Free access to papers for all, free paper submissions. No fees.
+>    
 >    **Open Discussion:** Hosting of accepted papers, with their reviews, comments. Continued discussion forum associated with the paper post acceptance. Publication venue chairs/editors can control structure of review/comment forms, read/write access, and its timing.
+>    
 >    **Open Directory:** Collection of people, with conflict-of-interest information, including institutions and relations, such as co-authors, co-PIs, co-workers, advisors/advisees, and family connections.
+>    
 >    **Open Recommendations:** Models of scientific topics and expertise. Directory of people includes scientific expertise. Reviewer-paper matching for conferences with thousands of submissions, incorporating expertise, bidding, constraints, and reviewer balancing of various sorts. Paper recommendation to users.
+>    
 >    **Open API:** We provide a simple REST API for accessing and uploading records of people, their groupings, document content, invitations and reviewing assignments, conflict-of-interest designations, and reviewing workflow patterns. You can then write scripts , all with a clear, robust model of read/write permissions. Track submissions, monitor review process, send customized bulk email messages, automate workflow actions.
+>    
 >    **Open Source:** We are committed to open source. Many parts of OpenReview are already in the [OpenReview organization on GitHub](https://github.com/openreview). Some further releases are pending a professional security review of the codebase.
 
 <details>
-	<summary>About OpenReview (continued)</summary>
+	<summary>More about Open Review</summary>
 > [OpenReview.net](https://openreview.net/) is created by Andrew McCallum’s Information Extraction and Synthesis Laboratory in the College of Information and Computer Sciences at University of Massachusetts Amherst
 >
 > [OpenReview.net](https://openreview.net/) is built over an earlier version described in the paper [Open Scholarship and Peer Review: a Time for Experimentation](https://openreview.net/forum?id=xf0zSBd2iufMg) published in the [ICML 2013 Peer Review Workshop](https://openreview.net/group?id=ICML.cc/2013/PeerReview).
