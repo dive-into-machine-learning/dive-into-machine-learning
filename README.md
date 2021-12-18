@@ -264,6 +264,7 @@ This advice, to do practice studies and learn from review, is based on [a conver
 > I think the best advice is to tell people to always present their methods clearly and to avoid over-interpreting their results. Part of being an expert is knowing that there's rarely a clear answer, especially when you're working with real data.
 
 As you repeat this process, your practice studies will become more scientific, interesting, and focused. Also, [here's a video about the scientific method in data science.](https://101.datascience.community/2012/06/27/the-data-scientific-method/))
+
 </details>
 
 #### Some communities to know about
@@ -301,6 +302,8 @@ You need to know about this site! Firstly, know it as a reader and a learner. Bu
 > [OpenReview.net](https://openreview.net/) is built over an earlier version described in the paper [Open Scholarship and Peer Review: a Time for Experimentation](https://openreview.net/forum?id=xf0zSBd2iufMg) published in the [ICML 2013 Peer Review Workshop](https://openreview.net/group?id=ICML.cc/2013/PeerReview).
 >
 > OpenReview is a long-term project to advance science through improved peer review, with legal nonprofit status through Code for Science & Society. We gratefully acknowledge the support of the great diversity of [OpenReview Sponsors](https://openreview.net/sponsors)––scientific peer review is sacrosanct, and should not be owned by any one sponsor.
+
+</details>
 
 ### Production, Deployment, [MLOps](https://ml-ops.org/)
 
