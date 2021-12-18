@@ -286,8 +286,6 @@ Great places to ask for feedback informally, and while you are learning:
 
 **[OpenReview.net](https://openreview.net/)** "aims to promote openness in scientific communication, particularly the peer review process."
 
-Bookmark it! Firstly, know it as a reader and a learner. But also if you think that you'll eventually try research or writing a paper, this is one of the best bookmarks to know about.
-
 > **[_About OpenReview_](https://openreview.net/about)**
 >
 > OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following:
@@ -298,7 +296,7 @@ Bookmark it! Firstly, know it as a reader and a learner. But also if you think t
 > * **Open Discussion:** Hosting of accepted papers, with their reviews, comments. Continued discussion forum associated with the paper post acceptance. Publication venue chairs/editors can control structure of review/comment forms, read/write access, and its timing.
 > * **Open Directory:** Collection of people, with conflict-of-interest information, including institutions and relations, such as co-authors, co-PIs, co-workers, advisors/advisees, and family connections.
 > * **Open Recommendations:** Models of scientific topics and expertise. Directory of people includes scientific expertise. Reviewer-paper matching for conferences with thousands of submissions, incorporating expertise, bidding, constraints, and reviewer balancing of various sorts. Paper recommendation to users.
-> * **Open API:** We provide a simple REST API for accessing and uploading records of people, their groupings, document content, invitations and reviewing assignments, conflict-of-interest designations, and reviewing workflow patterns. You can then write scripts , all with a clear, robust model of read/write permissions. Track submissions, monitor review process, send customized bulk email messages, automate workflow actions.
+> * **Open API:** We provide a simple REST API [...]
 > * **Open Source:** We are committed to open source. Many parts of OpenReview are already in the [OpenReview organization on GitHub](https://github.com/openreview). Some further releases are pending a professional security review of the codebase.
 
 <details>
