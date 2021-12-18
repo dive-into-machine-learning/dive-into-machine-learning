@@ -11,11 +11,11 @@ Hi there! This guide is for you if:
 
 If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. (For alternatives, [jump to the end of the guide](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).)
 
-I'm not promising you an easy path to expertise. One outcome besides ML expertise is that you might learn more _about_ machine learning, including challenges and risks involved. ML seems to be increasingly ubiquitous. It's in the public interest that more of us develop some understandings of it. So perhaps you do not want to do machine learning research or write papers, yourself, but perhaps you want to participate in spreading literacy about machine learning. Whatever your motivation, if you know a bit of Python, you can get hands-on with a machine learning "Hello World" in less than an hour.
+I'm not promising you an easy path to expertise. I'm not an ML expert myself. I don't regret any of the time I've spent learning about ML so far, so maybe you'll appreciate these resources too. Applications of ML are all around us. It's in the public interest that more of us learn about it. 
 
-# Let's get started
+# Let's dive in
 
-Get your feet wet and boost your confidence.
+Whatever motivates _you_ to dive into machine learning, if you know a bit of Python, these days you can get hands-on with a machine learning _"Hello World!"_ in less than an hour.
 
 ## Tools you'll need
 
