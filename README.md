@@ -113,7 +113,7 @@ OK! Take a break, come back refreshed.
 
 ## Play to learn
 
-Next, pick **one or two** of these Jupyter Notebooks and play along.
+Next, play along from **one or more** of notebooks.
 
 - [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
 	- [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
@@ -121,7 +121,7 @@ Next, pick **one or two** of these Jupyter Notebooks and play along.
     - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments) - "This is a collection of interactive machine-learning experiments. Each experiment consists of 🏋️ Jupyter/Colab notebook (to see how a model was trained) and 🎨 demo page"
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - Notebooks in a series:
-    - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - "Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2."
+    - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - "Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python." Scikit-Learn, Keras, TensorFlow 2.
 
 Find more great Jupyter Notebooks when you're ready:
 
@@ -147,9 +147,9 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 * Review some of the ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn/) videos. This is just about how to study in general. In the course, they [advocate the learn-by-doing approach](https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/interview-with-dr-terrence-sejnowski), as we're doing here. You'll get various other tips that are easy to apply, but go a long way to make your time investment more effective.
 * Review tips from [Nam Vu's guide to learning ML as a software engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers#the-daily-plan).
 
-### Take my tips with a grain of salt
+### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
 
-I work as a software developer, and I am not a machine learning expert. I'm a hobbyist who loves to learn. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning about ML and I don't think you will, either.
+I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning about ML and I don't think you will, either.
 
 ## Other courses
 
@@ -244,7 +244,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 What are some ways to practice?
 
 <details>
-<summary>One path: competitions and challenges</summary>
+<summary><strong>One way:</strong> competitions and challenges</summary>
 
 You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. (You can find more competitions [here](https://github.com/paperswithcode/releasing-research-code#results-leaderboards) or [here](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c).)
 
@@ -255,7 +255,7 @@ Competitions and challenges are just one way to practice. Remember, [Machine Lea
 </details>
 
 <details>
-<summary>Another path: try doing some practice studies</summary>
+<summary><strong>Another way:</strong> try doing some practice studies</summary>
 
 Here's a complementary way to practice: **do practice studies.**
 
@@ -288,25 +288,18 @@ Great places to ask for feedback informally, and while you are learning:
 
 Bookmark it! Firstly, know it as a reader and a learner. But also if you think that you'll eventually try research or writing a paper, this is one of the best bookmarks to know about.
 
-> **[About OpenReview](https://openreview.net/about)**
+> **[_About OpenReview_](https://openreview.net/about)**
 >
 > OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following:
 >
->    **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
->    
->    **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
->    
->    **Open Access:** Free access to papers for all, free paper submissions. No fees.
->    
->    **Open Discussion:** Hosting of accepted papers, with their reviews, comments. Continued discussion forum associated with the paper post acceptance. Publication venue chairs/editors can control structure of review/comment forms, read/write access, and its timing.
->    
->    **Open Directory:** Collection of people, with conflict-of-interest information, including institutions and relations, such as co-authors, co-PIs, co-workers, advisors/advisees, and family connections.
->    
->    **Open Recommendations:** Models of scientific topics and expertise. Directory of people includes scientific expertise. Reviewer-paper matching for conferences with thousands of submissions, incorporating expertise, bidding, constraints, and reviewer balancing of various sorts. Paper recommendation to users.
->    
->    **Open API:** We provide a simple REST API for accessing and uploading records of people, their groupings, document content, invitations and reviewing assignments, conflict-of-interest designations, and reviewing workflow patterns. You can then write scripts , all with a clear, robust model of read/write permissions. Track submissions, monitor review process, send customized bulk email messages, automate workflow actions.
->    
->    **Open Source:** We are committed to open source. Many parts of OpenReview are already in the [OpenReview organization on GitHub](https://github.com/openreview). Some further releases are pending a professional security review of the codebase.
+> * **Open Peer Review:** We provide a configurable platform for peer review that generalizes over many subtle gradations of openness, allowing conference organizers, journals, and other "reviewing entities" to configure the specific policy of their choice. We intend to act as a testbed for different policies, to help scientific communities experiment with open scholarship while addressing legitimate concerns regarding confidentiality, attribution, and bias.
+> * **Open Publishing:** Track submissions, coordinate the efforts of editors, reviewers and authors, and host… Sharded and distributed for speed and reliability.
+> * **Open Access:** Free access to papers for all, free paper submissions. No fees.
+> * **Open Discussion:** Hosting of accepted papers, with their reviews, comments. Continued discussion forum associated with the paper post acceptance. Publication venue chairs/editors can control structure of review/comment forms, read/write access, and its timing.
+> * **Open Directory:** Collection of people, with conflict-of-interest information, including institutions and relations, such as co-authors, co-PIs, co-workers, advisors/advisees, and family connections.
+> * **Open Recommendations:** Models of scientific topics and expertise. Directory of people includes scientific expertise. Reviewer-paper matching for conferences with thousands of submissions, incorporating expertise, bidding, constraints, and reviewer balancing of various sorts. Paper recommendation to users.
+> * **Open API:** We provide a simple REST API for accessing and uploading records of people, their groupings, document content, invitations and reviewing assignments, conflict-of-interest designations, and reviewing workflow patterns. You can then write scripts , all with a clear, robust model of read/write permissions. Track submissions, monitor review process, send customized bulk email messages, automate workflow actions.
+> * **Open Source:** We are committed to open source. Many parts of OpenReview are already in the [OpenReview organization on GitHub](https://github.com/openreview). Some further releases are pending a professional security review of the codebase.
 
 <details>
 	<summary>More about Open Review</summary>
