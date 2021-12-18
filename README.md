@@ -75,7 +75,7 @@ Take your time with this one. Take notes. Don't worry if you don't understand it
 The whole paper is packed with value, but I want to call out two points:
 
 - **Data alone is not enough.** This is where science meets art in machine-learning. Quoting Domingos: "... the need for knowledge in learning should not be surprising. Machine learning is not magic; it can’t get something from nothing. What it does is get more from less. Programming, like all engineering, is a lot of work: we have to build everything from scratch. Learning is more like farming, which lets nature do most of the work. Farmers combine seeds with nutrients to grow crops. Learners combine knowledge with data to grow programs."
-- **More data beats a cleverer algorithm.** Listen up, programmers. We like cool tools. Resist the temptation to reinvent the wheel, or to over-engineer solutions. Your starting point is to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
+- **More data can beat a cleverer algorithm.** Listen up, programmers. We like cool tools. Resist the temptation to reinvent the wheel, or to over-engineer solutions. Your starting point is to [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html). Quoting Domingos: "Suppose you’ve constructed the best set of features you can, but the classifiers you’re getting are still not accurate enough. What can you do now? There are two main choices: design a better learning algorithm, or gather more data. [...] As a rule of thumb, a dumb algorithm with lots and lots of data beats a clever one with modest amounts of it. (After all, machine learning is all about letting data do the heavy lifting.)"
 
 When you work on a real Machine Learning problem, you should focus your efforts on your **domain knowledge** and **data** before optimizing your choice of algorithms. Prefer to do simple things until you _have_ to increase complexity. You should not rush into neural networks because you think they're cool. To improve your model, **get more data.** Then use your knowledge of the problem to [explore and process](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning) the data. You should only optimize the choice of algorithms after you have gathered enough data, and you've processed it well.
 
@@ -278,9 +278,9 @@ Great places to ask for feedback informally, and while you are learning:
 
 ### Peer review
 
-You need to know about this site! Firstly, know it as a reader and a learner. But also, if you think that eventually you'll want to write a paper and submit to to a peer review venue (or platform) - this is your main bookmark:
+**[OpenReview.net](https://openreview.net/)** "aims to promote openness in scientific communication, particularly the peer review process."
 
-* **[OpenReview.net](https://openreview.net/)** "OpenReview aims to promote openness in scientific communication, particularly the peer review process"
+Bookmark it! Firstly, know it as a reader and a learner. But also if you think that you'll eventually try research or writing a paper, this is one of the best bookmarks to know about.
 
 > **[About OpenReview](https://openreview.net/about)**
 >
