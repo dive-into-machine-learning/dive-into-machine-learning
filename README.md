@@ -187,7 +187,6 @@ You'll want to get more familiar with Pandas.
 * **Essential**: [10 Minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
 * Another helpful tutorial: [Real World Data Cleanup with Python and Pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/)
 * [Video series from Data School, about Pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y). "Reference guide to 30 common pandas tasks (plus 6 hours of supporting video)."
-* [Useful Pandas Snippets](https://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 * Here are some docs I found especially helpful as I continued learning:
   * [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
   * [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) section
@@ -239,7 +238,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 **Please** don't sell yourself as a Machine Learning expert while you're still in the Danger Zone. Don't build bad products or publish junk science. Please do bookmark the Institute for Ethical AI & Machine Learning's **[Responsible Machine Learning Principles](https://ethical.institute/principles.html)**. Thank you, you're awesome.
 
-### Skilling up
+## Skilling up
 
 What are some ways to practice?
 
@@ -358,7 +357,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 
 Machine Learning can be powerful, but it is not magic.
 
-Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" AKA "domain knowledge." Learn what you can, for yourself... But you should also **collaborate.** You'll have better results if you collaborate with [domain experts](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).
+Whenever you apply Machine Learning to solve a problem, you are going to be working in some specific problem domain. To get good results, you or your team will need "substantive expertise" (to re-use a phrase from earlier), which is related to "domain knowledge." Learn what you can, for yourself... But you should also **collaborate with experts.** You'll have better results if you collaborate with [subject-matter experts and domain experts](https://en.wikipedia.org/wiki/Subject-matter_expert#Domain_expert_(software)).
 
 ### Machine Learning and User Experience (UX)
 
