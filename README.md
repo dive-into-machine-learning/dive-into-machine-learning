@@ -72,7 +72,7 @@ OK. Let's dive deeper.
 
 Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)** by [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/). It's densely packed with valuable information, but not opaque.
 
-Take your time with this one. Take notes. Don't worry if you don't understand it all yet.
+Take a little time with this one. Take notes. Don't worry if you don't understand it all yet.
 
 The whole paper is packed with value, but I want to call out two points:
 
@@ -419,7 +419,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ### Non-sequitur
 
-These next two resources are not about ML, but since you're here I know you love to learn, too.
+These next two resources are not about ML, but since you're here, you might find them interesting:
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
