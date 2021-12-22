@@ -48,7 +48,7 @@ For other options, see:
 
 **[Learn how to use Jupyter Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
-Now, follow along with this brief exercise: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or Jupyter Notebook. It'll really boost your confidence.
+Now, follow along with this brief exercise: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or a Notebook, it'll really boost your confidence.
 
 [![I'll wait.](https://user-images.githubusercontent.com/2420688/29441281-00eff0c4-837f-11e7-9666-d653a1cd2372.jpeg)](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
@@ -131,7 +131,7 @@ Find more great Jupyter Notebooks when you're ready:
 
 # Immerse yourself
 
-Now you should be hooked, and hungry to learn more. Pick one of the courses below and start on your way.
+Pick one of the courses below and start on your way.
 
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
@@ -320,8 +320,6 @@ Recommended awesomelists to save/star/watch:
 ## Deep Learning
 
 In early editions of this guide, there was no specific "Deep Learning" section. There are experts in the field who warn against jumping too far ahead.
-
-Maybe this is a way to check your progress: ask yourself, does Deep Learning seem like magic? If so, take that as a sign that you aren't ready to work with it professionally, and let the fascination motivate you to learn more. I have read some argue you can learn Deep Learning in isolation; I have read others recommend it's best to master traditional Machine Learning first. Why not start with traditional Machine Learning, and develop your reasoning and intuition there? You'll only have an easier time learning Deep Learning after that. After all of it, you'll able to tackle all sorts of interesting problems.
 
 In any case, when you're ready to dive into Deep Learning, here are some helpful resources.
 
