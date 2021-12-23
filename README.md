@@ -159,7 +159,7 @@ Busy schedule? I hear you. It's hard to make time available every week. So, you 
 
 ### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
 
-I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning some ML and I don't think you will, either.
+I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I am glad I've learned what I have.
 
 ## Other courses
 
