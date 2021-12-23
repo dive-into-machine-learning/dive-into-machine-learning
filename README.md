@@ -141,15 +141,27 @@ You might like to have a pet project to play with, on the side. When you are rea
 
 Also, you should grab an in-depth textbook to use as a reference. The two recommendations I saw repeatedly were _[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
-### Tips for studying
+* [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
 
-* Busy schedule? Read [Ray Li's review of Prof. Andrew Ng's course](https://rayli.net/blog/data/coursera-machine-learning-review/) for some helpful tips.
-* Review some of the ["Learning How to Learn"](https://www.coursera.org/learn/learning-how-to-learn/) videos. This is just about how to study in general. In the course, they [advocate the learn-by-doing approach](https://www.coursera.org/learn/learning-how-to-learn/lecture/8IUbH/interview-with-dr-terrence-sejnowski), as we're doing here. You'll get various other tips that are easy to apply, but go a long way to make your time investment more effective.
-* Review tips from [Nam Vu's guide to learning ML as a software engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers#the-daily-plan).
+### Tips for taking this course
+
+* [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
+* If you're wondering, _Is it still a relevant course?_ or trying to figure out if it fits for you personally, check out these reviews:
+    * [Review: Andrew Ng's Machine Learning Course](towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
+    * [The user reviews on Coursera](www.coursera.org/learn/machine-learning/reviews) or [here](www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews)
+
+### Tips for studying on a busy schedule
+
+Busy schedule? I hear you. It's hard to make time available every week. So, you can try to study more _effectively_ within the time you have available. Here are some ways to do that:
+
+* ["Learning How to Learn" by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn/) by Barbara Oakley, a free video course on Coursera.
+* Prefer book/audiobook? These are great options:
+  * [Barbara Oakley's book _A Mind for Numbers: How to Excel at Math and Science_](https://barbaraoakley.com/books/a-mind-for-numbers) ([goodreads](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)) — "We all have what it takes to excel in areas that don't seem to come naturally to us at first"
+  * [_Make It Stick: the Science of Successful Learning_](www.retrievalpractice.org/make-it-stick) ([goodreads](www.goodreads.com/book/show/18770267-make-it-stick))
 
 ### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
 
-I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning about ML and I don't think you will, either.
+I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I don't regret investing time in learning some ML and I don't think you will, either.
 
 ## Other courses
 
@@ -159,7 +171,7 @@ I work as a software developer, and I am not a machine learning expert. Ultimate
 * **Data science courses as Jupyter Notebooks:**
   * [Practical Data Science](http://radimrehurek.com/data_science_python/)
   * [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/). Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
+* [Prof. Pedro Domingos's introductory video series](www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
 * Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
 * Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
@@ -264,6 +276,13 @@ This advice, to do practice studies and learn from review, is based on [a conver
 
 As you repeat this process, your practice studies will become more scientific, interesting, and focused. Also, [here's a video about the scientific method in data science.](https://101.datascience.community/2012/06/27/the-data-scientific-method/))
 
+</details>
+
+<details>
+<summary>More ways to build a machine learning career</summary>
+
+* ["Advice on building a machine learning career and reading research papers by Prof. Andrew Ng"](www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html)
+	
 </details>
 
 #### Some communities to know about
