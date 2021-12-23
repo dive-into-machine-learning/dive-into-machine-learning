@@ -334,6 +334,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* [`explosion/thinc`](https://github.com/explosion/thinc), "A refreshing functional take on deep learning, compatible with your favorite libraries"
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
 ### Easier sharing of deep learning models and demos
@@ -435,6 +436,11 @@ Here are some other guides to learning Machine Learning. They can be alternative
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
 * [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2_ by Sebastian Raschka and Vahid Mirjalili](https://www.goodreads.com/book/show/25545994-python-machine-learning)
+* If you are interested in _)NLP (Natural Language Processing)_, maybe check out these resources:
+  * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy) - "spaCy is a library for advanced Natural Language Processing in Python and Cython."
+    * [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
+    * [spaCy projects](https://spacy.io/usage/projects) - "End-to-end NLP workflows from prototype to production"
+  * [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
 * [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
 [(↑ Back to top)](#dive-into-machine-learning--)
