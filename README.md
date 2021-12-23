@@ -224,7 +224,7 @@ Here is the abstract of [Machine Learning: The High-Interest Credit Card of Tech
 If you're following this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
 * **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
-* **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices. There's an [accompanying video](http://cs.stanford.edu/~jsteinhardt/wildml2016nips/videos/1_2_Martin.wmv).
+* **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices.
 * [The High Cost of Maintaining Machine Learning Systems](http://www.kdnuggets.com/2015/01/high-cost-machine-learning-technical-debt.html)
 * [Overfitting vs. Underfitting: A Conceptual Explanation](https://towardsdatascience.com/overfitting-vs-underfitting-a-conceptual-explanation-d94ee20ca7f9)
 * [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
@@ -334,6 +334,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* [`explosion/thinc`](https://github.com/explosion/thinc), "A refreshing functional take on deep learning, compatible with your favorite libraries"
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
 ### Easier sharing of deep learning models and demos
@@ -415,9 +416,19 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 [(↑ Back to top)](#dive-into-machine-learning--)
 
+### Natural Language Processing (NLP)
+
+This is just a small 
+
+* [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy) - "spaCy is a library for advanced Natural Language Processing in Python and Cython."
+  * [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
+  * [spaCy projects](https://spacy.io/usage/projects) - "End-to-end NLP workflows from prototype to production"
+* There are lots of NLP-related links in [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+
 ### Non-sequitur
 
-These next two resources are not about ML, but since you're here, you might find them interesting:
+These next two links are not related to ML. But since you're here, I have a hunch you might find them interesting too:
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
