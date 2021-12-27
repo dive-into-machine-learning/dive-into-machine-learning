@@ -145,8 +145,8 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 
 * [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
 * If you're wondering, _Is it still a relevant course?_ or trying to figure out if it fits for you personally, check out these reviews:
-    * [Review: Andrew Ng's Machine Learning Course](towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
-    * [The user reviews on Coursera](www.coursera.org/learn/machine-learning/reviews) or [here](www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews)
+    * [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
+    * [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews) or [here](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews)
 
 ### Tips for studying on a busy schedule
 
@@ -155,7 +155,7 @@ Busy schedule? I hear you. It's hard to make time available every week. So, you 
 * ["Learning How to Learn" by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn/) by Barbara Oakley, a free video course on Coursera.
 * Prefer book/audiobook? These are great options:
   * [Barbara Oakley's book _A Mind for Numbers: How to Excel at Math and Science_](https://barbaraoakley.com/books/a-mind-for-numbers) ([goodreads](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)) — "We all have what it takes to excel in areas that don't seem to come naturally to us at first"
-  * [_Make It Stick: the Science of Successful Learning_](www.retrievalpractice.org/make-it-stick) ([goodreads](www.goodreads.com/book/show/18770267-make-it-stick))
+  * [_Make It Stick: the Science of Successful Learning_](www.retrievalpractice.org/make-it-stick) ([goodreads](https://www.goodreads.com/book/show/18770267-make-it-stick))
 
 ### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
 
@@ -253,7 +253,7 @@ You need **practice.** [On Hacker News, user olympus commented to say you could 
 
 You also need **understanding.** You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 	
-Competitions and challenges are just one way to practice. Remember, [Machine Learning isn't _just_ about Kaggle competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
+Competitions and challenges are just one way to practice! [Machine Learning isn't just about Kaggle competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
 	
 </details>
 
