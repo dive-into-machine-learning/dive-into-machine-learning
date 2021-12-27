@@ -141,7 +141,7 @@ You might like to have a pet project to play with, on the side. When you are rea
 
 Also, you should grab an in-depth textbook to use as a reference. The two recommendations I saw repeatedly were _[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
-### Tips for taking this course
+### Tips for this course
 
 * [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
 * If you're wondering, _Is it still a relevant course?_ or trying to figure out if it fits for you personally, check out these reviews:
@@ -150,7 +150,7 @@ Also, you should grab an in-depth textbook to use as a reference. The two recomm
 
 ### Tips for studying on a busy schedule
 
-Busy schedule? I hear you. It's hard to make time available every week. So, you can try to study more _effectively_ within the time you have available. Here are some ways to do that:
+It's hard to make time available every week. So, you can try to study more _effectively_ within the time you have available. Here are some ways to do that:
 
 * ["Learning How to Learn" by Barbara Oakley](https://www.coursera.org/learn/learning-how-to-learn/) by Barbara Oakley, a free video course on Coursera.
 * Prefer book/audiobook? These are great options:
