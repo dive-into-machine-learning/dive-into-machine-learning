@@ -277,7 +277,7 @@ As you repeat this process, your practice studies will become more scientific, i
 </details>
 
 <details>
-<summary>More ways to build a machine learning career</summary>
+<summary>More machine learning career advice</summary>
 
 * ["Advice on building a machine learning career and reading research papers by Prof. Andrew Ng"](https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html)
 	
