@@ -81,6 +81,8 @@ The whole paper is packed with value, but I want to call out two points:
 
 When you work on a real Machine Learning problem, you should focus your efforts on your **domain knowledge** and **data** before optimizing your choice of algorithms. Prefer to do simple things until you _have_ to increase complexity. You should not rush into neural networks because you think they're cool. To improve your model, **get more data.** Then use your knowledge of the problem to [explore and process](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning) the data. You should only optimize the choice of algorithms after you have gathered enough data, and you've processed it well.
 
+[Feature engineering](https://github.com/ashishpatel26/Amazing-Feature-Engineering) is a relevant term to know, regarding that last point.
+
 ## Jargon note
 
 * [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
@@ -157,7 +159,7 @@ It's hard to make time available every week. So, you can try to study more _effe
   * [Barbara Oakley's book _A Mind for Numbers: How to Excel at Math and Science_](https://barbaraoakley.com/books/a-mind-for-numbers) ([reviews](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)) — "We all have what it takes to excel in areas that don't seem to come naturally to us at first"
   * [_Make It Stick: the Science of Successful Learning_](https://www.retrievalpractice.org/make-it-stick) ([reviews](https://www.goodreads.com/book/show/18770267-make-it-stick))
 
-### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
+### (Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt))
 
 I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I am glad I've learned what I have.
 
@@ -224,7 +226,7 @@ Some good cheat sheets I've come across. (Please [submit a Pull Request](https:/
 
 # Assorted Tips and Resources
 
-## Risks
+## Risks - some starting points
 
 "Machine learning systems automatically learn programs from data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
@@ -241,7 +243,7 @@ If you're following this guide, you should read that paper. You can also [listen
 * [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 * ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
-That's not a comprehensive list, only a collection of starting-points to learn more.
+That's not a comprehensive list; when developing software, with or without ML, there are many risks to mind. It is important to have humility and keep an open, curious mind, when considering the topics of risks in ML, though. They really are "different beasts" than what we've seen on the job as developers, or otherwise outside of the ML field. So I hope these initial resources give you a sense of some things to look for, as you learn about the world of ML, including rinks. I won't mince more words on it, there are others who are better qualified to do so. Also, PRs are welcome!
 
 ## Skilling up
 
@@ -352,6 +354,7 @@ In any case, when you're ready to dive into Deep Learning, here are some helpful
 * [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
+* ["Tools to Design or Visualize Architecture of Neural Network"](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 * [`explosion/thinc`](https://github.com/explosion/thinc), "A refreshing functional take on deep learning, compatible with your favorite libraries"
 * [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
 
