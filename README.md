@@ -1,6 +1,6 @@
 # Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Hi there! This guide is for you if:
+This is a hack-first guide that you might find particularly useful if ...
 
 * You know Python or [you're learning it](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) :snake:
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
