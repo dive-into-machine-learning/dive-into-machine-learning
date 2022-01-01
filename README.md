@@ -462,8 +462,9 @@ These next two links are not related to ML. But since you're here, I have a hunc
 Here are some other guides to learning Machine Learning. They can be alternatives or supplements to this guide.
 
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb) by Dr. Randal S. Olson. Mentioned in Notebooks section as well, but it has a similar goal to this guide (introduce you, and show you where to go next). Rich "Further Reading" section.
-* Courses by cloud vendors (might be specific to their tools/platforms)
-  * [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners), [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners)
+* Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. I encourage you to "make the most" of the resources that they make freely available. To avoid getting locked into vendor specifics, just make sure you're learning from other resources as well.
+  * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
+  * [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners)
   * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
   * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
