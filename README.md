@@ -348,10 +348,14 @@ In early editions of this guide, there was no specific "Deep Learning" section. 
 
 In any case, when you're ready to dive into Deep Learning, here are some helpful resources.
 
-* **[Dive into Deep Learning](https://d2l.ai/) - An interactive book about deep learning**
-  * "Interactive deep learning book with code, math, and discussions"
+* **[_Dive into Deep Learning_](https://d2l.ai/) - An interactive book about deep learning** ([view on GitHub](https://github.com/d2l-ai/d2l-en))
+  * Quickstart
+    * [Run this book locally, using Jupyter Notebooks](https://d2l.ai/chapter_installation/index.html)
+    * [Run this book in your browser, using Google Colab](https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html)
   * "Implemented with NumPy/MXNet, PyTorch, and TensorFlow"
   * "Adopted at 200 universities from 50 countries"
+  * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
+  * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
 * **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
 * **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This is an excellent way to "get ahead of yourself" and hack-first. Then you will feel excited to move onto...
 * **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
