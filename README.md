@@ -243,7 +243,7 @@ If you're following this guide, you should read that paper. You can also [listen
 * [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 * ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
-That's not a comprehensive list; when developing software, with or without ML, there are many risks to mind. It is important to have humility and keep an open, curious mind, when considering the topics of risks in ML, though. They really are "different beasts" than what we've seen on the job as developers, or otherwise outside of the ML field. So I hope these initial resources give you a sense of some things to look for, as you learn about the world of ML, including rinks. I won't mince more words on it, there are others who are better qualified to do so. Also, PRs are welcome!
+That's not a comprehensive list, of course! They are just some starter points. PRs are welcome!
 
 ## Skilling up
 
