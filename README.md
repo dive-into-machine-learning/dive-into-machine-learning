@@ -2,18 +2,18 @@
 
 Hi there! This guide is for you if:
 
-* You know Python or [you're learning it](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) :snake:
+* You know Python or you're [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it](https://github.com/vinta/awesome-python#resources) [:snake:](https://github.com/ossu/computer-science#introduction-to-programming)
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 * You care about [the ethics of ML](https://github.com/EthicalML/awesome-artificial-intelligence-guidelines)
   * **[8 Responsible Machine Learning Principles](https://ethical.institute/principles.html)**
   * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * You learn by doing
 
-If that's you, join me in getting a bit ahead of yourself, and see if you want to learn more about the field. (For alternatives, [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).)
+If that's you, let's get started! For some great alternatives, [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).)
 
-Of course, there is no easy path to expertise. Also, _I'm not an expert!_ I just want to connect you with some great resources _from_ experts. Applications of ML are all around us. I think it's in the public interest that more of us learn more about ML.
+Of course, there is no easy path to expertise. Also, _I'm not an expert!_ I just want to connect you with some great resources _from_ experts. Applications of ML are all around us. I think it's in the public interest for more people to learn more about ML, especially hands-on, because there are many different ways to learn.
 
-Whatever motivates _you_ to dive into machine learning, if you know a bit of Python, these days you can get hands-on with a machine learning _"Hello World!"_ in less than an hour.
+Whatever motivates _you_ to dive into machine learning, if you know a bit of Python, these days you can get hands-on with a machine learning _"Hello World!"_ in minutes.
 
 # Let's get started
 
@@ -48,7 +48,7 @@ For other options, see:
 
 **[Learn how to use Jupyter Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
-Now, follow along with this brief exercise: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or a Notebook, it'll really boost your confidence.
+Now, follow along with this brief exercise: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or a Jupyter Notebook, coding along and executing the code in a notebook.
 
 [![I'll wait.](https://user-images.githubusercontent.com/2420688/29441281-00eff0c4-837f-11e7-9666-d653a1cd2372.jpeg)](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 
@@ -135,7 +135,7 @@ Pick one of the courses below and start on your way.
 
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
-**[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews) [And](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
+**[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
 You might like to have a pet project to play with, on the side. When you are ready for that, you could explore one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). If you're like me, you might also have fun with [`arxiv-public-datasets`, "scripts to grab public datasets from resources related to arXiv"](https://github.com/mattbierbaum/arxiv-public-datasets) ([arXiv](https://arxiv.org/abs/1905.00075)).
 
@@ -146,7 +146,7 @@ Also, it's recommended to grab a textbook to use as an in-depth reference. The t
 * [Study tips for Prof. Andrew Ng's course, by Ray Li](https://rayli.net/blog/data/coursera-machine-learning-review/)
 * If you're wondering, _Is it still a relevant course?_ or trying to figure out if it fits for you personally, check out these reviews:
     * [Review: Andrew Ng's Machine Learning Course](https://towardsdatascience.com/review-andrew-ngs-machine-learning-course-b905aafdb7d9)
-    * [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews) or [here](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews)
+    * [The user reviews on Coursera](https://www.coursera.org/learn/machine-learning/reviews)
 
 ### Tips for studying on a busy schedule
 
