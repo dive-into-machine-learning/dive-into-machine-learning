@@ -289,7 +289,11 @@ As you repeat this process, your practice studies will become more scientific, i
 <summary>More machine learning career-related links</summary>
 
 * ["Advice on building a machine learning career and reading research papers by Prof. Andrew Ng"](https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html)
-* [Papers With Code](https://paperswithcode.com/) is a popular site to follow, and a hub that can lead you to other resources. "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables." [GitHub.](https://github.com/paperswithcode)
+* Some links for finding/following interesting papers/code:
+    * [Papers With Code](https://paperswithcode.com/) is a popular site to follow, and it can lead you to other resources. [github.com/paperswithcode](https://github.com/paperswithcode)
+    * [MIT: Papers + Code](https://mitibmwatsonailab.mit.edu/research/papers-code/) — "Peer-review is the lifeblood of scientific validation and a guardrail against runaway hype in AI. Our commitment to publishing in the top venues reflects our grounding in what is real, reproducible, and truly innovative."
+    * [papers.labml.ai/papers/weekly](https://papers.labml.ai/papers/weekly), [monthly](https://papers.labml.ai/papers/monthly/)
+* Pull requests welcome!
 	
 </details>
 
@@ -366,7 +370,8 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
   * Some course notes about it: [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
 * **[_Deep Learning_](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville.
   * A notable testimonial for it is here: ["What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
-* [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - code, noteobooks - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
+* [paperswithcode.com](https://paperswithcode.com/) — "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables."
+* [`labmlai/annotated_deep_learning_paper_implementations`](https://github.com/labmlai/annotated_deep_learning_paper_implementations) — "Implementations/tutorials of deep learning papers with side-by-side notes." 50+ of them! Really nicely annotated and explained.
 * [JAX - official quickstart Colab Notebooks to get to know JAX](https://github.com/google/jax#quickstart-colab-in-the-cloud)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
