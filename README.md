@@ -359,7 +359,6 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
   * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
   * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
 * [`explosion/thinc`](https://github.com/explosion/thinc) is an interesting library that wraps **PyTorch**, **TensorFlow** and **MXNet** models. 
-  * "A refreshing functional take on deep learning"
   * "Concise functional-programming approach to model definition, using composition rather than inheritance."
   * "Integrated config system to describe trees of objects and hyperparameters."
 * [`fastai/fastbook`](https://github.com/fastai/fastbook) by Jeremy Howard and Sylvain Gugger — "an introduction to deep learning, fastai and PyTorch."
