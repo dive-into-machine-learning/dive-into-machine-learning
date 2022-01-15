@@ -137,7 +137,7 @@ Pick one of the courses below and start on your way.
 
 **[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
-You might like to have a pet project to play with, on the side. When you are ready for that, you could explore one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets). If you're like me, you might also have fun with [`arxiv-public-datasets`, "scripts to grab public datasets from resources related to arXiv"](https://github.com/mattbierbaum/arxiv-public-datasets) ([arXiv](https://arxiv.org/abs/1905.00075)).
+You might like to have a pet project to play with, on the side. When you are ready for that, you could explore one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), or [datasetlist.com](https://www.datasetlist.com/).
 
 Also, it's recommended to grab a textbook to use as an in-depth reference. The two I saw recommended most often were _[Understanding Machine Learning](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
@@ -157,9 +157,9 @@ It's hard to make time available every week. So, you can try to study more _effe
   * [Barbara Oakley's book _A Mind for Numbers: How to Excel at Math and Science_](https://barbaraoakley.com/books/a-mind-for-numbers) ([reviews](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers)) — "We all have what it takes to excel in areas that don't seem to come naturally to us at first"
   * [_Make It Stick: the Science of Successful Learning_](https://www.retrievalpractice.org/make-it-stick) ([reviews](https://www.goodreads.com/book/show/18770267-make-it-stick))
 
-### Take my tips with a [grain of salt](https://english.stackexchange.com/questions/21912/origin-of-take-this-question-with-a-grain-of-salt)
+### Take my tips with a grain of salt
 
-I work as a software developer, and I am not a machine learning expert. Ultimately I decided not to pursue specializing in ML, and instead it's a side interest. I am glad I've learned what I have.
+I am not a machine learning expert. I'm just a software developer and these resources/tips were useful to me as I learned some ML on the side.
 
 ## Other courses
 
@@ -286,9 +286,10 @@ As you repeat this process, your practice studies will become more scientific, i
 </details>
 
 <details>
-<summary>More machine learning career advice</summary>
+<summary>More machine learning career-related links</summary>
 
 * ["Advice on building a machine learning career and reading research papers by Prof. Andrew Ng"](https://www.kdnuggets.com/2019/09/advice-building-machine-learning-career-research-papers-andrew-ng.html)
+* [Papers With Code](https://paperswithcode.com/) is a popular site to follow, and a hub that can lead you to other resources. "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables." [GitHub.](https://github.com/paperswithcode)
 	
 </details>
 
@@ -345,30 +346,31 @@ Recommended awesomelists to save/star/watch:
 
 ## Deep Learning
 
-In early editions of this guide, there was no specific "Deep Learning" section. There are experts in the field who warn against jumping too far ahead.
+Take note: some experts warn us not to get too far ahead of ourselves, and encourage learning ML fundamentals before moving onto deep learning. That's paraphrasing from some of the linked coursework in this guide — for example, Prof. Andrew Ng encourages building foundations in ML before studying DL. Perhaps you're ready for that now, or perhaps you'd like to get started soon and learn some DL in parallel to your other ML learnings.
 
-In any case, when you're ready to dive into Deep Learning, here are some helpful resources.
+When you're ready to dive into Deep Learning, here are some helpful resources.
 
 * **[_Dive into Deep Learning_](https://d2l.ai/) - An interactive book about deep learning** ([view on GitHub](https://github.com/d2l-ai/d2l-en))
-  * Quickstart
+  * Quickstart:
     * [Run this book locally, using Jupyter Notebooks](https://d2l.ai/chapter_installation/index.html)
     * [Run this book in your browser, using Google Colab](https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html)
   * "Implemented with NumPy/MXNet, PyTorch, and TensorFlow"
   * "Adopted at 200 universities from 50 countries"
   * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
   * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
-* **[labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations)** - code, noteobooks - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
-* **["Have Fun With [Deep] Learning" by David Humphrey.](https://github.com/humphd/have-fun-with-machine-learning)** This one can be an excellent way to "get ahead of yourself" and hack-first. Perhaps as a ramp up to another course like...
+* [`explosion/thinc`](https://github.com/explosion/thinc) is an interesting library that wraps **PyTorch**, **TensorFlow** and **MXNet** models. 
+  * "A refreshing functional take on deep learning"
+  * "Concise functional-programming approach to model definition, using composition rather than inheritance."
+  * "Integrated config system to describe trees of objects and hyperparameters."
+* [`fastai/fastbook`](https://github.com/fastai/fastbook) by Jeremy Howard and Sylvain Gugger — "an introduction to deep learning, fastai and PyTorch."
 * **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
   * Some course notes about it: [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
-* **[_Deep Learning_](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville
-* [Quora: "What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer) — answered by Greg Brockman (Co-Founder & CTO at OpenAI, previously CTO at Stripe)
-* [Creative Applications of Deep Learning with Tensorflow](https://github.com/pkmital/CADL)
+* **[_Deep Learning_](https://www.deeplearningbook.org/), a free book published MIT Press.** By Ian Goodfellow, Yoshua Bengio and Aaron Courville.
+  * A notable testimonial for it is here: ["What are the best ways to pick up Deep Learning skills as an engineer?"](https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer)
+* [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - code, noteobooks - "Deep learning papers implemented, with side-by-side notes" - "We are actively maintaining this repo and adding new implementations almost weekly."
+* [JAX - official quickstart Colab Notebooks to get to know JAX](https://github.com/google/jax#quickstart-colab-in-the-cloud)
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations that are really great.
   * ["Feature Visualization: How neural networks build up their understanding of images"](https://distill.pub/2017/feature-visualization/)
-* [`explosion/thinc`](https://github.com/explosion/thinc), "A refreshing functional take on deep learning, compatible with your favorite libraries"
-* [`fastai/fastbook`](https://github.com/fastai/fastbook) by Jeremy Howard and Sylvain Gugger - "These notebooks cover an introduction to deep learning, [fastai](https://docs.fast.ai/), and [PyTorch](https://pytorch.org/)."
-* [JAX - official quickstart Colab Notebooks to get to know JAX](https://github.com/google/jax#quickstart-colab-in-the-cloud)
 
 ### Easier sharing of deep learning models and demos
 
