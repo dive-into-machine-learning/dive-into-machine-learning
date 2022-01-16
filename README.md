@@ -163,21 +163,24 @@ I am not a machine learning expert. I'm just a software developer and these reso
 
 ## Other courses
 
-<details>
-<summary>Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)</summary>
-
 * **Data science courses as Jupyter Notebooks:**
   * [Practical Data Science](http://radimrehurek.com/data_science_python/)
   * [Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)
-* [Prof. Pedro Domingos's introductory video series](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
-* [🆕 [2021]](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme) [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners) — "Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'."
+*  [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners) — [added in 2021](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme) — "10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'."
+  * See also [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
+
+<details>
+<summary>More free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)</summary>
+
 * Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science)
+* [Prof. Pedro Domingos's introductory video series](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr). [Prof. Pedro Domingos](https://homes.cs.washington.edu/~pedrod/) wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), which you may remember from earlier in the guide.
+* [`ossu/data-science`](https://github.com/ossu/data-science) (see also [`ossu/computer-science`](https://github.com/ossu/computer-science))
 * [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 * [Advanced Statistical Computing (Vanderbilt BIOS8366)](http://stronginference.com/Bios8366/lectures.html). Interactive.
 * Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
-* Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
+* Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) "Good for people with a strong mathematics background."
 * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
 * There are more alternatives linked [at the bottom of this guide](#more-ways-to-dive-into-machine-learning)
 
@@ -295,12 +298,12 @@ As you repeat this process, your practice studies will become more scientific, i
 
 #### Some communities to know about
 
-Great places to ask for feedback informally, and while you are learning:
 * [/r/LearnMachineLearning](https://www.reddit.com/r/learnmachinelearning/)
+* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
 * [/r/DataIsBeautiful](https://reddit.com/r/DataIsBeautiful)
 * [/r/DataScience](https://reddit.com/r/DataScience)
-* [/r/MachineLearning](https://reddit.com/r/MachineLearning)
 * [Cross-Validated: stats.stackexchange.com](https://stats.stackexchange.com/)
+* [`ossu/data-science` has a Discord server and newsletter](https://github.com/ossu/data-science#:~:text=Discord%20server)
 
 ### Peer review
 
