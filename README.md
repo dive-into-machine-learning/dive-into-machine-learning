@@ -1,6 +1,6 @@
 # Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Hi there! This guide is for you if:
+Hi there! You might find this guide helpful if:
 
 * You know Python or you're [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it](https://github.com/vinta/awesome-python#resources) [:snake:](https://github.com/ossu/computer-science#introduction-to-programming)
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
@@ -9,7 +9,7 @@ Hi there! This guide is for you if:
   * [Open Ethics Canvas](https://openethics.ai/canvas/)
 * You learn by doing
 
-If that's you, let's get started! For some great alternatives, [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
+For some great alternatives, [jump to the end](https://github.com/hangtwenty/dive-into-machine-learning#more-ways-to-dive-into-machine-learning) or [check out Nam Vu's guide, Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers).
 
 Of course, there is no easy path to expertise. Also, _I'm not an expert!_ I just want to connect you with some great resources _from_ experts. Applications of ML are all around us. I think it's in the public interest for more people to learn more about ML, especially hands-on, because there are many different ways to learn.
 
