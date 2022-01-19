@@ -5,6 +5,9 @@
 		},
 		{
 			"pattern": ".*trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas.*"
+		},
+		{
+			"pattern": ".*papers.labml.ai.*"
 		}
 	]
 }
