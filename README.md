@@ -29,7 +29,7 @@ Whatever motivates _you_ to dive into machine learning, if you know a bit of Pyt
   * scikit-learn
   * matplotlib
 
-You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. (Use whichever tool you want.)
+You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. (Use whichever tool works for you. [If you're unsure or need more context about using conda/virtualenv/poetry/pipenv, here's a very helpful guide](https://brainsteam.co.uk/2021/04/01/opinionated-guide-to-virtualenvs/#recommended-setups-for-various-use-cases))
 
 ### Cloud-based options
 
@@ -139,7 +139,7 @@ Pick one of the courses below and start on your way.
 
 You might like to have a pet project to play with, on the side. When you are ready for that, you could explore one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets), [paperswithcode.com/datasets](https://paperswithcode.com/datasets), or [datasetlist.com](https://www.datasetlist.com/).
 
-Also, it's recommended to grab a textbook to use as an in-depth reference. When originally writing this guide, the two I saw recommended most often were [_Elements of Statistical Learning_ by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) ([goodreads](https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning)) and [_Understanding Machine Learning_ by Shai Shalev-Shwartz and Shai Ben-David](https://web.archive.org/web/20210717194345/http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) ([goodreads](https://www.goodreads.com/en/book/show/19148900-understanding-machine-learning)). [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
+Also, it's recommended to grab a textbook to use as an in-depth reference. The two I saw recommended most often were _[Understanding Machine Learning](https://web.archive.org/web/20210717194345/http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_ and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) You can download each book free as PDFs at those links - so grab them!
 
 ### Tips for this course
 
@@ -458,10 +458,10 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ### Natural Language Processing (NLP)
 
-Start with other awesome guides:
+Start with other awesomelists:
 
-* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) has a section about NLP
 
 ### Non-sequitur
 
