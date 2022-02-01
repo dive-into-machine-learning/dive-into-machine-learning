@@ -242,7 +242,7 @@ If you're following this guide, you should read that paper. You can also [listen
 * [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 * ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
-That's not a comprehensive list, of course! They are just some starter points. PRs are welcome!
+That's not a comprehensive list, of course! They are just some gateways and starting-points. _Know some other resources? Please share them, pull requests are welcome!_
 
 ## Skilling up
 
