@@ -31,6 +31,12 @@ Whatever motivates _you_ to dive into machine learning, if you know a bit of Pyt
 
 You can install Python 3 and all of these packages in a few clicks with the [Anaconda Python distribution](https://www.anaconda.com/download/). Anaconda is popular in Data Science and Machine Learning communities. (Use whichever tool works for you. [If you're unsure or need more context about using conda/virtualenv/poetry/pipenv, here's a very helpful guide](https://brainsteam.co.uk/2021/04/01/opinionated-guide-to-virtualenvs/#recommended-setups-for-various-use-cases))
 
+<details><summary>Use the Python packaging tool you already know, if you can</summary>
+
+If you already know one, you're probably not going to need a different one for this purpose. If you're new to Python, or overwhelmed, fear not, the _basic choices_ are simple. You just need to decide Anaconda (Conda/Miniconda) or official Python, first. Then if it's the official, open-source Python way, you'll be using `virtualenv`, that's the common denominator. `virtualenv` itself is low-level, meant to be used via another tool. People used `virtualenvwrapper` (`mkvirtualenv`) for years; `venv` is something similar in the Python 3 stdlib. `virtualenvwrapper` may have special relevance for Windows users, but I work on a Mac so I'm not sure. What about `poetry`/`pipenv`? You won't need them _for learning_, at least _not for this material specifically._ You may want to avoid them while learning new stuff that has complicated dependencies, since they can introduced an abstraction layer that might not help you here. So even though I use `poetry` "by default" on open source projects,  my default for ML has still been `virtualenvwrapper` or Conda, depending on teammates' preferences too. Check [that link](https://brainsteam.co.uk/2021/04/01/opinionated-guide-to-virtualenvs/#recommended-setups-for-various-use-cases) to help you decide further.)
+
+</details>
+	
 ### Cloud-based options
 
 Some options you can use from your browser:
