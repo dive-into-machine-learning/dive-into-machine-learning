@@ -100,7 +100,8 @@ Subscribe to _**[Talking Machines](http://www.thetalkingmachines.com/)**_.
 
 I suggest this listening order:
 
-* **Download the ["Starting Simple"](http://www.thetalkingmachines.com/episodes/starting-simple-and-machine-learning-meds) episode, and listen to that soon.** It supports what we read from Domingos. [Ryan Adams](http://people.seas.harvard.edu/~rpa/) talks about starting simple, as we discussed above. Adams also stresses the importance of feature engineering. Feature engineering is an exercise of the "knowledge" Domingos writes about. In a later episode, [they share many concrete tips for feature engineering](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning).
+* **Download the ["Starting Simple"](http://www.thetalkingmachines.com/episodes/starting-simple-and-machine-learning-meds) episode, and listen to that soon.** It supports what we read from Domingos. [Ryan Adams](http://people.seas.harvard.edu/~rpa/) talks about starting simple, as we discussed above. Adams also stresses the importance of feature engineering. Fineering is an exercise of the "knowledge" Domingos writes about. In a later episode, [they share many concrete tips for feature engineering](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning).
+	* See also [`ashishpatel26/Amazing-Feature-Engineering`](https://github.com/ashishpatel26/Amazing-Feature-Engineering) and [`Alteryx/Featuretools`](https://github.com/alteryx/featuretools)
 * Then, over time, you can listen to the entire podcast series (start from the beginning).
 
 Want to subscribe to more podcasts? Here's [a good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) of suggestions, [and another](https://mty.ai/blog/the-best-ai-podcasts/).
@@ -233,7 +234,7 @@ Some good cheat sheets I've come across. (Please [submit a Pull Request](https:/
 
 # Assorted Tips and Resources
 
-## Risks
+## Risks - some starting points
 
 "Machine learning systems automatically learn programs from data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
@@ -250,7 +251,7 @@ If you're following this guide, you should read that paper. You can also [listen
 * [11 Clever Methods of Overfitting and How to Avoid Them](http://hunch.net/?p=22)
 * ["So, you want to build an ethical algorithm?" An interactive tool to prompt discussions](https://cdt.info/ddtool/) [(source)](https://github.com/numfocus/algorithm-ethics)
 
-That's not a comprehensive list, only a collection of starting-points to learn more.
+That's not a comprehensive list, of course! They are just some gateways and starting-points. _Know some other resources? Please share them, pull requests are welcome!_
 
 ## Skilling up
 
