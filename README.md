@@ -460,12 +460,9 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ### Natural Language Processing (NLP)
 
-This is just a small 
+Start with other awesome guides:
 
-* [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy) - "spaCy is a library for advanced Natural Language Processing in Python and Cython."
-  * [Advanced NLP with spaCy: A free online course](https://github.com/ines/spacy-course)
-  * [spaCy projects](https://spacy.io/usage/projects) - "End-to-end NLP workflows from prototype to production"
-* There are lots of NLP-related links in [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [keon/awesome-nlp](https://github.com/keon/awesome-nlp)
 
 ### Non-sequitur
@@ -488,7 +485,7 @@ Here are some other guides to learning Machine Learning. They can be alternative
   * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
   * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
-* [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow_ by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+* [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning_ 2nd Edition by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2_ by Sebastian Raschka and Vahid Mirjalili](https://www.goodreads.com/book/show/25545994-python-machine-learning)
 * [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
