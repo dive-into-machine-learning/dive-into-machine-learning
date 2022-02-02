@@ -422,10 +422,10 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ----
 
-## Finding Open-Source Libraries
+## More lists
 
-* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**, a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning, libraries and software.
-* Bookmark [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language - with a section on Machine Learning.
+* **[`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)**
+* [svaksha/Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
