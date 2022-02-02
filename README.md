@@ -422,13 +422,6 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ----
 
-## More lists
-
-* **[`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)**
-* [svaksha/Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
-* For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
-* Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
-
 ## Non-sequitur
 
 These next two links are non-sequiturs, not specifically related to ML. But since you're here, I have a hunch you might find them interesting too:
@@ -451,6 +444,7 @@ Here are some other guides to learning Machine Learning. They can be alternative
 * [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/) is good for people who are more familiar with Java or Scala than Python.
 * [ageron/handson-ml2](https://github.com/ageron/handson-ml2) aka [_Hands-On Machine Learning_ 2nd Edition by Aurélien Geron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) aka [_Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2_ by Sebastian Raschka and Vahid Mirjalili](https://www.goodreads.com/book/show/25545994-python-machine-learning)
+* [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning), [`svaksha/Pythonidae`](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
 * [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
 
 [(↑ Back to top)](#dive-into-machine-learning--)
