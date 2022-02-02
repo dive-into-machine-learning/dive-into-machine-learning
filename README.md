@@ -393,10 +393,6 @@ That quote is from ["The UX of AI" by Josh Lovejoy](https://design.google/librar
 
 ---
 
-## More lists about Python/ML
-
-
-
 ## More Data Science materials
 
 Here are some additional Data Science resources:
