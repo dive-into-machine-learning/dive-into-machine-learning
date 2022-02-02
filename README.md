@@ -194,8 +194,19 @@ You'll want to get more familiar with Pandas.
   * [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 * Bookmarks for scaling `pandas` and alternatives
   * [`dask`](https://dask.org/): A Pandas-like interface, but for larger-than-memory data and "under the hood" parallelism.
-  * [`vaex`](https://vaex.io): "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second" 
-  * See also: the MLOps section [later in this guide](#production-deployment-mlops).
+  * [`vaex`](https://vaex.io): "Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualize and explore big tabular data at a billion rows per second"
+
+## Supplement: Troubleshooting
+
+These debugging tools can be used inside (or outside) a Jupyter notebook:
+
+* [`birdseye`](https://birdseye.readthedocs.io/en/latest/integrations.html#jupyter-ipython-notebooks),
+  [`snoop`](https://github.com/alexmojaki/snoop)
+* [`pandas-log`](https://github.com/eyaltrabelsi/pandas-log.git)
+
+There are many more tools than that, but those might get you started, or might be
+especially useful while you're learning. Beyond learning, troubleshooting is more than just
+logs or debuggers, of course... [there's also some MLOps links, later in this guide](#production-deployment-mlops).
 
 ## Supplement: Cheat Sheets
 
