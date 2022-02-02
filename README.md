@@ -431,7 +431,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ## Non-sequitur
 
-These next two links are not related to ML. But since you're here, I have a hunch you might find them interesting too:
+These next two links are non-sequiturs, not specifically related to ML. But since you're here, I have a hunch you might find them interesting too:
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
