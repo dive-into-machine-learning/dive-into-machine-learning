@@ -115,7 +115,6 @@ Pick one of the courses below and start on your way.
 
 **[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
-
 It's recommended to grab a textbook to use as an in-depth reference. The two I saw recommended most often were _[Understanding Machine Learning](https://web.archive.org/web/20210717194345/http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)_
 and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29)
 
@@ -394,25 +393,6 @@ That quote is from ["The UX of AI" by Josh Lovejoy](https://design.google/librar
 
 ---
 
-## Big data
-
-<details>
-<summary>Here are some useful links regarding Big Data and ML.
-</summary>
-
-* [10 things statistics taught us about big data analysis](https://www.kdnuggets.com/2015/02/10-things-statistics-big-data-analysis.html) (and some more food for thought: ["What Statisticians think about Data Scientists"](https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists))
-* ["Talking Machines" #12](https://www.thetalkingmachines.com/episodes/economic-impact-machine-learning-and-using-kernel-trick-big-data): Interviews Prof. Andrew Ng (from [his course, which has its own module on big data](https://www.coursera.org/learn/machine-learning)); this episode covers some problems relevant to _high-dimensional_ data
-* ["Talking Machines" #15: "Really Really Big Data and Machine Learning in Business"](https://www.thetalkingmachines.com/episodes/really-really-big-data-and-machine-learning-business)
-* [0xnr/awesome-bigdata](https://github.com/0xnr/awesome-bigdata)
-
-See also: [the MLOps section!](#production-deployment-mlops)
-
-</details>
-
-If you are working with data-intensive applications at all, I'll recommend this book:
-
-* **[_Designing Data-Intensive Applications_](http://dataintensive.net)** by Martin Kleppman. (You can start reading it online, free, via Safari Books.) It's not specific to Machine Learning, but you can bridge that gap yourself.
-
 ## More Data Science materials
 
 Here are some additional Data Science resources:
@@ -420,6 +400,7 @@ Here are some additional Data Science resources:
 * **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
 * Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
 * [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
+* [`r0f1/datascience`](https://github.com/r0f1/datascience) — "A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks."
 
 ### Aside: Bayesian Statistics and Machine Learning
 
@@ -441,18 +422,16 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ----
 
-## Finding Open-Source Libraries
+## More lists
 
-* Bookmark **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**,
-  a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) Machine Learning
-  libraries and software.
-* Bookmark [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language - with a section on Machine Learning.
+* **[`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)**
+* [svaksha/Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
 * For Machine-Learning libraries that might not be on PyPI, GitHub, etc., there's [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/). Seems to feature many academic libraries.
 * Julia: [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning), a curated list of [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Julia language - with a section on Machine Learning.
 
 ## Non-sequitur
 
-These next two links are not related to ML. But since you're here, I have a hunch you might find them interesting too:
+These next two links are non-sequiturs, not specifically related to ML. But since you're here, I have a hunch you might find them interesting too:
 
 * Maggie Appleton's ["A Brief History & Ethos of the Digital Garden"](https://maggieappleton.com/garden-history)
 * Shawn Wang's ["Digital Garden Terms of Service"](https://www.swyx.io/digital-garden-tos/)
