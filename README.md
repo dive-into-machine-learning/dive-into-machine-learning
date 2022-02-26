@@ -66,7 +66,7 @@ Let's learn a bit more about Machine Learning, and a couple of common ideas and 
 
 It won't take long. It's a beautiful introduction ... Try not to drool too much!
 
-## A Few Useful Things to Know about Machine Learning
+## "A Few Useful Things to Know about Machine Learning"
 
 OK. Let's dive deeper.
 
@@ -218,7 +218,7 @@ Here is the abstract of [Machine Learning: The High-Interest Credit Card of Tech
 
 > Machine learning offers a fantastically powerful toolkit for building complex systems quickly. This paper argues that it is dangerous to think of these quick wins as coming for free. Using the framework of technical debt, we note that it is remarkably easy to incur massive ongoing maintenance costs at the system level when applying machine learning. The goal of this paper is highlight several machine learning specific risk factors and design patterns to be avoided or refactored where possible. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, changes in the external world, and a variety of system-level anti-patterns.
 
-If you're following this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
+If you're reading this guide, you should read that paper. You can also [listen to a podcast episode interviewing one of the authors of this paper](https://softwareengineeringdaily.com/2015/11/17/machine-learning-and-technical-debt-with-d-sculley/).
 
 * **[Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning), "a curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning."** It includes a section about [privacy-preserving ML](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning), by the way!
 * **["Rules of Machine Learning: Best Practices for [Reliable] ML Engineering,"](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)** by Martin Zinkevich, regarding ML engineering practices.
@@ -402,7 +402,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 ## More ways to "Dive into Machine Learning"
 
-Here are some other guides to learning Machine Learning. They can be alternatives or supplements to this guide.
+Here are some other guides to learning Machine Learning.
 
 * Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. I encourage you to "make the most" of the resources that they make freely available. To avoid getting locked into vendor specifics, just make sure you're learning from other resources as well.
   * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
