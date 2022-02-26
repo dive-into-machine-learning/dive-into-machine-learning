@@ -90,7 +90,7 @@ Next, code along with one or more of these notebooks.
     - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 - Series of notebooks:
-  - **2022:** [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) aka [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+  - **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — notebooks from [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 
 Find more great Jupyter Notebooks when you're ready:
 
@@ -297,7 +297,7 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
 * [paperswithcode.com](https://paperswithcode.com/) — "The mission of Papers with Code is to create a free and open resource with Machine Learning papers, code, datasets, methods and evaluation tables."
 * [`labmlai/annotated_deep_learning_paper_implementations`](https://github.com/labmlai/annotated_deep_learning_paper_implementations) — "Implementations/tutorials of deep learning papers with side-by-side notes." 50+ of them! Really nicely annotated and explained.
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations, definitely worth exploring and following!
-* 
+
 </details>
 
 ### Easier sharing of deep learning models and demos
