@@ -284,7 +284,7 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
   * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
   * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
 
-<details><summary>More links!</summary>
+<details><summary>More deep learning links</summary>
 
 * **[Prof. Andrew Ng's](https://scholar.google.com/citations?user=mG4imMEAAAAJ&hl=en) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)!** There five courses, as part of the [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning). These courses are part of his new venture, [deeplearning.ai](https://www.deeplearning.ai)
   * Some course notes about it: [ashishpatel26/Andrew-NG-Notes](https://github.com/ashishpatel26/Andrew-NG-Notes)
