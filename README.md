@@ -422,6 +422,6 @@ Here are some other guides to learning Machine Learning. They can be alternative
   * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
 * [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning), [`svaksha/Pythonidae`](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
 * [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
-* **2022:** [rasbt/machine-learning-book](https://github.com/rasbt/machine-learning-book) aka [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
+* **2022:** [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://github.com/rasbt/machine-learning-book)
 
 [(↑ Back to top)](#dive-into-machine-learning--)
