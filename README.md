@@ -281,8 +281,6 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
   * Quickstart:
     * [Run this book locally, using Jupyter Notebooks](https://d2l.ai/chapter_installation/index.html)
     * [Run this book in your browser, using Google Colab](https://d2l.ai/chapter_appendix-tools-for-deep-learning/colab.html)
-  * "Implemented with NumPy/MXNet, PyTorch, and TensorFlow"
-  * "Adopted at 200 universities from 50 countries"
   * "The entire book is drafted in Jupyter notebooks, seamlessly integrating exposition figures, math, and interactive examples with self-contained code." 
   * "You can modify the code and tune hyperparameters to get instant feedback to accumulate practical experiences in deep learning."
 
