@@ -84,13 +84,13 @@ Read **["A Few Useful Things to Know about Machine Learning"](http://homes.cs.wa
 
 Next, code along with one or more of these notebooks.
 
+- Series of notebooks:
+  - **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — notebooks from [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 - [Dr. Randal Olson's Example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb): "let's pretend we're working for a startup that just got funded to create a smartphone app that automatically identifies species of flowers from pictures taken on the smartphone.  We've been tasked by our head of data science to create a demo machine learning model that takes four measurements from the flowers (sepal length, sepal width, petal length, and petal width) and identifies the species based on those measurements alone."
     - [Launch in Binder, no installation steps required](https://mybinder.org/v2/gh/rhiever/Data-Analysis-and-Machine-Learning-Projects/master?filepath=example-data-science-notebook%2FExample%20Machine%20Learning%20Notebook.ipynb)
 - Various topical notebooks:
     - [trekhleb/machine-learning-experiments](https://github.com/trekhleb/machine-learning-experiments)
     - [trekhleb/homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
-- Series of notebooks:
-  - **2022:** [`rasbt/machine-learning-book`](https://github.com/rasbt/machine-learning-book) — notebooks from [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 
 Find more great Jupyter Notebooks when you're ready:
 
@@ -102,7 +102,7 @@ Find more great Jupyter Notebooks when you're ready:
 
 Pick one of the courses below and start on your way.
 
-## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
+## [Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
 **[Prof. Andrew Ng's](https://hai.stanford.edu/people/andrew-ng) [_Machine Learning_](https://www.coursera.org/learn/machine-learning) is a popular and esteemed free online course. I've seen it [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [And emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
@@ -376,8 +376,6 @@ As you repeat this process, your practice studies will become more scientific, i
 Here are some additional Data Science resources:
 
 * **[Python Data Science Handbook, as Jupyter Notebooks](https://jakevdp.github.io/PythonDataScienceHandbook/)**
-* Accessible data science book, no coding experience required: [_Data Smart_ by John Foreman](https://www.goodreads.com/book/show/17682206-data-smart)
-* [Data Science Workflow: Overview and Challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext) (read the article *and also* the comment by Joseph McCarthy)
 * [`r0f1/datascience`](https://github.com/r0f1/datascience) — "A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks."
 
 ### Aside: Bayesian Statistics and Machine Learning
@@ -404,7 +402,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 Here are some other guides to learning Machine Learning.
 
-* Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. I encourage you to "make the most" of the resources that they make freely available. To avoid getting locked into vendor specifics, just make sure you're learning from other resources as well.
+* Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. To avoid getting locked into vendor specifics, you can make sure you're learning from other resources as well.
   * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
   * [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners)
   * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
