@@ -269,6 +269,13 @@ Recommended awesomelists to save/star/watch:
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
 * **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
 
+### Easier sharing of deep learning models and demos
+
+* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
+  * Easily try out deep learning models from your browser
+  * The demos link to papers/code on GitHub, if you want to dig in and see how something works
+  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
+
 ----
 
 ## Deep Learning
@@ -299,13 +306,6 @@ When you're ready to dive into Deep Learning, here are some helpful resources.
 * [Distill.pub](https://distill.pub/about/) publishes explorable explanations, definitely worth exploring and following!
 
 </details>
-
-### Easier sharing of deep learning models and demos
-
-* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
-  * Easily try out deep learning models from your browser
-  * The demos link to papers/code on GitHub, if you want to dig in and see how something works
-  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
 
 ----
 
