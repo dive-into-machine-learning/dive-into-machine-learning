@@ -22,9 +22,11 @@ If you're here, you might be interested in these projects.
 
 ----
 
-# ![Dive Into Machine Learning](./banner.png)
+[![Dive Into Machine Learning](./banner.png)](#)
 
-Hi there! You might find this guide helpful if:
+# Dive into Machine Learning
+
+Hi there! You might find this resource helpful if:
 
 * You know Python or [you're](https://github.com/alexmojaki/futurecoder) [learning](https://nbviewer.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb) [it](https://github.com/vinta/awesome-python#resources) [:snake:](https://github.com/ossu/computer-science#introduction-to-programming)
 * You're new to [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
