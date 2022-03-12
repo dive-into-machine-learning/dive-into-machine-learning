@@ -13,7 +13,7 @@ If you're here, you might be interested in these projects.
 
 #### Code against climate change
 
-* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions."
+* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions." Python + Jupyter Notebooks
 * [`philsturgeon/awesome-earth`](https://github.com/philsturgeon/awesome-earth)
 * [`daviddao/code-against-climate-change`](https://github.com/daviddao/code-against-climate-change)
 * [`protontypes/open-sustainable-technology`](https://github.com/protontypes/open-sustainable-technology)
