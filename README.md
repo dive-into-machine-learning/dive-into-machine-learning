@@ -180,6 +180,7 @@ I am not a machine learning expert. I'm just a software developer and these reso
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) course and the textbook [Computational and Inferential Thinking](https://www.inferentialthinking.com/) teaches critical concepts in Data Science.
 * Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror).](https://github.com/josephmisiti/machine-learning-module) "Good for people with a strong mathematics background."
 * [An epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
+* [`ujjwalkarn/Machine-Learning-Tutorials`](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * There are more alternatives linked [at the bottom of this guide](#more-ways-to-dive-into-machine-learning)
 
 </details>
@@ -427,13 +428,14 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 Here are some other guides to learning Machine Learning.
 
+* [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it. It can answer many questions and connect you with great resources.
+* [`ujjwalkarn/Machine-Learning-Tutorials`](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 * Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. To avoid getting locked into vendor specifics, you can make sure you're learning from other resources as well.
   * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
   * [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners)
   * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
-  * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) Amazon have open up their internal training to the public and also offer certification.
-* [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning), [`svaksha/Pythonidae`](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning) 
-* [Machine Learning for Software Engineers, by Nam Vu](https://github.com/ZuzooVn/machine-learning-for-software-engineers). In their words, it's a "top-down and results-first approach designed for software engineers." Definitely bookmark and use it, as well - it can answer lots of questions and connect you with great resources.
+  * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) "Amazon have open up their internal training to the public."
 * **2022:** [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://github.com/rasbt/machine-learning-book)
 
 [(↑ Back to top)](#dive-into-machine-learning)
