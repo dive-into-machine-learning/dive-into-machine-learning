@@ -4,7 +4,7 @@
 
 ### Initiatives
 
-If you're here, you might be interested in these projects.
+Before we [dive in](#dive-into-machine-learning), here are some notable projects and initiatives that might interest you as well.
 
 #### Related to machine learning
 
@@ -13,14 +13,14 @@ If you're here, you might be interested in these projects.
 
 #### Code against climate change
 
-* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions." Python + Jupyter Notebooks
+* [`ProjectDrawdown/solutions`](https://github.com/ProjectDrawdown/solutions) — [Project Drawdown](https://www.drawdown.org/) — "Project Drawdown entered the climate conversation with the publication of the 2017 book. With The Drawdown Review in 2020, the project continues its mission to inspire and communicate solutions." Python and Jupyter Notebooks.
 * [`philsturgeon/awesome-earth`](https://github.com/philsturgeon/awesome-earth)
 * [`daviddao/code-against-climate-change`](https://github.com/daviddao/code-against-climate-change)
 * [`protontypes/open-sustainable-technology`](https://github.com/protontypes/open-sustainable-technology)
 
 ----
 
-[![Dive Into Machine Learning](./banner.png)](#)
+[![Dive Into Machine Learning](./banner.png)](#dive-into-machine-learning)
 
 # Dive into Machine Learning
 
