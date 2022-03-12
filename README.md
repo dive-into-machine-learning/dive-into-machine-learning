@@ -432,10 +432,9 @@ Here are some other guides to learning Machine Learning.
 * [`ujjwalkarn/Machine-Learning-Tutorials`](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 * [`josephmisiti/awesome-machine-learning`](https://github.com/josephmisiti/awesome-machine-learning)
 * Courses by cloud vendors. These are usually high quality content but steer you heavily to use vendor-specific tools/services. To avoid getting locked into vendor specifics, you can make sure you're learning from other resources as well.
-  * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners)
-  * [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners)
-  * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) with TensorFlow APIs.
-  * [Amazon AWS](https://aws.amazon.com/training/learn-about/machine-learning/) "Amazon have open up their internal training to the public."
+  * [`microsoft/ML-For-Beginners`](https://github.com/microsoft/ML-For-Beginners), [`microsoft/Data-Science-For-Beginners`](https://github.com/microsoft/Data-Science-For-Beginners)
+  * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) ([more of their options](https://cloud.google.com/training/machinelearning-ai))
+  * [Amazon AWS](https://aws.amazon.com/machine-learning/mlu/) ([more of their options](https://aws.amazon.com/machine-learning/learn/))
 * **2022:** [_Machine Learning with PyTorch and Scikit-Learn_ by Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili](https://github.com/rasbt/machine-learning-book)
 
 [(↑ Back to top)](#dive-into-machine-learning)
