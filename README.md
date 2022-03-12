@@ -10,6 +10,7 @@ Before we [dive in](#dive-into-machine-learning), here are some notable projects
 
 * [AlgorithmWatch](https://algorithmwatch.org/en/) — [newsletter](https://algorithmwatch.org/en/newsletter/) — "a non-profit research and advocacy organization that is committed to watch, unpack and analyze automated decision-making (ADM) systems and their impact on society."
 * [`daviddao/awful-ai`](https://github.com/daviddao/awful-ai) — "Awful AI is a curated list to track current scary usages of AI — hoping to raise awareness"
+* [`humanetech-community/awesome-humane-tech`](https://github.com/humanetech-community/awesome-humane-tech) — "Promoting solutions that improve wellbeing, freedom and society"
 
 #### Code against climate change
 
