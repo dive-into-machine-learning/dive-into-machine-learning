@@ -301,7 +301,9 @@ Recommended awesomelists to save/star/watch:
 * 🐣 **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
   * Easily try out deep learning models from your browser
   * The demos link to papers/code on GitHub, if you want to dig in and see how something works
-  * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
+  * The models run in containers built by **[`cog`](https://github.com/replicate/cog),** "containers for machine learning." 
+    * It's an open-source tool for putting models into reproducible Docker containers. 
+    * You can put models in containers with just Python and YAML.
 
 ----
 
