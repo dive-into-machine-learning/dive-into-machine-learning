@@ -294,10 +294,11 @@ Recommended awesomelists to save/star/watch:
 * **[EthicalML/awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning#privacy-preserving-machine-learning)**
 * **[visenger/awesome-ml-model-governance](https://github.com/visenger/Awesome-ML-Model-Governance)**
 * **[visenger/awesome-MLOps](https://github.com/visenger/awesome-mlops)**
+* **[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)**
 
 ### Easier sharing of deep learning models and demos
 
-* **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
+* 🐣 **[Replicate](https://replicate.com) "makes it easy to share a running machine learning model"**
   * Easily try out deep learning models from your browser
   * The demos link to papers/code on GitHub, if you want to dig in and see how something works
   * The models run in containers built by [`cog`](https://github.com/replicate/cog), "containers for machine learning." It's an open-source tool for putting models into reproducible Docker containers.
