@@ -236,7 +236,7 @@ logs or debuggers, of course... [there's also some MLOps links, later in this gu
 
 # Assorted Tips and Resources
 
-## Risks - some starting points
+### Risks - some starting points
 
 "Machine learning systems automatically learn programs from data." Pedro Domingos, in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) The programs you generate will require maintenance. Like any way of creating programs faster, you can rack up [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
