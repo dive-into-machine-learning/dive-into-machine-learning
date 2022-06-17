@@ -303,6 +303,7 @@ Recommended awesomelists to save/star/watch:
   * The models run in containers built by **[`cog`](https://github.com/replicate/cog),** "containers for machine learning." 
     * It's an open-source tool for putting models into reproducible Docker containers. 
     * You can put models in containers with just Python and YAML.
+  * There's an API for Replicate to run predictions for you
 
 ----
 
